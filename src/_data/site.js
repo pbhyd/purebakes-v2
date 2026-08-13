@@ -7,7 +7,7 @@ const basePath = normalizeBasePath(process.env.SITE_BASE_PATH);
 
 export default {
   environment,
-  url: process.env.SITE_URL || (production ? "https://purebakes.in/" : staging ? "https://pbhyd.github.io/purebakes-v2/" : "http://localhost:8080/"),
+  url: process.env.SITE_URL || (production ? "https://purebakes.in/" : staging ? "https://v2.purebakes.in/" : "http://localhost:8080/"),
   productionUrl: "https://purebakes.in/",
   basePath,
   robots: production ? "index, follow" : "noindex, nofollow",

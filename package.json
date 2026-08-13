@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "SITE_ENV=development SITE_BASE_PATH= eleventy --serve",
-    "build": "node scripts/clean-output.mjs && SITE_ENV=staging SITE_BASE_PATH=/purebakes-v2 eleventy && node scripts/gallery-images.mjs",
+    "build": "node scripts/clean-output.mjs && SITE_ENV=staging SITE_BASE_PATH= eleventy && node scripts/gallery-images.mjs",
     "build:production": "node scripts/clean-output.mjs && SITE_ENV=production SITE_BASE_PATH= eleventy && node scripts/gallery-images.mjs",
     "gallery:migrate": "node scripts/gallery-migrate.mjs",
     "gallery:add": "node scripts/gallery-add.mjs",

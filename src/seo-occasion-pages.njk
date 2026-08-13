@@ -9,17 +9,17 @@ pageType: occasion
 status: published
 index: true
 eleventyComputed:
-  title: "{{ landing.title }}"
-  description: "{{ landing.description }}"
+  title: "{{ landing.title | safe }}"
+  description: "{{ landing.description | safe }}"
   canonical: "https://purebakes.in{{ landing.url }}"
   pageSlug: "{{ landing.key }}"
-  h1: "{{ landing.h1 }}"
+  h1: "{{ landing.h1 | safe }}"
   eyebrow: "Made for the occasion"
-  intro: "{{ landing.intro }}"
-  pageContext: "{{ landing.h1 }}"
+  intro: "{{ landing.intro | safe }}"
+  pageContext: "{{ landing.h1 | safe }}"
   parentUrl: "/cakes/"
   parentLabel: "Cakes"
-  breadcrumbLabel: "{{ landing.h1 }}"
+  breadcrumbLabel: "{{ landing.h1 | safe }}"
 ---
 {% set portfolio = gallery | occasionPortfolio(landing, 8) %}{% set portfolioHeading = landing.h1 + " from our studio" %}{% set portfolioIntro = landing.key | occasionPortfolioIntro %}{% include "components/seo-portfolio.njk" %}
 <section class="seo-copy-block"><div><p class="eyebrow">Designed around you</p><h2>From reference to original design</h2></div><div><p>{{ landing.guidance }}</p><p>{{ business.eggOptions }} A 50% advance confirms the order, with the balance completed before pickup or before a delivery cab is booked.</p></div></section>

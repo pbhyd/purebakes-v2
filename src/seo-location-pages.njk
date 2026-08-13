@@ -13,18 +13,18 @@ status: published
 index: true
 
 eleventyComputed:
-  title: "{{ landing.title }}"
-  description: "{{ landing.description }}"
+  title: "{{ landing.title | safe }}"
+  description: "{{ landing.description | safe }}"
   canonical: "{{ landing.canonical }}"
   pageSlug: "{{ landing.key }}"
   pageClassification: "{{ landing.classification }}"
   h1: "{{ landing.h1 | safe }}"
   eyebrow: "Serving celebrations across Hyderabad"
-  intro: "{{ landing.intro }}"
-  pageContext: "a celebration in {{ landing.name }}"
+  intro: "{{ landing.intro | safe }}"
+  pageContext: "a celebration in {{ landing.name | safe }}"
   parentUrl: "/areas-we-serve/"
   parentLabel: "Areas We Serve"
-  breadcrumbLabel: "{{ landing.name }}"
+  breadcrumbLabel: "{{ landing.name | safe }}"
 ---
 
 {% set portfolio = gallery | galleryByIds(landing.portfolioImageIds) %}

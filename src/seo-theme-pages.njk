@@ -9,19 +9,19 @@ pageType: theme
 status: published
 index: true
 eleventyComputed:
-  title: "{{ landing.title }}"
-  description: "{{ landing.description }}"
+  title: "{{ landing.title | safe }}"
+  description: "{{ landing.description | safe }}"
   canonical: "https://purebakes.in{{ landing.url }}"
   pageSlug: "{{ landing.key }}"
-  h1: "{{ landing.h1 }}"
+  h1: "{{ landing.h1 | safe }}"
   eyebrow: "Theme inspiration"
-  intro: "{{ landing.intro }}"
-  pageContext: "{{ landing.h1 }}"
+  intro: "{{ landing.intro | safe }}"
+  pageContext: "{{ landing.h1 | safe }}"
   parentUrl: "/cakes/"
   parentLabel: "Cakes"
   grandparentUrl: "/cakes/themes/"
   grandparentLabel: "Cake Themes"
-  breadcrumbLabel: "{{ landing.h1 }}"
+  breadcrumbLabel: "{{ landing.h1 | safe }}"
 ---
 {% set portfolio = gallery | galleryBy("themes", landing.key, 8) %}{% set portfolioHeading = landing.h1 + " from our portfolio" %}{% set portfolioIntro = "Explore real " + landing.h1 | lower + " created by PureBakes for birthdays and special celebrations." %}{% include "components/seo-portfolio.njk" %}
 <section class="seo-copy-block"><div><p class="eyebrow">Design direction</p><h2>{{ landing.h1 }} for memorable celebrations</h2></div><div><p>{{ landing.ideas }}</p><p>Every design is made to order. We can adapt colour, tiering and finishing details while keeping the final composition personal to your celebration.</p></div></section>
