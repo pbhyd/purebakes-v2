@@ -20,7 +20,8 @@ jobs:
       - run: npm ci
       - run: npm test
         env:
-          SITE_BASE_PATH: /purebakes-v2
+          SITE_ENV: staging
+          SITE_BASE_PATH: ""
       - uses: actions/upload-pages-artifact@v3
         with: { path: _site }
   deploy:
