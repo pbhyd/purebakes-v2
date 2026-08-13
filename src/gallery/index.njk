@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+title: Cake Portfolio | Custom Cake Designs by PureBakes Hyderabad
+description: Explore a preview of real custom cakes created by PureBakes in Hyderabad. Full searchable portfolio migration is coming in the next phase.
+pageType: gallery
+pageSlug: gallery
+canonical: https://purebakes.in/gallery/
+breadcrumbs:
+  - { label: Home, url: / }
+  - { label: Cake Portfolio }
+---
+<header class="page-hero wrap"><p class="eyebrow">Real PureBakes creations</p><h1>Explore Our<br><em>Cake Portfolio</em></h1><p>Search hundreds of real cake designs. This Phase 2 preview establishes the portfolio experience; the full historical gallery arrives in the dedicated migration phase.</p></header>
+<section class="gallery-shell wrap section"><div class="gallery-tools"><label for="gallery-search">Search cake designs</label><input id="gallery-search" type="search" placeholder="Try butterfly, jungle, birthday…" disabled><button disabled>Occasion</button><button disabled>Theme</button><span>Full search and filters coming with gallery migration.</span></div><div class="preview-grid">{% for cake in featuredCakes %}<article>{% include "components/picture.njk" %}<h2>{{ cake.caption }}</h2><p>{{ cake.occasion }}</p></article>{% endfor %}</div></section>

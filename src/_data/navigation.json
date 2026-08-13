@@ -1,0 +1,8 @@
+[
+  { "label": "Cakes", "url": "/cakes/" },
+  { "label": "Gallery", "url": "/gallery/" },
+  { "label": "Occasions", "url": "/cakes/#occasions" },
+  { "label": "Classes", "url": "/classes/" },
+  { "label": "About", "url": "/#experience" },
+  { "label": "Contact", "url": "/#contact" }
+]

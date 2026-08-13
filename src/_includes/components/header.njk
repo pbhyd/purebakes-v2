@@ -1,0 +1,7 @@
+<header class="site-header" data-header>
+  <a class="brand" href="/" aria-label="PureBakes home"><img src="/assets/images/brand/pure-bakes-logo-360.png" alt="PureBakes" width="180" height="94"></a>
+  <nav class="desktop-nav" aria-label="Primary">{% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</nav>
+  <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu"><span></span><span></span><span></span><span class="sr-only">Open menu</span></button>
+  <button class="header-cta button button--small" type="button" data-availability-open data-cta-location="header">Check availability</button>
+  <div class="mobile-menu" id="mobile-menu" hidden><nav aria-label="Mobile primary">{% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</nav><button class="button" data-availability-open data-cta-location="mobile_menu">Check availability</button></div>
+</header>

@@ -1,0 +1,16 @@
+{
+  "name": "purebakes-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "SITE_ENV=development eleventy --serve",
+    "build": "SITE_ENV=staging eleventy",
+    "build:production": "SITE_ENV=production eleventy",
+    "validate": "node scripts/validate-site.mjs",
+    "test": "npm run build && npm run validate"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

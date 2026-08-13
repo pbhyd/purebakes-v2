@@ -1,0 +1,4 @@
+<figure class="{{ imageClass or 'cake-figure' }}">
+  <img src="{{ cake.small or cake.image }}"{% if cake.medium %} srcset="{{ cake.small }} 540w, {{ cake.medium }} 900w, {{ cake.image }} {{ cake.width }}w" sizes="{{ sizes or '(min-width: 60rem) 50vw, 100vw' }}"{% endif %} width="{{ cake.width }}" height="{{ cake.height }}" alt="{{ cake.alt }}"{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}>
+  {% if showCaption %}<figcaption>{{ cake.caption }}</figcaption>{% endif %}
+</figure>

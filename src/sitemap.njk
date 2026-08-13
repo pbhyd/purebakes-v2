@@ -1,0 +1,6 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{% if site.environment == "production" %}{% for item in collections.all %}{% if item.url and item.data.pageType and item.data.pageType != "error" %}<url><loc>{{ item.url | absoluteUrl(site.productionUrl) }}</loc><lastmod>{{ site.buildDate }}</lastmod></url>{% endif %}{% endfor %}{% endif %}</urlset>
