@@ -27,7 +27,7 @@ const representativePages = [
   "birthday-cakes-in-hyderabad/index.html",
   "first-birthday-cakes-for-boys-in-hyderabad/index.html",
   "anniversary-cakes-in-hyderabad/index.html",
-  "cakes/themes/floral-cakes/index.html",
+  "floral-cakes/index.html",
   "customized-cakes-lb-nagar/index.html",
   "customized-cakes-financial-district/index.html",
   "customized-cakes-kokapet/index.html"

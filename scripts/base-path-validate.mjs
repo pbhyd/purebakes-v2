@@ -28,7 +28,7 @@ const checks = [
 for (const [source, needle, label] of checks) assert(source.includes(needle), `${label} does not use expected base path: ${needle}`);
 
 const theme = await read("cakes/themes/index.html");
-assert(theme.includes(`href="${expected("/cakes/themes/unicorn-cakes/")}"`), "Theme link does not use expected base path");
+assert(theme.includes(`href="${expected("/unicorn-cakes/")}"`), "Theme link does not use expected base path");
 
 for (const source of [home, gallery, areas]) {
   assert(source.includes('href="https://purebakes.in/'), "Production canonical/SEO targets must remain purebakes.in");

@@ -40,8 +40,8 @@ const occasionCatalog = {
   "baby-shower":{label:"Baby shower cakes",url:"/baby-shower-cakes-in-hyderabad/",taxonomy:"baby-shower"}
 };
 const themeCatalog = {
-  butterfly:{label:"Butterfly cakes",url:"/cakes/themes/butterfly-cakes/"}, floral:{label:"Floral cakes",url:"/cakes/themes/floral-cakes/"}, jungle:{label:"Jungle cakes",url:"/cakes/themes/jungle-theme-cakes/"},
-  princess:{label:"Princess cakes",url:"/cakes/themes/princess-cakes/"}, superhero:{label:"Superhero cakes",url:"/cakes/themes/superhero-cakes/"}, "spider-man":{label:"Spider-Man cakes",url:"/cakes/themes/spiderman-cakes/"}, unicorn:{label:"Unicorn cakes",url:"/cakes/themes/unicorn-cakes/"}
+  butterfly:{label:"Butterfly cakes",url:"/butterfly-cakes/"}, floral:{label:"Floral cakes",url:"/floral-cakes/"}, jungle:{label:"Jungle cakes",url:"/jungle-theme-cakes/"},
+  princess:{label:"Princess cakes",url:"/princess-cakes/"}, superhero:{label:"Superhero cakes",url:"/superhero-cakes/"}, "spider-man":{label:"Spider-Man cakes",url:"/spiderman-cakes/"}, unicorn:{label:"Unicorn cakes",url:"/unicorn-cakes/"}
 };
 const occasionSets = [["birthday","anniversary","engagement"],["birthday","first-birthday-boy","baby-shower"],["first-birthday-girl","anniversary","wedding"],["birthday","first-birthday-girl","engagement"],["first-birthday-boy","anniversary","baby-shower"],["birthday","wedding","baby-shower"],["birthday","first-birthday-boy","first-birthday-girl"]];
 const themeSets = [["floral","butterfly"],["jungle","unicorn"],["princess","floral"],["superhero","spider-man"],["butterfly","unicorn"],["jungle","superhero"],["floral","princess"]];

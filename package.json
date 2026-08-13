@@ -20,10 +20,13 @@
     "positioning:validate": "node scripts/positioning-validate.mjs",
     "basepath:validate": "node scripts/base-path-validate.mjs staging",
     "basepath:validate:production": "node scripts/base-path-validate.mjs production",
+    "content:validate": "node scripts/customer-content-validate.mjs",
+    "theme-urls:validate": "node scripts/theme-url-validate.mjs staging",
+    "theme-urls:validate:production": "node scripts/theme-url-validate.mjs production",
     "seo:validate": "npm run build:production && node scripts/seo-validate.mjs",
     "validate": "node scripts/validate-site.mjs",
     "launch:validate": "node scripts/launch-validate.mjs staging",
-    "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate && npm run basepath:validate"
+    "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate && npm run basepath:validate && npm run content:validate && npm run theme-urls:validate"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",

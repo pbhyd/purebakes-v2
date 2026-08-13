@@ -6,7 +6,7 @@ Use `https://new.purebakes.in` after the staging workflow succeeds. For local re
 
 Test every representative page at **320, 360, 375, 390, and 430 px** wide first, then **768, 1024, 1280, and 1440 px**. Use browser zoom 100%. Repeat the mobile set in Safari on an iPhone and Chrome on Android when physical devices are available.
 
-Pages: `/`, `/gallery/`, `/cakes/`, `/faq/`, `/birthday-cakes-in-hyderabad/`, `/cakes/themes/floral-cakes/`, `/customized-cakes-lb-nagar/` (PROTECT), `/customized-cakes-financial-district/` (IMPROVE), `/customized-cakes-raidurgam/` (RETAIN), `/classes/`, `/terms-and-conditions/`, and a deliberate missing URL.
+Pages: `/`, `/gallery/`, `/cakes/`, `/faq/`, `/birthday-cakes-in-hyderabad/`, `/floral-cakes/`, `/customized-cakes-lb-nagar/` (PROTECT), `/customized-cakes-financial-district/` (IMPROVE), `/customized-cakes-raidurgam/` (RETAIN), `/classes/`, `/terms-and-conditions/`, and a deliberate missing URL.
 
 ## Visual and responsive checks
 

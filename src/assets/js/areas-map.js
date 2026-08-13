@@ -18,7 +18,7 @@ if (mapElement && dataElement) {
     try {
       if (!window.L || locations.length !== 41) throw new Error("Map resources unavailable");
       const map = window.L.map(mapElement, { scrollWheelZoom: false, tap: true, zoomControl: true, attributionControl: true });
-      window.L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+      window.L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors' }).addTo(map);
       const serviceIcon = window.L.divIcon({ className: "", html: '<span class="service-pin" aria-hidden="true"></span>', iconSize: [18, 18], iconAnchor: [9, 9], popupAnchor: [0, -8] });
       const bounds = [];
       locations.forEach((location) => {

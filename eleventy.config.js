@@ -17,6 +17,15 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("galleryBy", (records, field, key, limit = 8) => records.filter((record) => (record[field] || []).includes(key)).slice(0, limit));
   eleventyConfig.addFilter("galleryByIds", (records, ids = []) => ids.map((id) => records.find((record) => record.id === id)).filter(Boolean));
   eleventyConfig.addFilter("occasionPortfolio", (records, page, limit = 8) => { const split = page.key === "first-birthday-boys" ? "first-birthday-boy" : page.key === "first-birthday-girls" ? "first-birthday-girl" : null; return records.filter((record) => record.occasions.includes(split || page.taxonomy)).slice(0, limit); });
+  eleventyConfig.addFilter("occasionPortfolioIntro", (key) => ({
+    birthday: "Explore real PureBakes birthday cakes created in a wide range of themes, styles and celebration formats.",
+    "first-birthday-boys": "Explore real PureBakes first birthday cakes for boys, personalised around favourite colours, characters and playful themes.",
+    "first-birthday-girls": "Explore real PureBakes first birthday cakes for girls, created with colours, themes and details chosen for the celebration.",
+    anniversary: "Explore real PureBakes anniversary cakes designed for personal stories, shared memories and milestone years.",
+    engagement: "Explore real PureBakes engagement cakes created to complement the couple, setting and celebration style.",
+    wedding: "Explore elegant PureBakes wedding cakes designed as made-to-order centrepieces for Hyderabad celebrations.",
+    "baby-shower": "Explore real PureBakes baby shower cakes designed around colours, themes and personal celebration details."
+  }[key]));
   eleventyConfig.addFilter("findByKey", (records, key) => records.find((record) => record.key === key));
   eleventyConfig.addTransform("environmentBasePath", function (content) {
     if (!basePath || this.page.outputPath?.endsWith(".html") !== true) return content;
@@ -29,6 +38,18 @@ export default function (eleventyConfig) {
       return `srcset=${quote}${rewritten}${quote}`;
     });
     return output;
+  });
+  eleventyConfig.addTransform("externalCustomerLinks", function (content) {
+    if (this.page.outputPath?.endsWith(".html") !== true) return content;
+    return content.replace(/<a\b([^>]*)>/gi, (anchor, attributes) => {
+      const href = attributes.match(/\bhref=(['"])(https?:\/\/[^'"]+)\1/i)?.[2];
+      if (!href) return anchor;
+      let hostname;
+      try { hostname = new URL(href.replace(/&amp;/g, "&")).hostname.toLowerCase(); } catch { return anchor; }
+      if (hostname === "purebakes.in" || hostname.endsWith(".purebakes.in")) return anchor;
+      const cleaned = attributes.replace(/\s+target=(['"])[^'"]*\1/gi, "").replace(/\s+rel=(['"])[^'"]*\1/gi, "");
+      return `<a${cleaned} target="_blank" rel="noopener noreferrer">`;
+    });
   });
   return { dir: { input: "src", output: "_site", includes: "_includes", data: "_data" }, htmlTemplateEngine: "njk", markdownTemplateEngine: "njk" };
 }
