@@ -28,7 +28,8 @@ assert.match(script, /icon: serviceIcon, title: `\$\{location\.name\} — Area W
 assert.match(base, /pageSlug == "areas-we-serve"[^]*leaflet\.js/, "Leaflet must be page-scoped");
 
 const html = await read("_site/areas-we-serve/index.html");
-const staticLinks = [...html.matchAll(/<a href="(\/customized-cakes-[^"]+\/)" data-area-page-link/g)].map((match) => match[1]);
+const basePath = process.env.SITE_BASE_PATH || (html.includes("/purebakes-v2/") ? "/purebakes-v2" : "");
+const staticLinks = [...html.matchAll(/<a href="(\/[^" ]*customized-cakes-[^"]+\/)" data-area-page-link/g)].map((match) => basePath && match[1].startsWith(`${basePath}/`) ? match[1].slice(basePath.length) : match[1]);
 assert.equal(staticLinks.length, 41, "Generated page must retain 41 static fallback links");
 assert.equal(new Set(staticLinks).size, 41, "Generated static fallback links must be unique");
 for (const destination of destinations) assert(staticLinks.includes(destination), `Missing static destination ${destination}`);

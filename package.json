@@ -4,9 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "SITE_ENV=development eleventy --serve",
-    "build": "node scripts/clean-output.mjs && SITE_ENV=staging eleventy && node scripts/gallery-images.mjs",
-    "build:production": "node scripts/clean-output.mjs && SITE_ENV=production eleventy && node scripts/gallery-images.mjs",
+    "dev": "SITE_ENV=development SITE_BASE_PATH= eleventy --serve",
+    "build": "node scripts/clean-output.mjs && SITE_ENV=staging SITE_BASE_PATH=/purebakes-v2 eleventy && node scripts/gallery-images.mjs",
+    "build:production": "node scripts/clean-output.mjs && SITE_ENV=production SITE_BASE_PATH= eleventy && node scripts/gallery-images.mjs",
     "gallery:migrate": "node scripts/gallery-migrate.mjs",
     "gallery:add": "node scripts/gallery-add.mjs",
     "gallery:validate": "node scripts/gallery-validate.mjs",
@@ -18,10 +18,12 @@
     "photo:validate": "node scripts/cake-photo-validate.mjs",
     "areas:validate": "node scripts/areas-validate.mjs",
     "positioning:validate": "node scripts/positioning-validate.mjs",
+    "basepath:validate": "node scripts/base-path-validate.mjs staging",
+    "basepath:validate:production": "node scripts/base-path-validate.mjs production",
     "seo:validate": "npm run build:production && node scripts/seo-validate.mjs",
     "validate": "node scripts/validate-site.mjs",
     "launch:validate": "node scripts/launch-validate.mjs staging",
-    "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate"
+    "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate && npm run basepath:validate"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
