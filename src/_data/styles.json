@@ -1,0 +1,9 @@
+{
+  "floral": { "name": "Floral" },
+  "heart-shape": { "name": "Heart Shape" },
+  "minimal": { "name": "Minimal" },
+  "photo": { "name": "Photo Cake" },
+  "three-tier": { "name": "Three Tier" },
+  "two-tier": { "name": "Two Tier" },
+  "vintage": { "name": "Vintage" }
+}

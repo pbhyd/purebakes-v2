@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-08-13T17:44:02.220Z",
+  "total": 472,
+  "counts": {
+    "themes": {
+      "floral": 50,
+      "butterfly": 40,
+      "animal": 23,
+      "car": 19,
+      "jungle": 13,
+      "princess": 10,
+      "superhero": 10,
+      "spider-man": 8,
+      "unicorn": 8,
+      "travel": 7,
+      "football": 6,
+      "cricket": 5,
+      "safari": 5,
+      "boss-baby": 4,
+      "mermaid": 2
+    },
+    "occasions": {
+      "birthday": 300,
+      "first-birthday": 61,
+      "anniversary": 32,
+      "first-birthday-boy": 32,
+      "first-birthday-girl": 27,
+      "engagement-wedding": 24,
+      "baby-shower": 11,
+      "bon-voyage": 7,
+      "half-birthday": 6,
+      "bridal-shower": 5,
+      "corporate": 5,
+      "baby-announcement": 4,
+      "smash-cake": 1
+    },
+    "styles": {
+      "floral": 50,
+      "two-tier": 17,
+      "photo": 15,
+      "heart-shape": 12,
+      "three-tier": 6,
+      "vintage": 6,
+      "minimal": 5
+    },
+    "flavours": {}
+  },
+  "gaps": {
+    "noTheme": 288,
+    "noOccasion": 16,
+    "noStyle": 375,
+    "noAlt": 0,
+    "unknownFlavour": 472
+  },
+  "candidateThresholds": {
+    "strong": 20,
+    "useful": 8,
+    "emerging": 4
+  },
+  "notes": [
+    "Theme/style assignments are conservative caption and filename candidates for owner review.",
+    "Occasions use reliable legacy category or explicit caption evidence.",
+    "No flavour was inferred; all flavour classification requires owner input."
+  ]
+}

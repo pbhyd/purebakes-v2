@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-08-13T17:43:56.934Z",
+  "pages": 41,
+  "classifications": {
+    "PROTECT": 5,
+    "IMPROVE": 6,
+    "RETAIN": 30
+  },
+  "uniqueIntros": 41,
+  "distinctPortfolioSelections": 41,
+  "suspicious": [],
+  "maxIntroSimilarity": {
+    "score": 0.4666666666666667,
+    "pages": [
+      "ameerpet",
+      "hitec-city"
+    ]
+  },
+  "maxPortfolioOverlap": {
+    "score": 0.23076923076923078,
+    "pages": [
+      "banjara-hills",
+      "moosapet"
+    ]
+  },
+  "fakeBranchSchemas": 0,
+  "customerVisibleInternalLanguage": 0
+}

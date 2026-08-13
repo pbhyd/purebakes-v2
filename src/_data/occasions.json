@@ -1,0 +1,15 @@
+{
+  "anniversary": { "name": "Anniversary" },
+  "baby-announcement": { "name": "Baby Announcement" },
+  "baby-shower": { "name": "Baby Shower" },
+  "birthday": { "name": "Birthday" },
+  "bon-voyage": { "name": "Bon Voyage" },
+  "bridal-shower": { "name": "Bridal Shower" },
+  "corporate": { "name": "Corporate" },
+  "engagement-wedding": { "name": "Engagement, Wedding & Reception" },
+  "first-birthday": { "name": "First Birthday" },
+  "first-birthday-boy": { "name": "First Birthday – Boy" },
+  "first-birthday-girl": { "name": "First Birthday – Girl" },
+  "half-birthday": { "name": "Half Birthday" },
+  "smash-cake": { "name": "Smash Cake" }
+}

@@ -1,0 +1,1825 @@
+{
+  "generatedAt": "2026-08-13T16:57:48.471Z",
+  "total": 41,
+  "classifications": {
+    "PROTECT": 5,
+    "IMPROVE": 6,
+    "RETAIN": 30
+  },
+  "pages": [
+    {
+      "location": "Ameerpet",
+      "legacyUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "newUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "bf374d6383c65cbd7f0c1126f5c55bc67cf63708aec79e1bf787932f168884a2",
+      "portfolioImageIds": [
+        "cake-0295",
+        "cake-0057",
+        "cake-0388",
+        "cake-0306",
+        "cake-0452",
+        "cake-0111",
+        "cake-0128",
+        "cake-0145"
+      ],
+      "faqKeys": [
+        "custom-ameerpet",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-begumpet/",
+        "/customized-cakes-punjagutta/",
+        "/customized-cakes-somajiguda/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Banjara Hills",
+      "legacyUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "newUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "148158bbe4d05913a0cb74288ac2f11ae6cfaf94e1f3a7fa98005d85bea1b329",
+      "portfolioImageIds": [
+        "cake-0430",
+        "cake-0063",
+        "cake-0094",
+        "cake-0443",
+        "cake-0352",
+        "cake-0245",
+        "cake-0262",
+        "cake-0279"
+      ],
+      "faqKeys": [
+        "custom-banjara-hills",
+        "cab-banjara-hills",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-jubilee-hills/",
+        "/customized-cakes-somajiguda/",
+        "/customized-cakes-mehdipatnam/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Begumpet",
+      "legacyUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "newUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "c025dea8e7a8bb492fb3887a38e5dfc4ae8350a9ff5b7fac132b0f39c9a3ba70",
+      "portfolioImageIds": [
+        "cake-0181",
+        "cake-0461",
+        "cake-0399",
+        "cake-0243",
+        "cake-0272",
+        "cake-0042",
+        "cake-0059",
+        "cake-0076"
+      ],
+      "faqKeys": [
+        "custom-begumpet",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-ameerpet/",
+        "/customized-cakes-secunderabad/",
+        "/customized-cakes-somajiguda/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Dilsukhnagar",
+      "legacyUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "newUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "a52ac58682a84ceadc8661875e8b6969f0a0d387ecf9a0a5ffe5946be15364a1",
+      "portfolioImageIds": [
+        "cake-0267",
+        "cake-0403",
+        "cake-0092",
+        "cake-0253",
+        "cake-0419",
+        "cake-0095",
+        "cake-0112",
+        "cake-0129"
+      ],
+      "faqKeys": [
+        "custom-dilsukhnagar",
+        "eggless",
+        "payment",
+        "cab-dilsukhnagar"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-lb-nagar/",
+        "/customized-cakes-vanasthalipuram/",
+        "/customized-cakes-uppal/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Financial District",
+      "legacyUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "newUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 1,
+        "impressions16m": 178,
+        "position16m": 6.1555056179775285
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "ef5b7d8409f50ea3c7edf400c3afd5b5b8b94ae55cec3dc242bed040e04197a1",
+      "portfolioImageIds": [
+        "cake-0460",
+        "cake-0065",
+        "cake-0388",
+        "cake-0369",
+        "cake-0081",
+        "cake-0423",
+        "cake-0440",
+        "cake-0457"
+      ],
+      "faqKeys": [
+        "custom-financial-district",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-nanakramguda/",
+        "/customized-cakes-gachibowli/",
+        "/customized-cakes-kokapet/",
+        "/customized-cakes-narsingi/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Gachibowli",
+      "legacyUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "newUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "cb973557a07d7b0da0b6d01e0768b7660a792d011cf6b7a9c424bfaf192a0771",
+      "portfolioImageIds": [
+        "cake-0167",
+        "cake-0058",
+        "cake-0397",
+        "cake-0051",
+        "cake-0226",
+        "cake-0160",
+        "cake-0177",
+        "cake-0194"
+      ],
+      "faqKeys": [
+        "custom-gachibowli",
+        "payment",
+        "cab-gachibowli",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/princess-cakes/",
+        "/customized-cakes-financial-district/",
+        "/customized-cakes-nanakramguda/",
+        "/customized-cakes-kondapur/",
+        "/customized-cakes-raidurgam/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Hayathnagar",
+      "legacyUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "newUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "635bbb2ea8a552c1587252fd04c8a1e4864eeeb51546e515371d772415962c16",
+      "portfolioImageIds": [
+        "cake-0050",
+        "cake-0036",
+        "cake-0098",
+        "cake-0308",
+        "cake-0246",
+        "cake-0285",
+        "cake-0302",
+        "cake-0319"
+      ],
+      "faqKeys": [
+        "custom-hayathnagar",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-vanasthalipuram/",
+        "/customized-cakes-lb-nagar/",
+        "/customized-cakes-dilsukhnagar/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "HITEC City",
+      "legacyUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "newUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "fe36856d56d13ac1808b53becb26e45f4d37ad7b26b4b01424bf13d44a3728ad",
+      "portfolioImageIds": [
+        "cake-0307",
+        "cake-0409",
+        "cake-0090",
+        "cake-0257",
+        "cake-0369",
+        "cake-0471",
+        "cake-0016",
+        "cake-0033"
+      ],
+      "faqKeys": [
+        "custom-hitec-city",
+        "cab-hitec-city",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-madhapur/",
+        "/customized-cakes-kondapur/",
+        "/customized-cakes-raidurgam/",
+        "/customized-cakes-gachibowli/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Jubilee Hills",
+      "legacyUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "newUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "9458566db806b783ac5dce250fb16844ab2404318f7cc668dcfa472b36873f5d",
+      "portfolioImageIds": [
+        "cake-0428",
+        "cake-0061",
+        "cake-0099",
+        "cake-0402",
+        "cake-0273",
+        "cake-0251",
+        "cake-0268",
+        "cake-0285"
+      ],
+      "faqKeys": [
+        "custom-jubilee-hills",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-banjara-hills/",
+        "/customized-cakes-madhapur/",
+        "/customized-cakes-raidurgam/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Kokapet",
+      "legacyUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "newUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "a50a356520bc73b5673940de0bcb444b25ab92ec534c1f16c0c3f3582f6a0801",
+      "portfolioImageIds": [
+        "cake-0274",
+        "cake-0444",
+        "cake-0403",
+        "cake-0419",
+        "cake-0346",
+        "cake-0318",
+        "cake-0335",
+        "cake-0352"
+      ],
+      "faqKeys": [
+        "custom-kokapet",
+        "eggless",
+        "payment",
+        "cab-kokapet"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-neopolis/",
+        "/customized-cakes-narsingi/",
+        "/customized-cakes-financial-district/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Kompally",
+      "legacyUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "newUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "304076fc926f319bcae9608cf8c591fa843ee38b39bd45e99fd64bb94cdc7f1e",
+      "portfolioImageIds": [
+        "cake-0311",
+        "cake-0420",
+        "cake-0089",
+        "cake-0036",
+        "cake-0123",
+        "cake-0106",
+        "cake-0130",
+        "cake-0140"
+      ],
+      "faqKeys": [
+        "custom-kompally",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-secunderabad/",
+        "/customized-cakes-malkajgiri/",
+        "/customized-cakes-bachupally/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Kondapur",
+      "legacyUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "newUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "02fb42155cd0438fb43400615740526f02220185e8a593a5d73eb9627cb765c6",
+      "portfolioImageIds": [
+        "cake-0462",
+        "cake-0079",
+        "cake-0402",
+        "cake-0218",
+        "cake-0345",
+        "cake-0277",
+        "cake-0294",
+        "cake-0311"
+      ],
+      "faqKeys": [
+        "custom-kondapur",
+        "payment",
+        "cab-kondapur",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-hitec-city/",
+        "/customized-cakes-gachibowli/",
+        "/customized-cakes-madhapur/",
+        "/customized-cakes-nallagandla/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Kukatpally",
+      "legacyUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "newUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "9599371e54692d7719c889a3a33048bcc476f3500ad5f92d291568063c46129c",
+      "portfolioImageIds": [
+        "cake-0162",
+        "cake-0247",
+        "cake-0392",
+        "cake-0123",
+        "cake-0049",
+        "cake-0323",
+        "cake-0340",
+        "cake-0357"
+      ],
+      "faqKeys": [
+        "custom-kukatpally",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-moosapet/",
+        "/customized-cakes-nizampet/",
+        "/customized-cakes-miyapur/",
+        "/customized-cakes-bachupally/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "LB Nagar",
+      "legacyUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "newUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "sameUrl": true,
+      "classification": "PROTECT",
+      "searchConsoleEvidence": {
+        "clicks16m": 10,
+        "impressions16m": 292,
+        "position16m": 6.289041095890411
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "f250feb626517ee882867a87514b8cccf67d1520927daf55ed90cc6592196086",
+      "portfolioImageIds": [
+        "cake-0437",
+        "cake-0444",
+        "cake-0454",
+        "cake-0334",
+        "cake-0002",
+        "cake-0462",
+        "cake-0255",
+        "cake-0176"
+      ],
+      "faqKeys": [
+        "custom-lb-nagar",
+        "cab-lb-nagar",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-dilsukhnagar/",
+        "/customized-cakes-vanasthalipuram/",
+        "/customized-cakes-hayathnagar/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Madhapur",
+      "legacyUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "newUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 95,
+        "position16m": 9.044736842105262
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "4d0465fcee0122fed85f3847e7fe428744514949fb219c6029c4905828afb7c7",
+      "portfolioImageIds": [
+        "cake-0119",
+        "cake-0444",
+        "cake-0400",
+        "cake-0068",
+        "cake-0464",
+        "cake-0059",
+        "cake-0076",
+        "cake-0093"
+      ],
+      "faqKeys": [
+        "custom-madhapur",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/princess-cakes/",
+        "/customized-cakes-hitec-city/",
+        "/customized-cakes-raidurgam/",
+        "/customized-cakes-jubilee-hills/",
+        "/customized-cakes-kondapur/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Manikonda",
+      "legacyUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "newUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "c85103e82e4561cee96541210653c60a42153c8b2b07dd61fdb1192c36a74a95",
+      "portfolioImageIds": [
+        "cake-0144",
+        "cake-0421",
+        "cake-0096",
+        "cake-0298",
+        "cake-0175",
+        "cake-0427",
+        "cake-0444",
+        "cake-0461"
+      ],
+      "faqKeys": [
+        "custom-manikonda",
+        "eggless",
+        "payment",
+        "cab-manikonda"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/butterfly-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-puppalaguda/",
+        "/customized-cakes-narsingi/",
+        "/customized-cakes-tolichowki/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Miyapur",
+      "legacyUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "newUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "4c8e1cffbfac68a4f511ae1dca40dad17f5fe2f01fcb8208b9373228c5edb18c",
+      "portfolioImageIds": [
+        "cake-0216",
+        "cake-0404",
+        "cake-0097",
+        "cake-0229",
+        "cake-0451",
+        "cake-0384",
+        "cake-0401",
+        "cake-0418"
+      ],
+      "faqKeys": [
+        "custom-miyapur",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/butterfly-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-nizampet/",
+        "/customized-cakes-kukatpally/",
+        "/customized-cakes-bachupally/",
+        "/customized-cakes-patancheru/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Nallagandla",
+      "legacyUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "newUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "36887733cba1785c54f35f7a06ca36e4fa524ccd14f432ae973fa56967b49cd1",
+      "portfolioImageIds": [
+        "cake-0354",
+        "cake-0392",
+        "cake-0093",
+        "cake-0382",
+        "cake-0446",
+        "cake-0436",
+        "cake-0453",
+        "cake-0470"
+      ],
+      "faqKeys": [
+        "custom-nallagandla",
+        "payment",
+        "cab-nallagandla",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-tellapur/",
+        "/customized-cakes-kondapur/",
+        "/customized-cakes-gachibowli/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Nanakramguda",
+      "legacyUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "newUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "d639cee0a6d347917b9ce4508c29d25e806823c09366e6e605393bde8e317ee1",
+      "portfolioImageIds": [
+        "cake-0453",
+        "cake-0073",
+        "cake-0396",
+        "cake-0226",
+        "cake-0401",
+        "cake-0303",
+        "cake-0320",
+        "cake-0337"
+      ],
+      "faqKeys": [
+        "custom-nanakramguda",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-financial-district/",
+        "/customized-cakes-gachibowli/",
+        "/customized-cakes-narsingi/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Narsingi",
+      "legacyUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "newUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "ef83e46cab111da76be024cd70ded96ffb21ebd60a7fe55023c99c81c96d09ef",
+      "portfolioImageIds": [
+        "cake-0296",
+        "cake-0021",
+        "cake-0097",
+        "cake-0321",
+        "cake-0300",
+        "cake-0076",
+        "cake-0093",
+        "cake-0110"
+      ],
+      "faqKeys": [
+        "custom-narsingi",
+        "cab-narsingi",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-kokapet/",
+        "/customized-cakes-puppalaguda/",
+        "/customized-cakes-manikonda/",
+        "/customized-cakes-financial-district/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Patancheru",
+      "legacyUrl": "https://purebakes.in/customized-cakes-patancheru/",
+      "newUrl": "https://purebakes.in/customized-cakes-patancheru/",
+      "sameUrl": true,
+      "classification": "PROTECT",
+      "searchConsoleEvidence": {
+        "clicks16m": 2,
+        "impressions16m": 171,
+        "position16m": 7.58327485380117
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "5aea317c68a5f92a7dc1f592f84ec063d4f1e46444a76e26d25c862b39a06ed8",
+      "portfolioImageIds": [
+        "cake-0065",
+        "cake-0092",
+        "cake-0107",
+        "cake-0432",
+        "cake-0072",
+        "cake-0098",
+        "cake-0213",
+        "cake-0369"
+      ],
+      "faqKeys": [
+        "custom-patancheru",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/butterfly-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-miyapur/",
+        "/customized-cakes-tellapur/",
+        "/customized-cakes-nallagandla/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Puppalaguda",
+      "legacyUrl": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "newUrl": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "61534585246e7252522005fd38545ade4bdf615c843606aae7fdf6e78bd9c800",
+      "portfolioImageIds": [
+        "cake-0264",
+        "cake-0062",
+        "cake-0393",
+        "cake-0464",
+        "cake-0082",
+        "cake-0076",
+        "cake-0093",
+        "cake-0110"
+      ],
+      "faqKeys": [
+        "custom-puppalaguda",
+        "eggless",
+        "payment",
+        "cab-puppalaguda"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-manikonda/",
+        "/customized-cakes-narsingi/",
+        "/customized-cakes-tolichowki/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Secunderabad",
+      "legacyUrl": "https://purebakes.in/customized-cakes-secunderabad/",
+      "newUrl": "https://purebakes.in/customized-cakes-secunderabad/",
+      "sameUrl": true,
+      "classification": "PROTECT",
+      "searchConsoleEvidence": {
+        "clicks16m": 2,
+        "impressions16m": 35,
+        "position16m": 6.57
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "64b71d61b9967bb1b30c0ab95a67fe045ceeb22a2c85b57b1c6980d21da8b8bb",
+      "portfolioImageIds": [
+        "cake-0065",
+        "cake-0092",
+        "cake-0107",
+        "cake-0005",
+        "cake-0449",
+        "cake-0396",
+        "cake-0123",
+        "cake-0347"
+      ],
+      "faqKeys": [
+        "custom-secunderabad",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-begumpet/",
+        "/customized-cakes-malkajgiri/",
+        "/customized-cakes-tarnaka/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Somajiguda",
+      "legacyUrl": "https://purebakes.in/customized-cakes-somajiguda/",
+      "newUrl": "https://purebakes.in/customized-cakes-somajiguda/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "e64fd4a12c4520a7dd02df32f33aa24dde554fae49079fd8c80db5bd8e2de630",
+      "portfolioImageIds": [
+        "cake-0332",
+        "cake-0416",
+        "cake-0004",
+        "cake-0081",
+        "cake-0224",
+        "cake-0462",
+        "cake-0007",
+        "cake-0024"
+      ],
+      "faqKeys": [
+        "custom-somajiguda",
+        "payment",
+        "cab-somajiguda",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/princess-cakes/",
+        "/customized-cakes-punjagutta/",
+        "/customized-cakes-khairatabad/",
+        "/customized-cakes-ameerpet/",
+        "/customized-cakes-banjara-hills/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Tellapur",
+      "legacyUrl": "https://purebakes.in/customized-cakes-tellapur/",
+      "newUrl": "https://purebakes.in/customized-cakes-tellapur/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "4819c2996b1fc54138346e2c0b9e8ca782be104a80ad3319e46eccbbb3b1c729",
+      "portfolioImageIds": [
+        "cake-0187",
+        "cake-0058",
+        "cake-0405",
+        "cake-0293",
+        "cake-0226",
+        "cake-0272",
+        "cake-0289",
+        "cake-0306"
+      ],
+      "faqKeys": [
+        "custom-tellapur",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/princess-cakes/",
+        "/customized-cakes-nallagandla/",
+        "/customized-cakes-gachibowli/",
+        "/customized-cakes-patancheru/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Uppal",
+      "legacyUrl": "https://purebakes.in/customized-cakes-uppal/",
+      "newUrl": "https://purebakes.in/customized-cakes-uppal/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "aabe054e49f0ab7bc96f7bd6f94a973012b6a5fd9589b5b8dbd94bdb3a3880e3",
+      "portfolioImageIds": [
+        "cake-0227",
+        "cake-0065",
+        "cake-0396",
+        "cake-0082",
+        "cake-0295",
+        "cake-0383",
+        "cake-0400",
+        "cake-0417"
+      ],
+      "faqKeys": [
+        "custom-uppal",
+        "cab-uppal",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-tarnaka/",
+        "/customized-cakes-nacharam/",
+        "/customized-cakes-dilsukhnagar/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Vanasthalipuram",
+      "legacyUrl": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "newUrl": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 30,
+        "position16m": 5.97
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "95598137d5a736810fc81f22a0ff9d9cc08f9db98389d1b873ff5fb08549b063",
+      "portfolioImageIds": [
+        "cake-0310",
+        "cake-0423",
+        "cake-0439",
+        "cake-0406",
+        "cake-0275",
+        "cake-0381",
+        "cake-0398",
+        "cake-0415"
+      ],
+      "faqKeys": [
+        "custom-vanasthalipuram",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-lb-nagar/",
+        "/customized-cakes-hayathnagar/",
+        "/customized-cakes-dilsukhnagar/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Neopolis",
+      "legacyUrl": "https://purebakes.in/customized-cakes-neopolis/",
+      "newUrl": "https://purebakes.in/customized-cakes-neopolis/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "37c1415ff5fb6925800edce05d00fc3764ae4a87db898c6698d812936231f058",
+      "portfolioImageIds": [
+        "cake-0031",
+        "cake-0399",
+        "cake-0092",
+        "cake-0431",
+        "cake-0175",
+        "cake-0451",
+        "cake-0468",
+        "cake-0013"
+      ],
+      "faqKeys": [
+        "custom-neopolis",
+        "eggless",
+        "payment",
+        "cab-neopolis"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-kokapet/",
+        "/customized-cakes-narsingi/",
+        "/customized-cakes-financial-district/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Raidurgam",
+      "legacyUrl": "https://purebakes.in/customized-cakes-raidurgam/",
+      "newUrl": "https://purebakes.in/customized-cakes-raidurgam/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 29,
+        "position16m": 7.345172413793103
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "32eedba35ba5687dd6d768448292bb765d22add4824dd55e8cdfcda04858cac6",
+      "portfolioImageIds": [
+        "cake-0014",
+        "cake-0424",
+        "cake-0096",
+        "cake-0253",
+        "cake-0327",
+        "cake-0006",
+        "cake-0023",
+        "cake-0040"
+      ],
+      "faqKeys": [
+        "custom-raidurgam",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-hitec-city/",
+        "/customized-cakes-madhapur/",
+        "/customized-cakes-gachibowli/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Shamshabad",
+      "legacyUrl": "https://purebakes.in/customized-cakes-shamshabad/",
+      "newUrl": "https://purebakes.in/customized-cakes-shamshabad/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "7ea3d10f5877026545877620ea18c11753e3d93c63cc9f7f85c340667dac2d50",
+      "portfolioImageIds": [
+        "cake-0120",
+        "cake-0448",
+        "cake-0389",
+        "cake-0225",
+        "cake-0306",
+        "cake-0432",
+        "cake-0449",
+        "cake-0466"
+      ],
+      "faqKeys": [
+        "custom-shamshabad",
+        "payment",
+        "cab-shamshabad",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-mehdipatnam/",
+        "/customized-cakes-tolichowki/",
+        "/customized-cakes-manikonda/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Bachupally",
+      "legacyUrl": "https://purebakes.in/customized-cakes-bachupally/",
+      "newUrl": "https://purebakes.in/customized-cakes-bachupally/",
+      "sameUrl": true,
+      "classification": "PROTECT",
+      "searchConsoleEvidence": {
+        "clicks16m": 3,
+        "impressions16m": 103,
+        "position16m": 6.684271844660194
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "95bc44ba7f6f2d30735f08b5439c147c04d33b7b10260fe8b2fb26a7facd1344",
+      "portfolioImageIds": [
+        "cake-0065",
+        "cake-0092",
+        "cake-0107",
+        "cake-0307",
+        "cake-0395",
+        "cake-0099",
+        "cake-0255",
+        "cake-0419"
+      ],
+      "faqKeys": [
+        "custom-bachupally",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-nizampet/",
+        "/customized-cakes-miyapur/",
+        "/customized-cakes-kukatpally/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Himayatnagar",
+      "legacyUrl": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "newUrl": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 1,
+        "impressions16m": 109,
+        "position16m": 6.316330275229358
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "2a7496f4dcaf94441d9e5d43c584c1b48e18333b5ec17ab1cb5de78d4e32e376",
+      "portfolioImageIds": [
+        "cake-0183",
+        "cake-0018",
+        "cake-0401",
+        "cake-0225",
+        "cake-0395",
+        "cake-0452",
+        "cake-0469",
+        "cake-0014"
+      ],
+      "faqKeys": [
+        "custom-himayatnagar",
+        "cab-himayatnagar",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/princess-cakes/",
+        "/cakes/themes/floral-cakes/",
+        "/customized-cakes-khairatabad/",
+        "/customized-cakes-tarnaka/",
+        "/customized-cakes-ameerpet/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Khairatabad",
+      "legacyUrl": "https://purebakes.in/customized-cakes-khairatabad/",
+      "newUrl": "https://purebakes.in/customized-cakes-khairatabad/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 116,
+        "position16m": 4.491034482758621
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "28130de41cc9082f478b5a3ddcf849f34a4badef3b8519df0372b37c2bf837a6",
+      "portfolioImageIds": [
+        "cake-0310",
+        "cake-0427",
+        "cake-0091",
+        "cake-0406",
+        "cake-0148",
+        "cake-0225",
+        "cake-0242",
+        "cake-0259"
+      ],
+      "faqKeys": [
+        "custom-khairatabad",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/princess-cakes/",
+        "/customized-cakes-punjagutta/",
+        "/customized-cakes-somajiguda/",
+        "/customized-cakes-himayatnagar/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Malkajgiri",
+      "legacyUrl": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "newUrl": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 22,
+        "position16m": 6.5
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "6b5ba2527d85f3374282d39add4be86dee32c4e4b2908d5563ad56c2f334d180",
+      "portfolioImageIds": [
+        "cake-0329",
+        "cake-0073",
+        "cake-0396",
+        "cake-0068",
+        "cake-0318",
+        "cake-0343",
+        "cake-0360",
+        "cake-0377"
+      ],
+      "faqKeys": [
+        "custom-malkajgiri",
+        "eggless",
+        "payment",
+        "cab-malkajgiri"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-secunderabad/",
+        "/customized-cakes-tarnaka/",
+        "/customized-cakes-nacharam/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Mehdipatnam",
+      "legacyUrl": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "newUrl": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "sameUrl": true,
+      "classification": "PROTECT",
+      "searchConsoleEvidence": {
+        "clicks16m": 2,
+        "impressions16m": 146,
+        "position16m": 5.860616438356164
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "d844676e5816de8d5cc34299e2fee121de0003cf9d4e6e237e1553b2f2c9ab30",
+      "portfolioImageIds": [
+        "cake-0107",
+        "cake-0386",
+        "cake-0431",
+        "cake-0217",
+        "cake-0059",
+        "cake-0398",
+        "cake-0014",
+        "cake-0207"
+      ],
+      "faqKeys": [
+        "custom-mehdipatnam",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-tolichowki/",
+        "/customized-cakes-banjara-hills/",
+        "/customized-cakes-manikonda/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Moosapet",
+      "legacyUrl": "https://purebakes.in/customized-cakes-moosapet/",
+      "newUrl": "https://purebakes.in/customized-cakes-moosapet/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "e44213313ac94a8859aa5cffb554e6d478101e02059d4a7ef2611a806f644ddb",
+      "portfolioImageIds": [
+        "cake-0443",
+        "cake-0061",
+        "cake-0392",
+        "cake-0430",
+        "cake-0352",
+        "cake-0363",
+        "cake-0380",
+        "cake-0397"
+      ],
+      "faqKeys": [
+        "custom-moosapet",
+        "payment",
+        "cab-moosapet",
+        "eggless"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/superhero-cakes/",
+        "/customized-cakes-kukatpally/",
+        "/customized-cakes-ameerpet/",
+        "/customized-cakes-nizampet/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Nacharam",
+      "legacyUrl": "https://purebakes.in/customized-cakes-nacharam/",
+      "newUrl": "https://purebakes.in/customized-cakes-nacharam/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "736cf4bbd09dabf11b89c09cd09fd5d18616a131176f54e2020836748421fb48",
+      "portfolioImageIds": [
+        "cake-0223",
+        "cake-0399",
+        "cake-0097",
+        "cake-0430",
+        "cake-0175",
+        "cake-0059",
+        "cake-0076",
+        "cake-0093"
+      ],
+      "faqKeys": [
+        "custom-nacharam",
+        "pickup",
+        "lead-time",
+        "reference"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/jungle-theme-cakes/",
+        "/cakes/themes/unicorn-cakes/",
+        "/customized-cakes-tarnaka/",
+        "/customized-cakes-uppal/",
+        "/customized-cakes-malkajgiri/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Nizampet",
+      "legacyUrl": "https://purebakes.in/customized-cakes-nizampet/",
+      "newUrl": "https://purebakes.in/customized-cakes-nizampet/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "853e2b8f125836575199d1fed9dde9f7500a6c4bd8a465646e0b4a23bf320556",
+      "portfolioImageIds": [
+        "cake-0237",
+        "cake-0389",
+        "cake-0094",
+        "cake-0353",
+        "cake-0352",
+        "cake-0321",
+        "cake-0338",
+        "cake-0355"
+      ],
+      "faqKeys": [
+        "custom-nizampet",
+        "cab-nizampet",
+        "eggless",
+        "payment"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/luxury-wedding-cakes-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-bachupally/",
+        "/customized-cakes-kukatpally/",
+        "/customized-cakes-miyapur/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Punjagutta",
+      "legacyUrl": "https://purebakes.in/customized-cakes-punjagutta/",
+      "newUrl": "https://purebakes.in/customized-cakes-punjagutta/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 0,
+        "impressions16m": 108,
+        "position16m": 3.983703703703704
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "9596b0d7c833b6acc6600c914769566c53f65dc6f81ad879879820a6b013debb",
+      "portfolioImageIds": [
+        "cake-0420",
+        "cake-0247",
+        "cake-0089",
+        "cake-0306",
+        "cake-0299",
+        "cake-0435",
+        "cake-0452",
+        "cake-0469"
+      ],
+      "faqKeys": [
+        "custom-punjagutta",
+        "lead-time",
+        "reference",
+        "pickup"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/baby-shower-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-somajiguda/",
+        "/customized-cakes-ameerpet/",
+        "/customized-cakes-khairatabad/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Tarnaka",
+      "legacyUrl": "https://purebakes.in/customized-cakes-tarnaka/",
+      "newUrl": "https://purebakes.in/customized-cakes-tarnaka/",
+      "sameUrl": true,
+      "classification": "IMPROVE",
+      "searchConsoleEvidence": {
+        "clicks16m": 1,
+        "impressions16m": 118,
+        "position16m": 6.362372881355932
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "aed9b807c45314c915e6437367e56e4002934182dcb28ab2ae11795801fc3958",
+      "portfolioImageIds": [
+        "cake-0201",
+        "cake-0420",
+        "cake-0456",
+        "cake-0122",
+        "cake-0012",
+        "cake-0322",
+        "cake-0339",
+        "cake-0356"
+      ],
+      "faqKeys": [
+        "custom-tarnaka",
+        "eggless",
+        "payment",
+        "cab-tarnaka"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/first-birthday-cakes-for-boys-in-hyderabad/",
+        "/first-birthday-cakes-for-girls-in-hyderabad/",
+        "/cakes/themes/superhero-cakes/",
+        "/cakes/themes/spiderman-cakes/",
+        "/customized-cakes-nacharam/",
+        "/customized-cakes-uppal/",
+        "/customized-cakes-secunderabad/",
+        "/customized-cakes-malkajgiri/"
+      ],
+      "indexability": "index"
+    },
+    {
+      "location": "Tolichowki",
+      "legacyUrl": "https://purebakes.in/customized-cakes-tolichowki/",
+      "newUrl": "https://purebakes.in/customized-cakes-tolichowki/",
+      "sameUrl": true,
+      "classification": "RETAIN",
+      "searchConsoleEvidence": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "position16m": null
+      },
+      "oldIntentPreserved": true,
+      "contentStatus": "differentiated",
+      "introHash": "e87c55ccc65e9522ae51620d0a419148aed83e47cbbd93d8ed83d11233ba69b2",
+      "portfolioImageIds": [
+        "cake-0014",
+        "cake-0064",
+        "cake-0403",
+        "cake-0304",
+        "cake-0450",
+        "cake-0358",
+        "cake-0375",
+        "cake-0392"
+      ],
+      "faqKeys": [
+        "custom-tolichowki",
+        "reference",
+        "pickup",
+        "lead-time"
+      ],
+      "internalLinks": [
+        "/areas-we-serve/",
+        "/gallery/",
+        "/birthday-cakes-in-hyderabad/",
+        "/anniversary-cakes-in-hyderabad/",
+        "/engagement-cakes-in-hyderabad/",
+        "/cakes/themes/floral-cakes/",
+        "/cakes/themes/butterfly-cakes/",
+        "/customized-cakes-mehdipatnam/",
+        "/customized-cakes-manikonda/",
+        "/customized-cakes-puppalaguda/"
+      ],
+      "indexability": "index"
+    }
+  ]
+}

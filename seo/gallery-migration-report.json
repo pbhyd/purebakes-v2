@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-08-13T15:20:09.844Z",
+  "sourceHtml": "/Users/prakash/github/pb/gallery/index.html",
+  "sourceRecordsDiscovered": 476,
+  "uniqueCakeImages": 472,
+  "duplicatesFound": 4,
+  "duplicateGroups": [
+    {
+      "image": "anniversary/cute-couple-anniversary-theme-cake.webp",
+      "occurrences": 2,
+      "captions": [
+        "Cute Couple Anniversary Theme Cake",
+        "Cute Couple Anniversary Theme Cake"
+      ]
+    },
+    {
+      "image": "customised-birthday-cakes/chocolate-drip-birthday-cake-with-nutella-and-ferrero-toppings.webp",
+      "occurrences": 3,
+      "captions": [
+        "Chocolate Drip Birthday Cake with Nutella and Ferrero Toppings",
+        "Chocolate Drip Birthday Cake with Nutella and Ferrero Toppings",
+        "Chocolate Drip Birthday Cake with Nutella and Ferrero Toppings"
+      ]
+    },
+    {
+      "image": "customised-birthday-cakes/cute-purple-dinosaur-birthday-cake-for-kids-party-theme.webp",
+      "occurrences": 2,
+      "captions": [
+        "Cute Purple Dinosaur Birthday Cake for Kids Party Theme",
+        "Cute Purple Dinosaur Birthday Cake For Kids Party Theme"
+      ]
+    }
+  ],
+  "recordsMigrated": 472,
+  "captionsPreserved": 472,
+  "altPreserved": 472,
+  "altRepaired": 0,
+  "missingAlt": 0,
+  "missingImages": 0,
+  "taxonomyAssignments": {
+    "themes": 184,
+    "occasions": 456,
+    "styles": 97,
+    "flavours": 0
+  },
+  "taxonomyUncertainties": {
+    "noTheme": 288,
+    "noOccasion": 16,
+    "noStyle": 375,
+    "flavourOwnerReviewRequired": 472
+  },
+  "legacyUrlsPreserved": 472,
+  "canonicalUrlAdditions": 472,
+  "imageUrlChanges": [],
+  "migrationExceptions": []
+}

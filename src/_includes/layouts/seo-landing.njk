@@ -1,0 +1,7 @@
+---
+layout: layouts/base.njk
+---
+<header class="seo-hero wrap"><p class="eyebrow">{{ eyebrow }}</p><h1>{{ h1 }}</h1><p>{{ intro }}</p><button class="button button--primary" data-availability-open data-cta-location="seo_hero" data-page-context="{{ pageContext }}">Check availability</button></header>
+<div class="seo-page wrap"><nav class="seo-breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>›</span><a href="{{ parentUrl }}">{{ parentLabel }}</a>{% if grandparentUrl %}<span>›</span><a href="{{ grandparentUrl }}">{{ grandparentLabel }}</a>{% endif %}<span>›</span><span aria-current="page">{{ breadcrumbLabel }}</span></nav>
+{{ content | safe }}</div>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://purebakes.in/"},{"@type":"ListItem","position":2,"name":{{ parentLabel | json | safe }},"item":{{ parentUrl | absoluteUrl(site.productionUrl) | json | safe }}}{% if grandparentUrl %},{"@type":"ListItem","position":3,"name":{{ grandparentLabel | json | safe }},"item":{{ grandparentUrl | absoluteUrl(site.productionUrl) | json | safe }}},{"@type":"ListItem","position":4,"name":{{ breadcrumbLabel | json | safe }},"item":{{ canonical | json | safe }}}{% else %},{"@type":"ListItem","position":3,"name":{{ breadcrumbLabel | json | safe }},"item":{{ canonical | json | safe }}}{% endif %}]}</script>

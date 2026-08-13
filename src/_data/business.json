@@ -9,7 +9,7 @@
   "phone": { "display": "+91 99802 13333", "e164": "+919980213333" },
   "whatsapp": { "number": "919980213333" },
   "hours": { "display": "Daily, 9:00 AM–9:00 PM", "opens": "09:00", "closes": "21:00" },
-  "pickup": { "available": true, "display": "Pickup available from Manikonda, Hyderabad.", "locality": "Manikonda" },
+  "pickup": { "available": true, "display": "Pickup details are shared during order coordination.", "locality": "Manikonda" },
   "delivery": { "available": true, "display": "We can assist with cab delivery. Applicable cab charges are paid by the customer, and cake payment must be completed before the cab is booked." },
   "eggOptions": "Both egg and eggless cakes are available.",
   "fssai": { "registered": true, "display": "FSSAI registered" },

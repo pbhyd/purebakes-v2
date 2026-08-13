@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "status": "implementation-required",
+  "notes": "Rules require an HTTP-capable edge/host. DNS cannot perform path redirects and GitHub Pages has no general server-side redirect-rule facility.",
+  "rules": [
+    {"source":"http://purebakes.in/{path}","destination":"https://purebakes.in/{canonical-path}","statusCode":301,"reason":"HTTPS normalization","legacyEvidence":"protocol variant","priority":1},
+    {"source":"http://www.purebakes.in/{path}","destination":"https://purebakes.in/{canonical-path}","statusCode":301,"reason":"HTTPS and host normalization","legacyEvidence":"host/protocol variant","priority":1},
+    {"source":"https://www.purebakes.in/{path}","destination":"https://purebakes.in/{canonical-path}","statusCode":301,"reason":"Non-www canonical host","legacyEvidence":"host variant","priority":1},
+    {"source":"https://purebakes.in/{known-canonical-path-without-trailing-slash}","destination":"https://purebakes.in/{known-canonical-path}/","statusCode":301,"reason":"Trailing-slash normalization","legacyEvidence":"Eleventy directory URL convention","priority":2},
+    {"source":"/cake-delivery-gachibowli","destination":"/customized-cakes-gachibowli/","statusCode":301,"reason":"Consolidate legacy location intent","legacyEvidence":"Phase 4 location migration audit","priority":3},
+    {"source":"/cake-delivery-madhapur","destination":"/customized-cakes-madhapur/","statusCode":301,"reason":"Consolidate legacy location intent","legacyEvidence":"Phase 4 location migration audit","priority":3},
+    {"source":"/birthday-cakes-hyderabad","destination":"/birthday-cakes-in-hyderabad/","statusCode":301,"reason":"Consolidate legacy occasion intent","legacyEvidence":"Phase 4 occasion migration audit","priority":3},
+    {"source":"/wedding-cakes-hyderabad","destination":"/wedding-cakes-in-hyderabad/","statusCode":301,"reason":"Consolidate legacy occasion intent","legacyEvidence":"Phase 4 occasion migration audit","priority":3}
+  ],
+  "validation": ["Every source returns HTTP 301","Every destination returns HTTP 200","No redirect chain or loop","Query strings are preserved unless intentionally discarded","Unknown paths retain the designed 404"]
+}

@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+title: Areas We Serve Across Hyderabad | PureBakes
+description: Explore PureBakes custom cake service areas across Hyderabad, with cab delivery assistance and 41 established locality pages.
+pageType: location_hub
+pageSlug: areas-we-serve
+canonical: https://purebakes.in/areas-we-serve/
+breadcrumbs:
+  - { label: Home, url: / }
+  - { label: Areas We Serve }
+---
+<header class="page-hero wrap areas-hero"><p class="eyebrow">Across Hyderabad</p><h1>Areas We Serve<br><em>Across Hyderabad</em></h1><p>PureBakes creates made-to-order custom cakes for celebrations across Hyderabad, with cab delivery assistance available wherever suitable transportation can be arranged.</p><p>Explore some of the areas we serve below.</p></header>
+
+<section class="section discovery areas-discovery"><div class="wrap areas-layout">
+  <div class="service-map-card"><div class="service-map-heading"><div><p class="eyebrow">Service-area map</p><h2>Find your area.</h2></div><div class="map-legend" aria-label="Map legend"><span><i class="legend-service" aria-hidden="true"></i> Area We Serve</span></div></div><div id="service-area-map" class="service-area-map" role="region" aria-label="Interactive map showing established PureBakes service areas across Hyderabad" data-area-map><p class="map-fallback" data-map-fallback>Explore the areas we serve in the list below.</p></div></div>
+  <aside class="areas-assurance"><article><p class="eyebrow eyebrow--gold">Beyond the pins</p><h2>Don’t see your area?</h2><p>The map highlights established service-area pages, but it is not a delivery boundary. Share your celebration date and location and we’ll check what can be arranged.</p><button class="button button--gold" data-availability-open data-cta-location="areas_map">Check availability</button></article><article class="distance-story"><strong>350+ KM</strong><p>Some PureBakes cakes have travelled more than 350 km for special celebrations.</p><small>A customer story, not a delivery radius.</small></article></aside>
+</div></section>
+
+<section class="section wrap" aria-labelledby="all-areas-title"><div class="section-heading"><div><p class="eyebrow">Service-area directory</p><h2 id="all-areas-title">Explore All Areas</h2></div><p>Every pin and link represents an area we serve—not a branch, shop, studio or guaranteed delivery zone.</p></div><div class="location-list location-list--all areas-list">{% for item in locations %}<a href="{{ item.url }}" data-area-page-link data-location-slug="{{ item.key }}" data-location-name="{{ item.name }}" data-location-classification="{{ item.classification }}"><strong>{{ item.name }}</strong><span>Explore cakes →</span></a>{% endfor %}</div><div class="areas-help"><p>Looking for inspiration or ordering guidance?</p><p><a class="text-link" href="/cakes/">Explore cakes →</a> <a class="text-link" href="/gallery/">View the portfolio →</a> <a class="text-link" href="/faq/">Read ordering FAQs →</a></p></div></section>
+
+<script type="application/json" id="service-area-data">{{ locations | areaMapData | json | safe }}</script>

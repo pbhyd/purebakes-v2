@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-08-13T15:03:23.434Z",
+  "featuredDuplicatesFound": 8,
+  "matches": [
+    {
+      "removed": "/assets/images/cakes/mermaid-first-birthday.webp",
+      "canonical": "/assets/images/cakes/mermaid-theme-first-birthday-cake-with-seashells-and-tails.webp",
+      "id": "cake-0444"
+    },
+    {
+      "removed": "/assets/images/cakes/black-gold-engagement.webp",
+      "canonical": "/assets/images/cakes/black-gold-engagement-tier-cake.webp",
+      "id": "cake-0386"
+    },
+    {
+      "removed": "/assets/images/cakes/wild-one-safari.webp",
+      "canonical": "/assets/images/cakes/wild-one-safari-theme-first-birthday-cake-with-animal-cake-decorations.webp",
+      "id": "cake-0437"
+    },
+    {
+      "removed": "/assets/images/cakes/red-rose-anniversary.webp",
+      "canonical": "/assets/images/cakes/elegant-red-rose-anniversary-cake.webp",
+      "id": "cake-0065"
+    },
+    {
+      "removed": "/assets/images/cakes/pink-carousel.webp",
+      "canonical": "/assets/images/cakes/pink-carousel-circus-theme-first-birthday-cake-for-baby-girl.webp",
+      "id": "cake-0454"
+    },
+    {
+      "removed": "/assets/images/cakes/jungle-first-birthday.webp",
+      "canonical": "/assets/images/cakes/jungle-theme-first-birthday-cake-with-cute-animal-toppers.webp",
+      "id": "cake-0431"
+    },
+    {
+      "removed": "/assets/images/cakes/bride-to-be.webp",
+      "canonical": "/assets/images/cakes/bride-to-be-theme-cake.webp",
+      "id": "cake-0107"
+    },
+    {
+      "removed": "/assets/images/cakes/gender-reveal.webp",
+      "canonical": "/assets/images/cakes/cute-gender-reveal-dessert-cake.webp",
+      "id": "cake-0092"
+    }
+  ],
+  "heroComposite": {
+    "from": "/assets/images/cakes/hero-custom-cake.webp",
+    "to": "/assets/images/site/hero-custom-cake.webp",
+    "historicalGalleryUrlAffected": false
+  },
+  "canonicalCakeSourceCount": 472
+}

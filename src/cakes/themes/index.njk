@@ -1,0 +1,13 @@
+---
+layout: layouts/base.njk
+title: Cake Themes in Hyderabad | PureBakes Design Collections
+description: Explore approved PureBakes cake theme collections, including floral, butterfly, jungle, princess, superhero, Spider-Man and unicorn cakes.
+pageType: theme_hub
+pageSlug: themes
+canonical: https://purebakes.in/cakes/themes/
+breadcrumbs:
+  - { label: Home, url: / }
+  - { label: Cakes, url: /cakes/ }
+  - { label: Themes }
+---
+<header class="page-hero wrap"><p class="eyebrow">Cake theme collections</p><h1>Find a theme that feels<br><em>like your celebration.</em></h1><p>Explore selected design directions backed by substantial real PureBakes portfolio inventory. Themes guide inspiration; every final cake remains made to order.</p></header><section class="section wrap"><div class="hub-grid">{% for item in themePages %}<a href="{{ item.url }}"><span>{{ item.count }} real designs</span><h2>{{ item.h1 }}</h2><p>{{ item.intro }}</p></a>{% endfor %}</div><p class="section-action"><a class="button button--primary" href="/gallery/">Search the full portfolio</a></p></section>

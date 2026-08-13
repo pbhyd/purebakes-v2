@@ -5,12 +5,29 @@
   "type": "module",
   "scripts": {
     "dev": "SITE_ENV=development eleventy --serve",
-    "build": "SITE_ENV=staging eleventy",
-    "build:production": "SITE_ENV=production eleventy",
+    "build": "node scripts/clean-output.mjs && SITE_ENV=staging eleventy && node scripts/gallery-images.mjs",
+    "build:production": "node scripts/clean-output.mjs && SITE_ENV=production eleventy && node scripts/gallery-images.mjs",
+    "gallery:migrate": "node scripts/gallery-migrate.mjs",
+    "gallery:add": "node scripts/gallery-add.mjs",
+    "gallery:validate": "node scripts/gallery-validate.mjs",
+    "gallery:stats": "node scripts/gallery-stats.mjs",
+    "gallery:owner-test": "node scripts/gallery-owner-test.mjs",
+    "gallery:ux-validate": "node scripts/gallery-ux-validate.mjs",
+    "location:validate": "node scripts/location-content-validate.mjs",
+    "location:copy-review": "node scripts/location-copy-review.mjs",
+    "photo:validate": "node scripts/cake-photo-validate.mjs",
+    "areas:validate": "node scripts/areas-validate.mjs",
+    "positioning:validate": "node scripts/positioning-validate.mjs",
+    "seo:validate": "npm run build:production && node scripts/seo-validate.mjs",
     "validate": "node scripts/validate-site.mjs",
-    "test": "npm run build && npm run validate"
+    "launch:validate": "node scripts/launch-validate.mjs staging",
+    "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.2"
+    "@11ty/eleventy": "^3.1.2",
+    "sharp": "^0.35.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
   }
 }

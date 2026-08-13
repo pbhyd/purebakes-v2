@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Custom Cake FAQ | Ordering from PureBakes Hyderabad
+description: Answers about PureBakes cake ordering, customization, lead time, eggless options, pickup, cab delivery, payment, themes, classes and FSSAI registration.
+pageType: faq
+pageSlug: faq
+canonical: https://purebakes.in/faq/
+breadcrumbs:
+  - { label: Home, url: / }
+  - { label: Frequently Asked Questions }
+---
+{% set faqs = [
+{question:"How do I order a custom cake?",answer:"Select Check Availability, provide the required date, and continue to WhatsApp. Share the occasion and design references there so the studio can guide you."},
+{question:"How far in advance should I order?",answer:"Lead time depends on the date and design complexity. Check your required date first; more detailed or tiered designs generally benefit from earlier discussion."},
+{question:"How does custom cake pricing work?",answer:"Pricing depends on the chosen design, size and finishing complexity. PureBakes confirms the details and quote during the direct enquiry; no unapproved public starting price is displayed."},
+{question:"Can PureBakes customize a reference design?",answer:"Yes. References help communicate the direction you like. The studio can adapt palette, proportions and details into a made-to-order design."},
+{question:"Are eggless cakes available?",answer:business.eggOptions},
+{question:"What flavours are available?",answer:"Flavour options are discussed during the enquiry. The website does not infer a photographed cake’s flavour from its appearance."},
+{question:"Where is pickup available?",answer:business.pickup.display},
+{question:"Does PureBakes deliver across Hyderabad?",answer:business.delivery.display},
+{question:"How is an order confirmed?",answer:"A 50% advance confirms the order. The remaining 50% is completed before pickup or before a delivery cab is booked."},
+{question:"When is the remaining balance due?",answer:"The remaining balance is completed before pickup or before PureBakes books an assisted delivery cab."},
+{question:"Who pays assisted delivery cab charges?",answer:"The customer pays the applicable cab charge. PureBakes can assist with arranging the cab after the cake payment is complete."},
+{question:"Can I order a birthday cake?",answer:"Yes. Explore the birthday cake collection and gallery, then check availability for your required date."},
+{question:"Does PureBakes create wedding and engagement cakes?",answer:"Yes. PureBakes creates made-to-order engagement and wedding cakes, with real examples available in the portfolio. Share the date and event direction to begin."},
+{question:"Can I browse cake themes?",answer:"Yes. The cake themes hub links to approved floral, butterfly, jungle, princess, superhero, Spider-Man and unicorn collections."},
+{question:"Which Hyderabad areas do you serve?",answer:"PureBakes serves celebrations across Hyderabad. The Areas We Serve map highlights 41 established service areas, but the pins are not a delivery boundary; share your location so we can check suitable cab arrangements."},
+{question:"Does PureBakes offer baking classes?",answer:"Yes. PureBakes offers Telugu-language baking classes online and offline in Hyderabad. Visit the Classes page for the current verified overview."},
+{question:"Is PureBakes FSSAI registered?",answer:business.fssai.display + "."},
+{question:"What are the enquiry hours?",answer:business.hours.display + "."}
+] %}
+<header class="page-hero wrap"><p class="eyebrow">Helpful answers</p><h1>Planning a cake?<br><em>Start here.</em></h1><p>Clear, verified answers about ordering from PureBakes, from design and payment to pickup, assisted cab delivery and service areas.</p><button class="button button--primary" data-availability-open data-cta-location="faq_hero">Check availability</button></header><section class="section wrap faq-hub">{% for faq in faqs %}<details><summary>{{ faq.question }}</summary><p>{{ faq.answer }}</p>{% if loop.index == 1 %}<a href="/gallery/">Explore the portfolio →</a>{% elif loop.index == 12 %}<a href="/birthday-cakes-in-hyderabad/">View birthday cakes →</a>{% elif loop.index == 14 %}<a href="/cakes/themes/">Explore cake themes →</a>{% elif loop.index == 15 %}<a href="/areas-we-serve/">View all service areas →</a>{% elif loop.index == 16 %}<a href="/classes/">Explore classes →</a>{% endif %}</details>{% endfor %}</section><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for faq in faqs %}{"@type":"Question","name":{{ faq.question | json | safe }},"acceptedAnswer":{"@type":"Answer","text":{{ faq.answer | json | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}</script>

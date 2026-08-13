@@ -1,0 +1,8 @@
+{
+  "principle": "The website is the frame. The cakes are the artwork.",
+  "rootCause": "Gallery and shared SEO portfolio selectors retained an obsolete 600/760 fixed aspect ratio, object-fit contain, and lavender image background. Later overrides masked the issue but left a cascade regression risk.",
+  "sharedFix": ".portfolio-cake-photo { display: block; width: 100%; height: auto; max-width: none; background: transparent; }",
+  "affectedFamilies": ["gallery", "occasion landing pages", "theme landing pages", "41 location landing pages"],
+  "auditedUnchanged": ["homepage featured cakes", "homepage editorial imagery", "gallery lightbox", "cakes hub", "theme hub", "products", "classes", "areas hub", "FAQ"],
+  "preserved": ["intrinsic proportions", "360/720 derivatives", "1080x1920 dimensions", "lazy loading", "alt text", "captions", "filenames", "legacy URLs", "taxonomy", "gallery search/filter/lightbox"]
+}

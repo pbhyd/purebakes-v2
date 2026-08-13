@@ -1,0 +1,17 @@
+{
+  "animal": { "name": "Animals", "aliases": ["animal", "elephant", "giraffe", "dinosaur"] },
+  "boss-baby": { "name": "Boss Baby", "aliases": ["boss baby"] },
+  "butterfly": { "name": "Butterfly", "aliases": ["butterfly", "butterflies"] },
+  "car": { "name": "Cars", "aliases": ["car", "race car"] },
+  "cricket": { "name": "Cricket", "aliases": ["cricket"] },
+  "floral": { "name": "Floral", "aliases": ["floral", "flowers", "rose"] },
+  "football": { "name": "Football", "aliases": ["football"] },
+  "jungle": { "name": "Jungle", "aliases": ["jungle"] },
+  "mermaid": { "name": "Mermaid", "aliases": ["mermaid"] },
+  "princess": { "name": "Princess", "aliases": ["princess"] },
+  "safari": { "name": "Safari", "aliases": ["safari"] },
+  "spider-man": { "name": "Spider-Man", "aliases": ["spiderman", "spider-man", "spider man"] },
+  "superhero": { "name": "Superhero", "aliases": ["superhero", "avengers", "marvel"] },
+  "travel": { "name": "Travel", "aliases": ["travel", "bon voyage"] },
+  "unicorn": { "name": "Unicorn", "aliases": ["unicorn"] }
+}

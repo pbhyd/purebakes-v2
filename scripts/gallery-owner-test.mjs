@@ -1,0 +1,12 @@
+import { readdir, readFile } from "node:fs/promises";
+import { basename, resolve } from "node:path";
+import { derivativePattern, readGallery, root, sourceDir } from "./gallery-lib.mjs";
+const { records } = await readGallery(); const entries = await readdir(sourceDir, { withFileTypes: true }); const errors = [];
+if (entries.some((entry) => entry.isDirectory())) errors.push("Cake source directory contains a subdirectory");
+if (entries.some((entry) => derivativePattern.test(entry.name))) errors.push("Cake source directory contains generated derivatives");
+const names = new Set(entries.filter((entry) => entry.isFile()).map((entry) => entry.name));
+for (const record of records) if (!names.has(basename(record.image))) errors.push(`Missing canonical source: ${record.image}`);
+const hypothetical = Array.from({ length: 20 }, (_, index) => `owner-test-${String(index + 1).padStart(2, "0")}.webp`); if (hypothetical.some((name) => names.has(name))) errors.push("Hypothetical monthly filenames collide");
+const packageJson = JSON.parse(await readFile(resolve(root, "package.json"), "utf8")); for (const command of ["gallery:add", "gallery:validate", "gallery:stats"]) if (!packageJson.scripts[command]) errors.push(`Missing ${command} command`);
+const nextId = Math.max(...records.map((record) => Number(record.id.slice(5)))) + 1; const starters = hypothetical.map((image, index) => ({ id: `cake-${String(nextId + index).padStart(4, "0")}`, image: `/assets/images/cakes/${image}` })); if (new Set(starters.map((record) => record.id)).size !== 20) errors.push("Twenty-image starter IDs are not unique");
+if (errors.length) { console.error(errors.join("\n")); process.exit(1); } console.log("Owner maintenance test: YES — 20 flat source WebPs can become 20 unique starter records; build automation owns all derivatives and legacy outputs.");

@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Cake Portfolio | Custom Cake Designs by PureBakes Hyderabad
-description: Explore a preview of real custom cakes created by PureBakes in Hyderabad. Full searchable portfolio migration is coming in the next phase.
+description: Explore hundreds of real custom cake designs created by PureBakes in Hyderabad, with search and filters for occasions and themes.
 pageType: gallery
 pageSlug: gallery
 canonical: https://purebakes.in/gallery/
@@ -9,5 +9,21 @@ breadcrumbs:
   - { label: Home, url: / }
   - { label: Cake Portfolio }
 ---
-<header class="page-hero wrap"><p class="eyebrow">Real PureBakes creations</p><h1>Explore Our<br><em>Cake Portfolio</em></h1><p>Search hundreds of real cake designs. This Phase 2 preview establishes the portfolio experience; the full historical gallery arrives in the dedicated migration phase.</p></header>
-<section class="gallery-shell wrap section"><div class="gallery-tools"><label for="gallery-search">Search cake designs</label><input id="gallery-search" type="search" placeholder="Try butterfly, jungle, birthday…" disabled><button disabled>Occasion</button><button disabled>Theme</button><span>Full search and filters coming with gallery migration.</span></div><div class="preview-grid">{% for cake in featuredCakes %}<article>{% include "components/picture.njk" %}<h2>{{ cake.caption }}</h2><p>{{ cake.occasion }}</p></article>{% endfor %}</div></section>
+<header class="page-hero wrap gallery-hero"><p class="eyebrow">Real PureBakes creations</p><h1>Explore Our<br><em>Cake Portfolio</em></h1><p>Discover {{ gallery.length }} real PureBakes cake designs for birthdays, weddings, engagements and celebrations across Hyderabad.</p></header>
+
+<section class="gallery-experience wrap section" data-gallery>
+  <form class="gallery-search gallery-discovery" role="search" data-gallery-search-form><label class="sr-only" for="gallery-search">Search cake designs</label><input id="gallery-search" type="search" placeholder="Try butterfly, jungle, birthday…" autocomplete="off" maxlength="100" data-gallery-search><button class="button button--primary" type="submit">Search</button><button class="button button--light gallery-explore-button" type="button" aria-expanded="false" aria-controls="gallery-explore" data-gallery-explore>Explore</button></form>
+  <section class="gallery-explore" id="gallery-explore" aria-label="Explore cake designs" data-gallery-explore-panel hidden><div class="gallery-pill-group"><h2>Occasion</h2><div class="gallery-pills">{% for item in galleryDiscovery.occasions %}<button type="button" class="gallery-pill" data-gallery-pill data-filter-type="{{ item.field }}" data-filter-key="{{ item.key }}" data-filter-value="{{ item.value }}" aria-pressed="{% if item.key == 'all' %}true{% else %}false{% endif %}">{{ item.label }}</button>{% endfor %}</div></div><div class="gallery-pill-group"><h2>Theme</h2><div class="gallery-pills">{% for item in galleryDiscovery.themes %}<button type="button" class="gallery-pill" data-gallery-pill data-filter-type="{{ item.field }}" data-filter-key="{{ item.key }}" data-filter-value="{{ item.value }}" aria-pressed="false">{{ item.label }}</button>{% endfor %}</div></div></section>
+  <div class="gallery-status" aria-live="polite"><strong data-gallery-result-heading>{{ gallery.length }} cake designs</strong><button class="text-link" type="button" data-gallery-clear hidden>View all cakes</button></div>
+  <div class="gallery-grid" data-gallery-grid>
+    {% for cake in gallery %}{% if loop.index <= 30 %}<article class="gallery-card" data-cake-id="{{ cake.id }}"><button type="button" data-gallery-open="{{ cake.id }}" data-gallery-action="image_open" data-cake-id="{{ cake.id }}" aria-label="View {{ cake.caption }}"><img class="portfolio-cake-photo" src="{{ cake.image | imageVariant(360) }}" srcset="{{ cake.image | imageVariant(360) }} 360w, {{ cake.image | imageVariant(720) }} 720w" sizes="(max-width: 47.99rem) calc(50vw - 1.2rem), (max-width: 74.99rem) calc(33.333vw - 1.5rem), calc(20vw - 1.5rem)" width="1080" height="1920" alt="{{ cake.alt }}" loading="lazy" decoding="async"><span><small>{% if cake.occasions.length %}{{ occasions[cake.occasions[0]].name }}{% else %}Custom design{% endif %}</small><strong>{{ cake.caption }}</strong></span></button></article>{% endif %}{% endfor %}
+  </div>
+  <div class="gallery-more"><button class="button button--primary" type="button" data-gallery-load-more>Load more cakes</button></div>
+  <div class="gallery-empty" data-gallery-empty hidden><h2 data-gallery-empty-heading>No matching cake designs found.</h2><p>Try another search or return to the complete PureBakes portfolio.</p><button class="button button--light" type="button" data-gallery-clear>View all cakes</button></div>
+</section>
+
+<section class="section gallery-seo"><div class="wrap compact-split"><h2>Real custom cake designs from our Hyderabad studio</h2><div><p>This portfolio brings together real PureBakes work across first birthdays, milestone birthdays, anniversaries, engagements, weddings, baby celebrations and more. Each cake is made to order rather than selected from a fixed ecommerce catalogue.</p><p>Found a useful reference? Open the design and check your date. We can adapt colours, scale and finishing details around your celebration while keeping the final cake personal to you.</p><p><a class="text-link" href="/cakes/">Explore cakes by celebration →</a></p></div></div></section>
+
+<dialog class="cake-dialog" data-cake-dialog aria-labelledby="cake-dialog-title"><button class="cake-dialog-close" type="button" data-cake-dialog-close aria-label="Close cake detail">×</button><div class="cake-dialog-media"><img data-cake-dialog-image width="600" height="760" alt=""></div><div class="cake-dialog-copy"><p class="eyebrow" data-cake-dialog-context>PureBakes creation</p><h2 id="cake-dialog-title" data-cake-dialog-caption></h2><button class="button button--gold" data-availability-open data-cta-location="gallery_detail" data-cake-context>Check availability</button></div></dialog>
+
+<script type="application/json" id="gallery-data">{{ gallery | galleryClientData | json | safe }}</script><script type="application/json" id="gallery-discovery-data">{{ galleryDiscovery | json | safe }}</script><script src="/assets/js/gallery.js" type="module"></script>
