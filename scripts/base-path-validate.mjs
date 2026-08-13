@@ -3,7 +3,7 @@ import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd(); const output = path.join(root, "_site");
-const expectedBasePath = process.argv[2] === "production" ? "" : "/purebakes-v2";
+const expectedBasePath = process.env.SITE_BASE_PATH || "";
 const read = (file) => readFile(path.join(output, file), "utf8");
 const home = await read("index.html"); const gallery = await read("gallery/index.html"); const areas = await read("areas-we-serve/index.html");
 const expected = (url) => `${expectedBasePath}${url}`;

@@ -5,7 +5,7 @@ import themes from "../src/_data/seo-pages/themePages.json" with { type: "json" 
 
 const mode = process.argv[2] === "production" ? "production" : "staging";
 const output = "_site";
-const publicBasePath = mode === "staging" ? "/purebakes-v2" : "";
+const publicBasePath = process.env.SITE_BASE_PATH || "";
 const expected = ["/floral-cakes/", "/butterfly-cakes/", "/jungle-theme-cakes/", "/princess-cakes/", "/superhero-cakes/", "/spiderman-cakes/", "/unicorn-cakes/"];
 const old = expected.map((url) => `/cakes/themes${url}`);
 assert.deepEqual(themes.map((item) => item.url), expected, "Theme URL source of truth does not match the seven root-level routes");
