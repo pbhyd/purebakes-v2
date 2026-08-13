@@ -10,7 +10,8 @@
     {"source":"/cake-delivery-gachibowli","destination":"/customized-cakes-gachibowli/","statusCode":301,"reason":"Consolidate legacy location intent","legacyEvidence":"Phase 4 location migration audit","priority":3},
     {"source":"/cake-delivery-madhapur","destination":"/customized-cakes-madhapur/","statusCode":301,"reason":"Consolidate legacy location intent","legacyEvidence":"Phase 4 location migration audit","priority":3},
     {"source":"/birthday-cakes-hyderabad","destination":"/birthday-cakes-in-hyderabad/","statusCode":301,"reason":"Consolidate legacy occasion intent","legacyEvidence":"Phase 4 occasion migration audit","priority":3},
-    {"source":"/wedding-cakes-hyderabad","destination":"/wedding-cakes-in-hyderabad/","statusCode":301,"reason":"Consolidate legacy occasion intent","legacyEvidence":"Phase 4 occasion migration audit","priority":3}
+    {"source":"/wedding-cakes-hyderabad","destination":"/wedding-cakes-in-hyderabad/","statusCode":301,"reason":"Consolidate legacy occasion intent","legacyEvidence":"Phase 4 occasion migration audit","priority":3},
+    {"source":"/classes/","destination":"/baking-classes/","statusCode":301,"reason":"Consolidate the temporary V2 classes route into the established V1 canonical URL at production cutover","legacyEvidence":"Baking Classes V2 enrichment decision; documentation only until an HTTP-capable production host applies this plan","priority":3}
   ],
   "validation": ["Every source returns HTTP 301","Every destination returns HTTP 200","No redirect chain or loop","Query strings are preserved unless intentionally discarded","Unknown paths retain the designed 404"]
 }

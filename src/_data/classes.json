@@ -1,0 +1,37 @@
+{
+  "course": {
+    "title": "7-Hour Home Baking Course in Telugu",
+    "description": "A structured pre-recorded course created for beginners who want to learn baking from home in Telugu. The course includes both egg and eggless recipes, stable whipped-cream techniques and cake decoration, with detailed lessons you can learn at your own pace.",
+    "points": ["Approximately 7 hours of detailed lessons", "Beginner-friendly", "Egg + eggless recipes", "Stable whipped cream", "Decoration techniques", "Learn at your own pace"],
+    "enquiryContext": "7-hour Home Baking Course in Telugu"
+  },
+  "topics": [
+    {"title":"Cake sponges","description":"Vanilla, chocolate and other sponge fundamentals, including texture, mixing and baking techniques."},
+    {"title":"Egg & eggless baking","description":"Understand how ingredients behave and how to achieve soft, stable cakes with both egg and eggless recipes."},
+    {"title":"Whipped cream","description":"Learn whipping, consistency, colouring, smoothing and practical handling techniques for cake decoration."},
+    {"title":"Cake decoration","description":"Borders, piping, layering, finishing and simple design techniques that help cakes look clean and professional."},
+    {"title":"Practical home baking","description":"Learn practical approaches for home kitchens, including selected recipes and techniques that can be prepared without expensive equipment where appropriate."},
+    {"title":"Troubleshooting","description":"Understand common baking problems such as dense cakes, sinking centres, uneven baking, cream consistency and other mistakes beginners face."}
+  ],
+  "formats": [
+    {"title":"Pre-recorded Telugu baking course","description":"A structured 7-hour course with detailed beginner-friendly lessons covering egg and eggless recipes, stable whipped cream and cake decoration.","cta":"Enquire About the Course","type":"whatsapp","context":"7-hour Home Baking Course in Telugu"},
+    {"title":"Live online classes","description":"Interactive online sessions are conducted for selected baking topics and recipes. Live learning gives you the opportunity to follow the process in real time and clarify doubts during the session.","cta":"Ask About Upcoming Classes","type":"whatsapp","context":"Upcoming Baking Classes"},
+    {"title":"Offline classes & workshops","description":"Hands-on classes and workshops in Hyderabad are conducted when scheduled. These sessions focus on practical learning in smaller groups and give participants the opportunity to work directly with the techniques being taught.","cta":"Ask About Offline Workshops","type":"whatsapp","context":"Offline Baking Workshops"},
+    {"title":"Free Telugu baking videos","description":"PureBakes also shares free step-by-step baking videos on YouTube, including beginner recipes, practical home-baking techniques, baking tools, cake decoration and troubleshooting.","cta":"Watch on YouTube","type":"youtube"}
+  ],
+  "videos": [
+    {"title":"Free Baking Course for Beginners in Telugu","url":"https://www.youtube.com/watch?v=xiydwOPOwhI&list=PLcvj2ayGgoITBnfrPJvcLkCKOdjK3akau","image":"/assets/images/classes/free-baking-course-for-beginners-in-telugu.webp","width":1280,"height":720},
+    {"title":"Delicious Bakery-Style Muffins at Home","url":"https://www.youtube.com/watch?v=06LvImYSz9Q&list=PLcvj2ayGgoIRLAe3EWfrLgmI7Vle2ccuT","image":"/assets/images/classes/delicious-bakery-style-muffins-at-home.webp","width":1280,"height":720},
+    {"title":"Top 20 Baking Tools Every Baker Needs","url":"https://www.youtube.com/watch?v=S9cukjse8Jw","image":"/assets/images/classes/top-20-baking-tools-every-baker-needs.webp","width":2192,"height":1052}
+  ],
+  "exploreTopics": ["Eggless cake baking", "Chocolate sponge", "Vanilla sponge", "Whipped cream decoration", "Cupcakes and muffins", "Baking on a gas stove", "Baking tools for beginners", "Cake finishing", "Basic piping", "Troubleshooting"],
+  "faqs": [
+    {"question":"Are PureBakes baking classes taught in Telugu?","answer":"Yes. PureBakes baking classes and learning content are designed primarily for Telugu-speaking learners, with practical explanations that are easy to follow."},
+    {"question":"Is the baking course suitable for beginners?","answer":"Yes. The pre-recorded course starts with core baking concepts and is designed to help beginners gradually build confidence with cake sponges, whipped cream and decoration techniques."},
+    {"question":"Do you teach eggless baking?","answer":"Yes. PureBakes learning content includes both egg and eggless baking, depending on the recipe or class topic."},
+    {"question":"Is the course live or pre-recorded?","answer":"The main structured course is pre-recorded so you can learn at your own pace. PureBakes also conducts selected live classes and workshops separately."},
+    {"question":"Do you conduct offline baking classes in Hyderabad?","answer":"Offline classes and workshops are conducted when scheduled. Contact PureBakes or follow our social channels for upcoming sessions."},
+    {"question":"Do I need an oven or professional equipment to start?","answer":"Not always. Some recipes and lessons can be prepared with everyday kitchen tools, while other techniques may require an oven or specific baking equipment. The required tools are explained for each class or recipe."},
+    {"question":"Where can I watch free PureBakes baking videos?","answer":"Free Telugu baking videos are available on the PureBakes YouTube channel, covering recipes, tools, techniques and practical baking tips."}
+  ]
+}
