@@ -3,18 +3,22 @@ pagination:
   data: locations
   size: 1
   alias: landing
+
 permalink: "{{ landing.url }}index.html"
+
 layout: layouts/seo-landing.njk
+
 pageType: location
 status: published
 index: true
+
 eleventyComputed:
   title: "{{ landing.title }}"
   description: "{{ landing.description }}"
   canonical: "{{ landing.canonical }}"
   pageSlug: "{{ landing.key }}"
   pageClassification: "{{ landing.classification }}"
-  h1: "{{ landing.h1 }}"
+  h1: "{{ landing.h1 | safe }}"
   eyebrow: "Serving celebrations across Hyderabad"
   intro: "{{ landing.intro }}"
   pageContext: "a celebration in {{ landing.name }}"
@@ -22,8 +26,121 @@ eleventyComputed:
   parentLabel: "Areas We Serve"
   breadcrumbLabel: "{{ landing.name }}"
 ---
-{% set portfolio = gallery | galleryByIds(landing.portfolioImageIds) %}{% set portfolioHeading = landing.portfolioHeading %}{% set portfolioIntro = landing.portfolioIntro %}{% include "components/seo-portfolio.njk" %}
-<section class="seo-copy-block"><div><p class="eyebrow">Clear ordering</p><h2>Ordering for {{ landing.name }}</h2></div><div><p>{{ landing.serviceContext }}</p><p>Share the required date first. A 50% advance confirms the agreed order; the remaining balance is completed before pickup or before an assisted cab is booked.</p><button class="button button--primary" data-availability-open data-cta-location="location_ordering" data-page-context="a celebration in {{ landing.name }}">Check availability</button></div></section>
-<section class="seo-links"><div><p class="eyebrow">Celebration ideas</p><h2>Explore useful collections</h2><div class="seo-link-grid">{% for item in landing.occasionLinks %}<a href="{{ item.url }}">{{ item.label }} <span>→</span></a>{% endfor %}<a href="/gallery/">Full portfolio <span>→</span></a></div></div><div><p class="eyebrow">Cake themes</p><h2>Find a visual direction</h2><div class="seo-link-grid">{% for item in landing.themeLinks %}<a href="{{ item.url }}">{{ item.label }} <span>→</span></a>{% endfor %}<a href="/cakes/">Explore all cakes <span>→</span></a></div></div></section>
-<section class="seo-links"><div><p class="eyebrow">Nearby areas we serve</p><h2>Explore nearby areas</h2><div class="seo-link-grid">{% for key in landing.nearby %}{% set item = locations | findByKey(key) %}{% if item %}<a href="{{ item.url }}">{{ item.name }} <span>→</span></a>{% endif %}{% endfor %}</div></div><div><p class="eyebrow">Across Hyderabad</p><h2>Serving celebrations citywide</h2><p>The 41 established area pages are useful starting points, not a delivery boundary. If your area is not listed, share the destination and we will check what can be arranged.</p><a class="text-link" href="/areas-we-serve/">View all areas we serve →</a></div></section>
-{% set faqs = landing.faqs %}{% include "components/seo-faqs.njk" %}
+
+{% set portfolio = gallery | galleryByIds(landing.portfolioImageIds) %}
+{% set portfolioHeading = landing.portfolioHeading %}
+{% set portfolioIntro = landing.portfolioIntro %}
+{% include "components/seo-portfolio.njk" %}
+
+{% if landing.areaContext %}
+<section class="seo-copy-block seo-area-context">
+  <div>
+    <p class="eyebrow">About {{ landing.name }}</p>
+    <h2>{{ landing.areaContext.heading }}</h2>
+  </div>
+
+  <div>
+    <p>{{ landing.areaContext.text }}</p>
+  </div>
+</section>
+{% endif %}
+
+<section class="seo-copy-block">
+  <div>
+    <p class="eyebrow">Clear ordering</p>
+    <h2>Ordering for {{ landing.name }}</h2>
+  </div>
+
+  <div>
+    <p>{{ landing.serviceContext }}</p>
+
+    <p>
+      Share the required date first. A 50% advance confirms the agreed order;
+      the remaining balance is completed before pickup or before an assisted
+      cab is booked.
+    </p>
+
+    <button
+      class="button button--primary"
+      data-availability-open
+      data-cta-location="location_ordering"
+      data-page-context="a celebration in {{ landing.name }}"
+    >
+      Check availability
+    </button>
+  </div>
+</section>
+
+<section class="seo-links">
+  <div>
+    <p class="eyebrow">Celebration ideas</p>
+    <h2>Explore useful collections</h2>
+
+    <div class="seo-link-grid">
+      {% for item in landing.occasionLinks %}
+      <a href="{{ item.url }}">
+        {{ item.label }} <span>→</span>
+      </a>
+      {% endfor %}
+
+      <a href="/gallery/">
+        Full portfolio <span>→</span>
+      </a>
+    </div>
+  </div>
+
+  <div>
+    <p class="eyebrow">Cake themes</p>
+    <h2>Find a visual direction</h2>
+
+    <div class="seo-link-grid">
+      {% for item in landing.themeLinks %}
+      <a href="{{ item.url }}">
+        {{ item.label }} <span>→</span>
+      </a>
+      {% endfor %}
+
+      <a href="/cakes/">
+        Explore all cakes <span>→</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="seo-links">
+  <div>
+    <p class="eyebrow">Nearby areas we serve</p>
+    <h2>Explore nearby areas</h2>
+
+    <div class="seo-link-grid">
+      {% for key in landing.nearby %}
+        {% set item = locations | findByKey(key) %}
+
+        {% if item %}
+        <a href="{{ item.url }}">
+          {{ item.name }} <span>→</span>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <div>
+    <p class="eyebrow">Across Hyderabad</p>
+    <h2>Serving celebrations citywide</h2>
+
+    <p>
+      PureBakes serves celebrations across Hyderabad, and the areas listed
+      here are only a selection of the locations we can support. If your area
+      is not listed, share the destination and we will check what can be
+      arranged.
+    </p>
+
+    <a class="text-link" href="/areas-we-serve/">
+      View all areas we serve →
+    </a>
+  </div>
+</section>
+
+{% set faqs = landing.faqs %}
+{% include "components/seo-faqs.njk" %}
