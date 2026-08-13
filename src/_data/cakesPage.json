@@ -1,0 +1,28 @@
+{
+  "styles": [
+    {"title":"Fondant Theme Cakes","description":"Detailed themed cakes built around characters, hobbies, professions and celebration concepts."},
+    {"title":"Fresh Cream & Buttercream Cakes","description":"Elegant finishes ranging from clean minimal cakes to florals, textures and contemporary designs."},
+    {"title":"Photo Cakes","description":"Personalise a cake with photographs, memories or other edible printed elements where suitable."},
+    {"title":"Pull-Me-Up Cakes","description":"A playful celebration cake with an interactive reveal designed to create a memorable moment."},
+    {"title":"Piñata Cakes","description":"Chocolate-shell celebration cakes with a surprise inside, ideal when you want something interactive."},
+    {"title":"Number & Letter Cakes","description":"Cakes shaped or styled around an age, initial or milestone."},
+    {"title":"Minimal & Elegant Cakes","description":"Clean colours, refined finishing and understated decoration for customers who prefer a simpler aesthetic."},
+    {"title":"Character & Hobby Cakes","description":"Designs inspired by favourite characters, sports, professions, games, interests and hobbies."}
+  ],
+  "flavours": ["Vanilla", "Chocolate", "Strawberry", "Red Velvet", "Butterscotch", "Biscoff & Caramel", "Mango", "Indian-inspired flavours"],
+  "reasons": [
+    {"title":"Designed for Your Celebration","description":"Cakes are planned around your occasion, preferences and design direction rather than selected from a fixed catalogue."},
+    {"title":"Made Fresh for Your Order","description":"Each confirmed cake is prepared specifically for the celebration rather than kept as ready-made inventory."},
+    {"title":"Egg & Eggless Options","description":"Discuss your preference when you enquire so the cake can be planned accordingly."},
+    {"title":"Real Portfolio","description":"Browse cakes PureBakes has actually created to find inspiration before discussing your own design."}
+  ],
+  "faqs": [
+    {"question":"How far in advance should I order a custom cake?","answer":"Ordering early is recommended, especially for detailed designs and busy dates. Share your required date first and we'll check availability."},
+    {"question":"Can I send a cake reference image?","answer":"Yes. You can send a reference you like, combine ideas from several cakes or describe the style you want."},
+    {"question":"Do you make eggless custom cakes?","answer":"Yes. Eggless options are available. Mention your preference when you enquire."},
+    {"question":"Can you make a cake for a theme that isn't shown on the website?","answer":"Yes. The themes shown on the website are inspiration and examples, not a complete catalogue. Share the theme or idea you have in mind."},
+    {"question":"Can I choose the flavour of my cake?","answer":"Yes. Available flavour options depend on the cake and requirement, and can be discussed when planning your order."},
+    {"question":"Do you make cakes for adults as well as children?","answer":"Yes. PureBakes creates cakes for children's birthdays as well as adult birthdays, anniversaries, engagements, weddings and milestone celebrations."},
+    {"question":"Can you help if I don't know what cake design to choose?","answer":"Yes. Tell us about the occasion, the person and any colours, interests or styles you like, and we can help narrow down a suitable direction."}
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "popular": [
+    {"label":"Custom Cakes","url":"/cakes/"},
+    {"label":"Birthday Cakes","url":"/birthday-cakes-in-hyderabad/"},
+    {"label":"Anniversary Cakes","url":"/anniversary-cakes-in-hyderabad/"},
+    {"label":"Wedding Cakes","url":"/luxury-wedding-cakes-hyderabad/"}
+  ],
+  "birthdays": [
+    {"label":"Birthday Cakes","url":"/birthday-cakes-in-hyderabad/"},
+    {"label":"First Birthday — Girls","url":"/first-birthday-cakes-for-girls-in-hyderabad/"},
+    {"label":"First Birthday — Boys","url":"/first-birthday-cakes-for-boys-in-hyderabad/"},
+    {"label":"Half Birthday","url":"/gallery/?search=half-birthday"},
+    {"label":"Cake Smash","url":"/gallery/?search=smash-cake"}
+  ],
+  "celebrations": [
+    {"label":"Wedding Cakes","url":"/luxury-wedding-cakes-hyderabad/"},
+    {"label":"Engagement Cakes","url":"/engagement-cakes-in-hyderabad/"},
+    {"label":"Anniversary Cakes","url":"/anniversary-cakes-in-hyderabad/"},
+    {"label":"Bridal Shower Cakes","url":"/gallery/?search=bridal-shower"},
+    {"label":"Baby Shower Cakes","url":"/baby-shower-cakes-in-hyderabad/"},
+    {"label":"Baby Announcement","url":"/gallery/?search=baby-announcement"},
+    {"label":"Bon Voyage","url":"/gallery/?search=bon-voyage"}
+  ],
+  "themes": [
+    {"label":"Floral","url":"/floral-cakes/"},
+    {"label":"Butterfly","url":"/butterfly-cakes/"},
+    {"label":"Jungle","url":"/jungle-theme-cakes/"},
+    {"label":"Princess","url":"/princess-cakes/"},
+    {"label":"Superhero","url":"/superhero-cakes/"},
+    {"label":"Spider-Man","url":"/spiderman-cakes/"},
+    {"label":"Unicorn","url":"/unicorn-cakes/"}
+  ]
+}

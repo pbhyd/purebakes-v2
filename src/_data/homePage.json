@@ -1,0 +1,23 @@
+{
+  "occasions": [
+    {"label":"Birthday","url":"/birthday-cakes-in-hyderabad/","image":"/assets/images/cakes/60th-birthday-queen-custom-cake-for-beloved-grandma-celebration.webp","alt":"60th birthday queen cake created by PureBakes"},
+    {"label":"First Birthday","url":"/first-birthday-cakes-for-boys-in-hyderabad/","image":"/assets/images/cakes/adorable-blue-elephant-first-birthday-cake-for-baby-boy.webp","alt":"Blue elephant first birthday cake created by PureBakes"},
+    {"label":"Anniversary","url":"/anniversary-cakes-in-hyderabad/","image":"/assets/images/cakes/elegant-anniversary-cake-with-fresh-roses-and-gold-accents.webp","alt":"Anniversary cake with fresh roses and gold accents created by PureBakes"},
+    {"label":"Engagement","url":"/engagement-cakes-in-hyderabad/","image":"/assets/images/cakes/elegant-engagement-cake-with-roses-and-just-engaged-topper.webp","alt":"Engagement cake with roses and a Just Engaged topper created by PureBakes"},
+    {"label":"Wedding","url":"/luxury-wedding-cakes-hyderabad/","image":"/assets/images/cakes/vintage-floral-two-tier-wedding-cake-with-buttercream-garland-design.webp","alt":"Two-tier floral wedding cake with buttercream garland decoration created by PureBakes"},
+    {"label":"Baby Shower","url":"/baby-shower-cakes-in-hyderabad/","image":"/assets/images/cakes/baby-shower-butterfly-theme-cake.webp","alt":"Butterfly theme baby shower cake created by PureBakes"}
+  ],
+  "reasons": [
+    {"title":"Custom Designed","description":"Cakes are planned around your celebration, preferences and design direction rather than selected from a fixed catalogue."},
+    {"title":"Made to Order","description":"Each confirmed cake is prepared specifically for the celebration rather than kept as ready-made inventory."},
+    {"title":"Egg & Eggless Options","description":"Share your preference when you enquire so the cake can be planned accordingly."},
+    {"title":"Real Portfolio","description":"Browse cakes PureBakes has actually created before discussing your own design."}
+  ],
+  "faqs": [
+    {"question":"How far in advance should I order a custom cake?","answer":"Ordering early is recommended, especially for detailed designs and busy dates. Share your required date first and we'll check availability."},
+    {"question":"Do you make eggless custom cakes?","answer":"Yes. Eggless options are available. Mention your preference when you enquire."},
+    {"question":"Can I send a reference image for my cake?","answer":"Yes. You can send a reference you like, combine ideas from several cakes or describe the style you have in mind."},
+    {"question":"Do you make cakes for different occasions?","answer":"Yes. PureBakes creates cakes for birthdays, first birthdays, anniversaries, engagements, weddings, baby showers and many other celebrations."},
+    {"question":"How do I order a custom cake from PureBakes?","answer":"Start by sharing your required date and cake requirement. Once availability, design, size, flavour and price are agreed, the required advance confirms the booking."}
+  ]
+}

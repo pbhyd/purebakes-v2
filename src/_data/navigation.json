@@ -1,9 +1,8 @@
 [
-  { "label": "Cakes", "url": "/cakes/" },
   { "label": "Gallery", "url": "/gallery/" },
+  { "label": "Products", "url": "/products/" },
+  { "label": "Baking Classes", "url": "/baking-classes/" },
+  { "label": "Testimonials", "url": "/testimonials/" },
   { "label": "Delivery Areas", "url": "/areas-we-serve/" },
-  { "label": "Occasions", "url": "/cakes/#occasions" },
-  { "label": "Classes", "url": "/baking-classes/" },
-  { "label": "About", "url": "/#experience" },
-  { "label": "Contact", "url": "/#contact" }
+  { "label": "FAQ", "url": "/faq/" }
 ]

@@ -1,5 +1,425 @@
 [
-  { "quote": "The cake not only looked beautiful but also tasted absolutely delicious. Customer service was extraordinary throughout the process.", "name": "Srinivas Sanagala", "source": "Google review", "date": "2026-05-10" },
-  { "quote": "The design was exactly as shown, the cake was delicious, and it arrived with good packing. We were very happy with the experience.", "name": "Divya", "source": "Google review", "date": "2026-05-15" },
-  { "quote": "The decoration was superb and everyone loved it. It will always remain one of my favourite celebration cakes.", "name": "Sri P", "source": "Google review", "date": "2026-05-15" }
+  {
+    "name": "Surender Ch",
+    "quote": "Was checking online to order a cake as it was my daughter's birthday. At the age of 4, most daughters are typically inclined towards princesses and castles. My daughter is no exception. So began my hunt for a princess themed cake (Frozen's Elsa cake was the demand from my daughter..sheesh). Efforts were futile and was about to give up and tell my daughter that i will be ordering a different cake, and i stumbled on this website and boy oh boy was i surprised. Prasanna gaaru was patient enough to listen to my (my daughter's) requirement and being an expert she is, she quickly had it all sorted. Right from the ingredients, the size of the cake, the delivery date etc, I had a custom image that i wanted on a cake to which she happily obliged. The payment options and all were agreed and the birthday has finally arrived. In between i was sceptical whether the kids would like the cake or not. Prasanna gaaru assured me of it and on the day of the birthday, a 3 kg cake (even though she charged me for a 2.5 kg, thanks again Prasanna gaaru) was put on the table and my daughter was so thrilled that she didn't even want to cut the cake :P. The kids loved the cake so much so that the entire cake was gone and i can see everyone (right from the kids to the adults) were smacking their lips. The best birthday party ever.. Thanks Prasanna gaaru for making this memorable!! \n PS: Guys, cookie cream flavour  - go for it!!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/T3xHZfx3pzupbyk56",
+    "rating": 5
+  },
+  {
+    "name": "Dharma Teja",
+    "quote": "Thank you, Prasanna, for the beautiful cake! 🎂❤️. The cake looked lovely and tasted great. Considering the limited time available, you did an excellent job. If I had placed the order earlier, I’m sure it would have turned out even more amazing with the extra time for customization. I truly appreciate your effort, creativity, and attention to detail. Everyone loved it! I will definitely be ordering from you again for future birthdays and special occasions. Highly recommended. Thank you once again! 😊✨",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/5Ud9iQxHpLkerHTA9",
+    "rating": 5
+  },
+  {
+    "name": "Srinivas",
+    "quote": "Customer service is truly extraordinary.  Very attentive and caring throughout the entire process. The cake not only looked beautiful but also tasted absolutely delicious. I haven’t seen any other cake shop provide this level of satisfaction and overall experience. Highly recommended!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/Fvcp4H1Uri9c4PHW6",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "name": "Likhitha Reddy",
+    "quote": "Customer service is truly extraordinary.  Very attentive and caring throughout the entire process. The cake not only looked beautiful but also tasted absolutely delicious. I haven’t seen any other cake shop provide this level of satisfaction and overall experience. Highly recommended!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/1J94AGsxcNsGzJbD7",
+    "rating": 5
+  },
+  {
+    "name": "Sree Kalyani",
+    "quote": "We had a bunch of cupcakes ordered and a pinata cake ordered. It was tasty and very well made. We wi order for our future events as well",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/esPozaD3T41gVhU98",
+    "rating": 5
+  },
+  {
+    "name": "Sri P",
+    "quote": "I ordered a 2kg cake for my wedding celebration, and it was absolutely amazing. The decoration on the cake was simply superb, and everyone loved it. This will always remain one of my favorites.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/vVTXkZ7SLSXVM1bY9",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "name": "Divya",
+    "quote": "I have ordered cake for both of my kids birthday. Very surprised to see the design on the cake which is exactly same design as i shown. No dought taste is delicious. I prefer everyone to order as they deliver with good packing & delicious taste.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/vj3mKoZZaJUXDaiz5",
+    "rating": 5,
+    "featured": true
+  },
+  {
+    "name": "Prem Daisy",
+    "quote": "Asked for orange and hazelnut cake. It tasted very delicious.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/qSjeaztcohjbfLA6A",
+    "rating": 5
+  },
+  {
+    "name": "Aparna Ramya",
+    "quote": "Awesome taste and presentation of my kid Birthday cake. I have Ordered Oreo flavoured cake and the taste was awesome!! Thank you ou so much for making our day extra special 💕 ❤️ Thank you so much for the beautiful cheesecake which is too yummy.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/RWF4kVRNf8EieYSU6",
+    "rating": 5
+  },
+  {
+    "name": "Komal Deepak",
+    "quote": "I have ordered cakes from here multiple times and every experience has been excellent. The cakes are always delivered on time, the taste is really good, and they have lots of beautiful designs to choose from. Very reliable and perfect for every celebration! Thank you",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/pGGEsq5sGerWrf7p8",
+    "rating": 5
+  },
+  {
+    "name": "Sai Srikanth",
+    "quote": "Excellent Cup cakes with chocolate frosting. Ordered previously and want to order again.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/fu4TiKfToKDntMWP9",
+    "rating": 5
+  },
+  {
+    "name": "Kishore Kumar",
+    "quote": "Absolutely delicious! The cake was incredibly tasty — soft, moist, and full of flavor and exact to the customisation I asked for. I’m especially impressed that it was made in such a short amount of time without compromising on quality. You can truly tell it was made with love and skill. Highly recommend for anyone looking for customised cakes without compromising taste.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/g9zkCYHC7mLCMRYa6",
+    "rating": 5
+  },
+  {
+    "name": "Anupama C",
+    "quote": "Loved the cake. Well made and delicious! Highly recommend!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/XwtMJrSquPkdnt4z5",
+    "rating": 5
+  },
+  {
+    "name": "Pooja Mahajan",
+    "quote": "I recently ordered a cake from a talented homemaker, and I must say — it exceeded all expectations! The design was beautifully done, exactly as requested, and the taste was absolutely delightful. You could tell it was made with love and attention to detail. The sponge was soft and fresh, the frosting was just the right amount of sweet, and it truly added joy to our celebration. Highly recommend for anyone looking for a homemade touch with professional-level quality. Will definitely order again!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/vAsVaQg6ZZE8KVjN9",
+    "rating": 5
+  },
+  {
+    "name": "Chaitanya M",
+    "quote": "We were very pleased with the cake we ordered for the event. The appearance of the cake was beautiful, that impressed everyone. The flavor was absolutely delicious, with a perfect balance of sweetness. We will certainly consider ordering from the same place again for future celebrations.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/p6qNLbsjhnUPiAyt9",
+    "rating": 5
+  },
+  {
+    "name": "C Bhargavi",
+    "quote": "Cake is simply delicious and yummy.decor on the cake was perfect with the party theme.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/MtBCJtBp627UtfEU7",
+    "rating": 5
+  },
+  {
+    "name": "Pranavi K",
+    "quote": "Ordered a set of cupcakes and cake, customization was beautiful same as in the picture which was sent and taste was also good😋. Thank you Pure Bakes …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/B4shVhQD7LHJBf1D9",
+    "rating": 5
+  },
+  {
+    "name": "Ram Prasad S",
+    "quote": "Ordered an Oreo Cookie cake from pure_bakes_hyderabad for my daughter’s 1st birthday — and it was phenomenal! The design was beautiful and the taste was exceptional. Everyone loved it. Fantastic experience overall, highly recommended!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/68WNWbsyz2HZuN61A",
+    "rating": 5
+  },
+  {
+    "name": "Jayalakshmi V",
+    "quote": "The cake was handmade and Prasanna’s precision is really commendable. She prepared the cake exactly as I mentioned and the flavor/taste of the cake was yum. Timely, good packing and soo tasty. I highly recommend to everyone and I would also prefer her for any custom made cakes in future as well .. simply fantastic!✌️✌️✌️✌️",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/HQy2KLZAKqVku6La6",
+    "rating": 5
+  },
+  {
+    "name": "Jyothi K",
+    "quote": "The cake we ordered for my son's birthday was absolutely perfect! It looked stunning, with every detail exactly as we envisioned, and the design captured the theme beautifully. The taste was amazing—so moist and flavorful that everyone kept coming back for seconds! It truly made the celebration extra special. Thank you Mrs.Prasanna for creating such a masterpiece!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/p3LuBLhM2HKFTruE9",
+    "rating": 5
+  },
+  {
+    "name": "Abhi S",
+    "quote": "Nicely design, Awesome taste and Must Have It In All The Celebrations 🙌👏 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/dFebHvBPNKNx7EU4A",
+    "rating": 5
+  },
+  {
+    "name": "Shriya S",
+    "quote": " really appreciate for your patience of last minute order which was turned out really good. Packaging and delivery went really well and taste was unique. Thankyou so much prasanna.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/yCjKSGWkRWjWQfGw8",
+    "rating": 5
+  },
+  {
+    "name": "Divya M",
+    "quote": "The cake design is amazing and cake is too delicious and soft .. I really like the taste..",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/fBeyawxV3fKxuTpY7",
+    "rating": 5
+  },
+  {
+    "name": "S Aishwarya",
+    "quote": "The taste and looks of the chocolate cake is so good and beautiful. Definitely worth trying AGAIN ! :)",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/UQu4nR3VLzWx9Qoe6",
+    "rating": 5
+  },
+  {
+    "name": "Balakrishna M",
+    "quote": "Thank you for the wonderful cake, my wife really loved it. It’s tasted too good. Packaging and delivery was handled well. The cake turned out pretty much good than it was in the original picture 😊😊",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/G71kJDwzpQXUqfp57",
+    "rating": 5
+  },
+  {
+    "name": "Bharat G",
+    "quote": "We have ordered a cake for our Kid's Birthday. Package was very good... It's really neat and Very good taste..!! Children liked it very much.. All of them asked for 2nd time.. Thank you Prasanna garu..!!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/kmDb6A5onuT9jLtv6",
+    "rating": 5
+  },
+  {
+    "name": "Arshitha Reddy",
+    "quote": "The cupcakes and the birthday cakes were so yummy and soft... all the guests loved it.... the customisation was also lovely according to our theme... would recommend for special events... thank you so much .. the cake added beauty to out stage 😍",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/nvP1UVb8ejvUyASE6",
+    "rating": 5
+  },
+  {
+    "name": "Meher Shaik",
+    "quote": "I orders cocomelon cake from pure bakes somewhere i had a doubt she prepared well or not but seriously once I got the cake I felt so happy  cake was delicious and testy not only taste design and look also very neat and good.I suggest gothrough purr bakers always becoz she is making making fantastic cakes.....",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/UqBkszAdc6CPH26v6",
+    "rating": 5
+  },
+  {
+    "name": "Satheesh Kumar",
+    "quote": "Looked for premium and tasty cake in reasonable price.Found this and ordered from here after deep search in google...Since this is not a bakery , initially thought I am doing risk but after seeing the output of the cake and it's taste, felt extremely happy and satisfied.All attended guests liked the cake.Homely and hygiene",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/Gmd9Azsu2jJyjVWx5",
+    "rating": 5
+  },
+  {
+    "name": "Hima Bindu N",
+    "quote": "We have ordered customised cake for my 6month old baby birthday. The cake came out very well .. up to the expectations. Also the taste is top notch.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/XEnPyDdmdnqq27Jq7",
+    "rating": 5
+  },
+  {
+    "name": "A Manogna",
+    "quote": "The cake was so delicious and really appreciate her for baking the cake at short notice. Kids enjoyed a lot and I would recommend Pure cakes to make your day more special.😊",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/SR2W66RM4sshYQ1N9",
+    "rating": 5
+  },
+  {
+    "name": "Manisha",
+    "quote": "Thanks for baking such wonderful cake🤩 for our special day and made our day even more amazing after tasting the cake🥰",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/x9oJt4eKmZWYRo7R9",
+    "rating": 5
+  },
+  {
+    "name": "Kruthika N",
+    "quote": "Cake was delicious, we all loved it. She tried hard to deliver what i wanted and customized according to my need.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/dzSryBYqboHwBfrv9",
+    "rating": 5
+  },
+  {
+    "name": "Ashwin Kumar V",
+    "quote": "I ordered a sports themed cake from Pure Bakes to celebrate my kid's 4th birthday, and I was thoroughly impressed. The cake not only looked fantastic with its design but also tasted delicious. I've happily recommended them within our apartment community for their exceptional service. Thank you.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/woFoFX8TfyqwofYK7",
+    "rating": 5
+  },
+  {
+    "name": "Mounica C",
+    "quote": "This is the 2nd time we have ordered from pure bakes, as usual the cake was good and tasty this time as well. The hand work was very neat and pretty. Home made cakes are best and safe so I recommend to purchase cakes from pure bakes and you will not regret.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/VJYL55RDunkYRsdbA",
+    "rating": 5
+  },
+  {
+    "name": "Vinuthna V",
+    "quote": "I ordered a custom cake for my mom’s birthday and she just loved the cake! The reaction was all worth it! It also tasted amazing!❤️",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/h5182rYn9NXqkq8H6",
+    "rating": 5
+  },
+  {
+    "name": "Soujanya T",
+    "quote": "I recently came across Pure bakes in Instagram page and ordered custom cake for my son’s b’day. The cake was so delicious. The texture of the cream is too good. I am very happy with the taste and finishing made by them. Thank you Pure Bakes😍",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/7JwHXaMbk2Yw7C5m7",
+    "rating": 5
+  },
+  {
+    "name": "Priyanka Y",
+    "quote": "Our cake turned out to be awesome both in terms of taste and looks. Prasanna customised our cake exactly according to our sons requirements and within our budget. She also takes maximum possible measures towards making the cake healthy and hygienic specially for kids. Also it was delivered on time.Thank you very much .",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/4DSdfwyBU4VPhY2ZA",
+    "rating": 5
+  },
+  {
+    "name": "G Sachitha",
+    "quote": "Thank you for making the cake…It was amazing and elegant look wise and it was so delicious to eat.My parents loved it.The flavour was mesmerising…😊😊",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/bYHdB9rLurvQ76427",
+    "rating": 5
+  },
+  {
+    "name": "Sana Fattha",
+    "quote": "Loved the taste as well as the decoration of the cake  ❤️😊 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/mD9ii64Bi85rvH37A",
+    "rating": 5
+  },
+  {
+    "name": "Aravind C",
+    "quote": "Taste was super good",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/5VGvnJM9o35CehEM6",
+    "rating": 5
+  },
+  {
+    "name": "Priyanka V",
+    "quote": "Ordered a customized cake and donuts from Pure Bakes - both were delicious! Highly recommend their creations for amazing taste and presentation. Will definitely be a repeat customer!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/PZ5mbT5Uo1jVRS866",
+    "rating": 5
+  },
+  {
+    "name": "A Vaishnavi",
+    "quote": "Loved the taste of the dream cake and it was so delicious😋😋💯💯... Must try home made cakes from Prasanna garu♨️💯 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/Ur1oXGsfCYpSesw66",
+    "rating": 5
+  },
+  {
+    "name": "Rajish R",
+    "quote": "Ordered 5 in 1 torte cake..It's very tasty and very quality making.Everyone should taste their cakes",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/Q2L7vEJgjPRw8JRZA",
+    "rating": 5
+  },
+  {
+    "name": "Zoya Khan",
+    "quote": "Sooo grateful for the beautiful cakes that i have been able to recieve from Pure Bakes .. she totally understands what we need and makes it sooo beautiful and received it on time.... Perfect texture of taste amazing flavouring... It lingers in the mouth with refreshness and coolness. Thanku once again for making our occassions so effortlessly special by your hardworking beautifying of moments in the presentation of the cakes !! God bless you !",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/bFYA7NyHi86Dn1NJA",
+    "rating": 5
+  },
+  {
+    "name": "Pravallika S",
+    "quote": "Ordered dream cake and it was so delicious, would recommend everyone to try it once",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/EJAiW1A3M9uvw75s7",
+    "rating": 5
+  },
+  {
+    "name": "Anuradha G",
+    "quote": "Delicious, tasty,   something of the Kind   And good quality 🎂 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/uovsj7Cr2WK81feNA",
+    "rating": 5
+  },
+  {
+    "name": "Amulia J",
+    "quote": "One of the best bakers in Hyderabad. I had ordered multiple times and the taste never disappoints me. The chocolate truffle is SO delicious and I’m going to continue ordering for all my occasions 🤤🤤🤤 Her work design wise is also always on point. extremely reasonable prices and definitely worth every penny. Prasanna is a saviour , she literally came to the venue to help us out with the cake as we ruined it a little bit on the way. ♥️♥️♥️♥️",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/sHusp9WQgiyPTXjb7",
+    "rating": 5
+  },
+  {
+    "name": "Meghana S",
+    "quote": "I would definitely suggest pure bakes for my friends. No compromise with taste. Just amazing. Received cake desig as expected. Best suggestions from prassana garu! Thanks alot prassana garu for make our plan success by standing on your words.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/FkGPn3Xp3QAcgFEo7",
+    "rating": 5
+  },
+  {
+    "name": "Venu S",
+    "quote": "Ordered for niece birthday. Initially worried as these are homemade cakes but after seeing the outcome, we were completely impressed. So much happy. Thank you for making our event so memorable !!! I can strongly recommend them for others too. I can say from now, we have a dedicated baker for all our upcoming family events.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/2z6nb5EPQD3eviCj6",
+    "rating": 5
+  },
+  {
+    "name": "Divya B",
+    "quote": "Fresh and tasty...must try!!!! Hygiene is fully maintained",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/tkQENwiKcgqVGRyt5",
+    "rating": 5
+  },
+  {
+    "name": "Arindrajit Kundu",
+    "quote": "We ordered 🦄 pinata cake and it was lovely . My daughter loved it and she wasnso exited to break with the cutie hammer provided …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/md6TdPXQyTFYDYZC6",
+    "rating": 5
+  },
+  {
+    "name": "Meghana Reddy M",
+    "quote": "Ordered donuts and cupcakes. Never found fresh ones like these before. Tailored to your taste and healthy options available. Well customised treats and super attentive baker make any occasion memorable. Very neat, well maintained kitchen. Do try!!!",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/NTwAfnwrCqta5bXk9",
+    "rating": 5
+  },
+  {
+    "name": "P Manisha",
+    "quote": "Homemade Chocolates yummy very delicious and super fast delivery",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/vNnRw5rpEmRXzZVF9",
+    "rating": 5
+  },
+  {
+    "name": "Santosh K",
+    "quote": "The design of the cake was so innovative and the taste was very delicious 😋 me and my family enjoyed the delicious cake 🎂, every one should try, varieties of delicious cake from # Pure Bakes😋🥧🍰🧁🎂 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/r4SBEQVboxvvT1aq6",
+    "rating": 5
+  },
+  {
+    "name": "M Queen",
+    "quote": "Thank you very much! The cake was beautiful and it tasted delicious.This was first time trying home-made cakes.Good experience.Must try",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/Yu7ZSvnoqPF1xtKy8",
+    "rating": 5
+  },
+  {
+    "name": "Ssrilakshmi D",
+    "quote": "I have ordered for donuts, they so fresh and delicious",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/81b4DVoG1ZdQMZUM8",
+    "rating": 5
+  },
+  {
+    "name": "Divya G",
+    "quote": "I ordered birthday cake for my kid and it was really superb both taste & design..they delivered same as per our expectations...even donuts are very tasty it is a must try item...looking forward to order more...",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/EMZBXypjw9KcDCmA9",
+    "rating": 5
+  },
+  {
+    "name": "Vimal S",
+    "quote": "Incredible taste😋. The products are excellent. It was the first time I tasted the homemade cake and cupcakes from Pure Bakes, and it was just awesome ..Must try👍😊 …",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/cpiyPWnZxR5ChMLs7",
+    "rating": 5
+  },
+  {
+    "name": "Rakesh S",
+    "quote": "We ordered cakes from this Pure Bakes. Really, taste was fantabulous and design came out as per our ask. Truly appreciate for this work. Highly recommend to try for best cakes.",
+    "source": "Google review",
+    "link": "https://maps.app.goo.gl/ug27mNUkC8uMXcex7",
+    "rating": 5
+  }
 ]

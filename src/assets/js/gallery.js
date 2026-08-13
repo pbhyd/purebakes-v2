@@ -13,6 +13,13 @@ if (dataElement && configElement && galleryRoot) {
   const variant = (path, width) => path.replace(/\.webp$/i, `-${width}.webp`);
   const label = (value) => value ? value.replaceAll("-", " ").replace(/\b\w/g, (letter) => letter.toUpperCase()) : "Custom design";
   const titleCase = (value) => searchText(value).replace(/\b\w/g, (letter) => letter.toUpperCase());
+  const enquiryOccasion = (cake) => {
+    const values = cake.occasions || [];
+    if (values.includes("anniversary")) return "anniversary";
+    if (values.includes("baby-shower")) return "baby_shower";
+    if (values.includes("birthday") || values.includes("first-birthday") || values.includes("first-birthday-boy") || values.includes("first-birthday-girl")) return "birthday";
+    return "";
+  };
   function createCard(cake, position) {
     const article = document.createElement("article"); article.className = "gallery-card"; article.dataset.cakeId = cake.id;
     const button = document.createElement("button"); button.type = "button"; button.dataset.galleryOpen = cake.id; button.dataset.galleryAction = "image_open"; button.dataset.cakeId = cake.id; button.setAttribute("aria-label", `View ${cake.caption}`);
@@ -59,13 +66,13 @@ if (dataElement && configElement && galleryRoot) {
   more.addEventListener("click", () => { shown += batchSize; render(); track("gallery_load_more", { visible_count: Math.min(shown, results.length), result_count: results.length }); more.focus(); });
   grid.addEventListener("click", (event) => {
     const button = event.target.closest("[data-gallery-open]"); if (!button) return; const cake = cakes.find((item) => item.id === button.dataset.galleryOpen); if (!cake) return;
-    previousFocus = button; selectedCake = cake; dialogImage.src = cake.image; dialogImage.alt = cake.alt; dialogCaption.textContent = cake.caption; dialogContext.textContent = label(cake.occasions[0]); availability.dataset.cakeId = cake.id; availability.dataset.cakeCaption = cake.caption; dialog.showModal(); document.body.classList.add("dialog-open"); dialog.querySelector("[data-cake-dialog-close]").focus();
+    previousFocus = button; selectedCake = cake; dialogImage.src = cake.image; dialogImage.alt = cake.alt; dialogCaption.textContent = cake.caption; dialogContext.textContent = label(cake.occasions[0]); availability.dataset.cakeId = cake.id; availability.dataset.cakeCaption = cake.caption; const occasion = enquiryOccasion(cake); if (occasion) availability.dataset.occasion = occasion; else delete availability.dataset.occasion; dialog.showModal(); document.body.classList.add("dialog-open"); dialog.querySelector("[data-cake-dialog-close]").focus();
     track("gallery_image_open", { cake_id: cake.id, primary_theme: cake.themes[0] || "", primary_occasion: cake.occasions[0] || "", source_page: "gallery", position: Number(button.closest(".gallery-card").dataset.position || 0) + 1, gallery_query: state.query });
   });
   function closeGalleryDetail() {
     if (closingDetail || !dialog) return; closingDetail = true; if (dialog.open) dialog.close();
     document.body.classList.remove("dialog-open"); dialogImage.removeAttribute("src"); dialogImage.alt = ""; dialogCaption.textContent = ""; dialogContext.textContent = "PureBakes creation"; delete availability.dataset.cakeId; delete availability.dataset.cakeCaption; selectedCake = null;
-    const focusTarget = previousFocus; previousFocus = null; closingDetail = false; focusTarget?.focus();
+    delete availability.dataset.occasion; const focusTarget = previousFocus; previousFocus = null; closingDetail = false; focusTarget?.focus();
   }
   dialog?.querySelector("[data-cake-dialog-close]").addEventListener("click", closeGalleryDetail);
   dialog?.addEventListener("cancel", (event) => { event.preventDefault(); closeGalleryDetail(); });
