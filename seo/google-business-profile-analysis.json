@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-08-13T13:05:05.060Z",
+  "sourceFiles": [
+    {
+      "role": "GBP_PERFORMANCE",
+      "filename": "seo/input/google-business-profile/performance/GMB insights (Performance Report) - 2025-2-14 - 2026-8-10 - 4c653c40589fc07ec42b31a054322dd0.csv",
+      "fileType": "CSV",
+      "rows": 1,
+      "columns": 16,
+      "fields": [
+        "Shop code",
+        "Business name",
+        "Address",
+        "Labels",
+        "Google Search – Mobile",
+        "Google Search – Desktop",
+        "Google Maps – Mobile",
+        "Google Maps – Desktop",
+        "Calls",
+        "Messages",
+        "Bookings",
+        "Directions",
+        "Website clicks",
+        "Food orders",
+        "Food menu clicks",
+        "Hotel bookings"
+      ],
+      "dateCoverage": {
+        "start": "2025-02-14",
+        "end": "2026-08-10",
+        "basis": "export filename; source has one aggregate row and no date column"
+      }
+    },
+    {
+      "role": "GBP_PROFILE_INFORMATION",
+      "filename": "seo/input/google-business-profile/profile/Ungrouped locations-20260813-182007-4c40390bf6ee90de3a8eb3f00f5f72ae.csv",
+      "fileType": "CSV",
+      "rows": 1,
+      "columns": 86,
+      "fields": [
+        "Google updates",
+        "Status",
+        "Shop code",
+        "Business name",
+        "Address line 1",
+        "Address line 2",
+        "Address line 3",
+        "Address line 4",
+        "Address line 5",
+        "Sub-locality",
+        "Locality",
+        "Administrative area",
+        "Country/Region",
+        "Postcode",
+        "Primary phone",
+        "Additional phones",
+        "Website",
+        "Primary category",
+        "Additional categories",
+        "Sunday hours",
+        "Monday hours",
+        "Tuesday hours",
+        "Wednesday hours",
+        "Thursday hours",
+        "Friday hours",
+        "Saturday hours",
+        "Special hours",
+        "From the business",
+        "Opening date",
+        "Labels",
+        "AdWords location extensions phone",
+        "Accessibility: Assisted listening devices (has_assisted_listening_devices)",
+        "Accessibility: Assistive hearing loop (has_hearing_loop)",
+        "Accessibility: Wheelchair-accessible car park (has_wheelchair_accessible_parking)",
+        "Accessibility: Wheelchair-accessible entrance (has_wheelchair_accessible_entrance)",
+        "Accessibility: Wheelchair-accessible seating (has_wheelchair_accessible_seating)",
+        "Accessibility: Wheelchair-accessible toilet (has_wheelchair_accessible_restroom)",
+        "Amenities: Gender-neutral toilets (has_restroom_unisex)",
+        "Amenities: Toilet (has_restroom)",
+        "Amenities: Wi-Fi (wi_fi)",
+        "Crowd: LGBTQ+ friendly (welcomes_lgbtq)",
+        "Dining options: Breakfast (serves_breakfast)",
+        "From the business: Identifies as women-owned (is_owned_by_women)",
+        "Offerings: Coffee (serves_coffee)",
+        "Parking: Free multi-storey car park (has_parking_garage_free)",
+        "Parking: Free of charge street parking (has_parking_street_free)",
+        "Parking: Free parking lot (has_parking_lot_free)",
+        "Parking: On-site parking (has_onsite_parking)",
+        "Parking: Paid multi-storey car park (has_parking_garage_paid)",
+        "Parking: Paid parking lot (has_parking_lot_paid)",
+        "Parking: Paid street parking (has_parking_street_paid)",
+        "Payments: Cash only (requires_cash_only)",
+        "Payments: Credit cards (pay_credit_card)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): American Express (american_express)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): China Union Pay (china_union_pay)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): Diners Club (diners_club)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): Discover (discover)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): JCB (jcb)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): Mastercard (mastercard)",
+        "Payments: Credit cards (pay_credit_card_types_accepted): VISA (visa)",
+        "Payments: Debit cards (pay_debit_card)",
+        "Payments: Google Pay (pay_mobile_tez)",
+        "Payments: NFC mobile payments (pay_mobile_nfc)",
+        "Payments: Pluxee (accepts_sodexo_meal_voucher)",
+        "Pets: Dogs allowed inside (allows_dogs_inside)",
+        "Place page URLs: Facebook (url_facebook)",
+        "Place page URLs: Instagram (url_instagram)",
+        "Place page URLs: LinkedIn (url_linkedin)",
+        "Place page URLs: Menu or services link (url_menu)",
+        "Place page URLs: Order ahead links (url_order_ahead)",
+        "Place page URLs: Pinterest (url_pinterest)",
+        "Place page URLs: Texting number (url_text_messaging)",
+        "Place page URLs: WhatsApp (url_whatsapp)",
+        "Place page URLs: X (Twitter) (url_twitter)",
+        "Place page URLs: YouTube (url_youtube)",
+        "Place page attributes: Primary chat (preferred_messaging_service)",
+        "Planning: Appointment required (requires_appointments)",
+        "Recycling: Electronics (has_recycling_electronics)",
+        "Service options: Delivery (has_delivery)",
+        "Service options: Dine-in (serves_dine_in)",
+        "Service options: Drive-through (has_drive_through)",
+        "Service options: In-store pick-up (has_in_store_pickup)",
+        "Service options: In-store shopping (has_in_store_shopping)",
+        "Service options: Kerbside pickup (has_curbside_pickup)",
+        "Service options: On-site services (has_onsite_services)",
+        "Service options: Takeaway (has_takeout)"
+      ],
+      "dateCoverage": null
+    }
+  ],
+  "dateCoverage": {
+    "start": "2025-02-14",
+    "end": "2026-08-10",
+    "basis": "export filename; source has one aggregate row and no date column"
+  },
+  "performance": {
+    "search": {
+      "mobile": 48306,
+      "desktop": 5092,
+      "total": 53398
+    },
+    "maps": {
+      "mobile": 13172,
+      "desktop": 576,
+      "total": 13748
+    },
+    "totalViews": 67146
+  },
+  "deviceDistribution": {
+    "mobileViews": 61478,
+    "desktopViews": 5668,
+    "totalViews": 67146,
+    "mobilePercentage": 0.9155869299734906,
+    "desktopPercentage": 0.0844130700265094
+  },
+  "interactions": {
+    "calls": 946,
+    "messages": 0,
+    "bookings": 0,
+    "directions": 1630,
+    "websiteClicks": 377,
+    "foodOrders": 0,
+    "foodMenuClicks": 135,
+    "hotelBookings": 0
+  },
+  "interactionRates": {
+    "calls": 0.014088702230959402,
+    "messages": 0,
+    "bookings": 0,
+    "directions": 0.024275459446579096,
+    "websiteClicks": 0.005614630804515533,
+    "foodOrders": 0,
+    "foodMenuClicks": 0.002010544187293361,
+    "hotelBookings": 0
+  },
+  "profileFacts": {
+    "shopCode": "07990579187228755015",
+    "status": "Published",
+    "businessName": "Pure Bakes - Homemade Customised Cakes | Wedding Cakes | First Birthday Cakes | Engagement Cakes | Trending Cakes",
+    "address": {
+      "line1": "Nest Apartment, Sri Laxmi Nagar Colony, Manikonda",
+      "locality": "Hyderabad",
+      "administrativeArea": "Telangana",
+      "country": "IN",
+      "postcode": "500089"
+    },
+    "primaryPhone": "099802 13333",
+    "additionalPhones": null,
+    "website": "https://www.purebakes.in/",
+    "primaryCategory": "Bakery",
+    "additionalCategories": [
+      "Cake shop",
+      "Patisserie",
+      "Cupcake shop",
+      "Dessert shop",
+      "Wedding cake shop",
+      "Chocolate artisan"
+    ],
+    "hours": {
+      "sunday": "09:00-22:00",
+      "monday": "09:00-22:00",
+      "tuesday": "09:00-22:00",
+      "wednesday": "09:00-22:00",
+      "thursday": "09:00-22:00",
+      "friday": "09:00-22:00",
+      "saturday": "09:00-22:00"
+    },
+    "description": "Pure Bakes is Hyderabad’s luxury custom cake studio, handcrafting fully bespoke cakes for weddings, birthdays, engagements, baby showers and every celebration.\n\nEvery cake — including multi-tier wedding designs — is available in both egg and 100% eggless with no compromise on taste, texture or height, a favourite among Hyderabad’s Jain and vegetarian families.\n\nWe’re FSSAI certified and bake fresh to order using best chocolate and high quality fruit purées.\n\nBeyond cakes, we run Hyderabad’s leading Telugu-language baking classes, online and offline.\n\nMessage us on WhatsApp for a free design consultation — we reply within 2 hours, 7 days a week, with safe AC-cab delivery across Hyderabad.",
+    "openingDate": "2022-09",
+    "social": {
+      "facebook": "https://www.facebook.com/pure.bakes.hyderabad/",
+      "instagram": "https://www.instagram.com/pure_bakes_hyderabad/",
+      "youtube": "https://www.youtube.com/@purebakes"
+    },
+    "links": {
+      "menuOrServices": "https://www.purebakes.in/",
+      "orderAhead": "https://wa.me/9980213333",
+      "texting": null,
+      "whatsapp": "https://wa.me/919980213333"
+    },
+    "attributes": {
+      "womenOwned": "Yes",
+      "appointmentRequired": null,
+      "delivery": "Yes",
+      "dineIn": null,
+      "inStorePickup": "Yes",
+      "inStoreShopping": null,
+      "curbsidePickup": "Yes",
+      "onsiteServices": null,
+      "takeaway": "Yes"
+    }
+  },
+  "factClassifications": [
+    {
+      "field": "status/shopCode",
+      "classification": "USE_AS_AUTHORITATIVE_FACT",
+      "value": "Published; 07990579187228755015"
+    },
+    {
+      "field": "address",
+      "classification": "USE_WITH_REVIEW",
+      "value": {
+        "line1": "Nest Apartment, Sri Laxmi Nagar Colony, Manikonda",
+        "locality": "Hyderabad",
+        "administrativeArea": "Telangana",
+        "country": "IN",
+        "postcode": "500089"
+      },
+      "reason": "Use as the actual Manikonda contact/pickup location only after owner confirms public display and pickup details; never imply 41 branches."
+    },
+    {
+      "field": "phone",
+      "classification": "USE_AS_AUTHORITATIVE_FACT",
+      "value": "099802 13333"
+    },
+    {
+      "field": "website",
+      "classification": "USE_WITH_REVIEW",
+      "value": "https://www.purebakes.in/",
+      "reason": "Current GBP uses WWW; change to the approved non-WWW production canonical only at cutover."
+    },
+    {
+      "field": "categories",
+      "classification": "USE_AS_AUTHORITATIVE_FACT",
+      "value": [
+        "Bakery",
+        "Cake shop",
+        "Patisserie",
+        "Cupcake shop",
+        "Dessert shop",
+        "Wedding cake shop",
+        "Chocolate artisan"
+      ]
+    },
+    {
+      "field": "hours",
+      "classification": "USE_WITH_REVIEW",
+      "value": {
+        "sunday": "09:00-22:00",
+        "monday": "09:00-22:00",
+        "tuesday": "09:00-22:00",
+        "wednesday": "09:00-22:00",
+        "thursday": "09:00-22:00",
+        "friday": "09:00-22:00",
+        "saturday": "09:00-22:00"
+      },
+      "reason": "GBP says 09:00–22:00 daily; current website audit stated 09:00–21:00."
+    },
+    {
+      "field": "businessName",
+      "classification": "WEBSITE_PRESENTATION_SHOULD_DIFFER",
+      "value": "Pure Bakes - Homemade Customised Cakes | Wedding Cakes | First Birthday Cakes | Engagement Cakes | Trending Cakes",
+      "reason": "Keep PureBakes as the brand; do not carry the keyword-heavy 'Homemade...' GBP title into website headings."
+    },
+    {
+      "field": "description",
+      "classification": "USE_WITH_REVIEW",
+      "value": "Pure Bakes is Hyderabad’s luxury custom cake studio, handcrafting fully bespoke cakes for weddings, birthdays, engagements, baby showers and every celebration.\n\nEvery cake — including multi-tier wedding designs — is available in both egg and 100% eggless with no compromise on taste, texture or height, a favourite among Hyderabad’s Jain and vegetarian families.\n\nWe’re FSSAI certified and bake fresh to order using best chocolate and high quality fruit purées.\n\nBeyond cakes, we run Hyderabad’s leading Telugu-language baking classes, online and offline.\n\nMessage us on WhatsApp for a free design consultation — we reply within 2 hours, 7 days a week, with safe AC-cab delivery across Hyderabad.",
+      "reason": "Premium studio wording aligns; superlatives, FSSAI, all-cake eggless availability, ingredient, delivery and response-time claims require owner evidence."
+    },
+    {
+      "field": "whatsappLinks",
+      "classification": "OWNER_REVIEW_REQUIRED",
+      "value": [
+        "https://wa.me/9980213333",
+        "https://wa.me/919980213333"
+      ],
+      "reason": "The order-ahead link omits the country code (9980213333); the WhatsApp link uses E.164 digits (919980213333). They appear to represent the same local number, but owner confirmation is required before centralization."
+    },
+    {
+      "field": "serviceOptions",
+      "classification": "USE_WITH_REVIEW",
+      "value": {
+        "womenOwned": "Yes",
+        "appointmentRequired": null,
+        "delivery": "Yes",
+        "dineIn": null,
+        "inStorePickup": "Yes",
+        "inStoreShopping": null,
+        "curbsidePickup": "Yes",
+        "onsiteServices": null,
+        "takeaway": "Yes"
+      },
+      "reason": "Translate exact GBP Yes/No attributes only after confirming customer-facing pickup/delivery process."
+    },
+    {
+      "field": "social",
+      "classification": "USE_AS_AUTHORITATIVE_FACT",
+      "value": {
+        "facebook": "https://www.facebook.com/pure.bakes.hyderabad/",
+        "instagram": "https://www.instagram.com/pure_bakes_hyderabad/",
+        "youtube": "https://www.youtube.com/@purebakes"
+      }
+    }
+  ],
+  "consistencyIssues": [
+    {
+      "issue": "GBP website host differs from approved convention",
+      "current": "https://www.purebakes.in/",
+      "recommendedFuture": "https://purebakes.in/",
+      "actionTiming": "production cutover only; never point GBP to staging"
+    },
+    {
+      "issue": "Inconsistent WhatsApp URL formats",
+      "current": [
+        "https://wa.me/9980213333",
+        "https://wa.me/919980213333"
+      ],
+      "recommendedFuture": "Owner-confirm the number; store 919980213333 once and generate all wa.me URLs programmatically."
+    },
+    {
+      "issue": "Hours conflict",
+      "current": {
+        "gbp": {
+          "sunday": "09:00-22:00",
+          "monday": "09:00-22:00",
+          "tuesday": "09:00-22:00",
+          "wednesday": "09:00-22:00",
+          "thursday": "09:00-22:00",
+          "friday": "09:00-22:00",
+          "saturday": "09:00-22:00"
+        },
+        "currentWebsiteAudit": "09:00–21:00 daily"
+      },
+      "recommendedFuture": "Owner-confirm before centralizing."
+    },
+    {
+      "issue": "Keyword-heavy GBP name",
+      "current": "Pure Bakes - Homemade Customised Cakes | Wedding Cakes | First Birthday Cakes | Engagement Cakes | Trending Cakes",
+      "recommendedFuture": "Website brand name PureBakes; premium custom cake studio positioning. GBP naming compliance/changes require separate owner review."
+    },
+    {
+      "issue": "Address versus service-area pages",
+      "current": {
+        "line1": "Nest Apartment, Sri Laxmi Nagar Colony, Manikonda",
+        "locality": "Hyderabad",
+        "administrativeArea": "Telangana",
+        "country": "IN",
+        "postcode": "500089"
+      },
+      "recommendedFuture": "Treat Manikonda as the single configured location; location pages describe service/delivery areas, not branches."
+    }
+  ],
+  "localSeoImplications": [
+    "Keep all 41 location pages in scope.",
+    "Prioritize the 5 PROTECT and 6 IMPROVE pages.",
+    "Do not imply physical branches outside the configured Manikonda address.",
+    "Preserve non-WWW production host and update GBP website only after cutover."
+  ],
+  "mobileImplications": [
+    "Design mobile-first at 320–430px.",
+    "Prioritize real cake photography, concise premium value, gallery discovery and WhatsApp.",
+    "Keep tap targets large and avoid heavy map embeds/overloaded hero content.",
+    "Test call, directions, website and WhatsApp journeys on mobile."
+  ],
+  "ownerReviewItems": [
+    "Confirm canonical WhatsApp number.",
+    "Confirm public phone and operating hours.",
+    "Confirm address/pickup wording and delivery/service areas.",
+    "Provide current Google rating, review count and review URL.",
+    "Validate FSSAI/certification and all service/ingredient claims before schema or copy use.",
+    "Decide wedding-domain relationship."
+  ]
+}

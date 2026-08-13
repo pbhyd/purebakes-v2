@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://new.purebakes.in/schemas/gallery-item.schema.json",
+  "title": "PureBakes gallery item",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "image", "caption", "alt", "themes", "occasions", "flavours", "styles", "dateAdded", "featured"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^cake-[0-9]{4,}$" },
+    "image": { "type": "string", "pattern": "^/assets/images/gallery/.+\\.(avif|webp|jpg|jpeg|png)$" },
+    "legacyImageUrl": { "type": "string", "format": "uri" },
+    "caption": { "type": "string", "minLength": 1 },
+    "alt": { "type": "string", "minLength": 1, "maxLength": 180 },
+    "themes": { "$ref": "#/$defs/keys" },
+    "occasions": { "$ref": "#/$defs/keys" },
+    "flavours": { "$ref": "#/$defs/keys" },
+    "styles": { "$ref": "#/$defs/keys" },
+    "audience": { "$ref": "#/$defs/keys" },
+    "tiers": { "type": "integer", "minimum": 1, "maximum": 10 },
+    "keywords": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+    "dateAdded": { "type": "string", "format": "date" },
+    "featured": { "type": "boolean" }
+  },
+  "$defs": {
+    "keys": { "type": "array", "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" } }
+  }
+}

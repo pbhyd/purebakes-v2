@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://new.purebakes.in/schemas/taxonomy.schema.json",
+  "title": "PureBakes controlled taxonomy",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["name", "slug", "url"],
+    "properties": {
+      "name": { "type": "string", "minLength": 1 },
+      "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+      "url": { "type": "string", "pattern": "^/.+/$" },
+      "aliases": { "type": "array", "uniqueItems": true, "items": { "type": "string" } }
+    }
+  }
+}

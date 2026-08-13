@@ -1,0 +1,4932 @@
+{
+  "generatedAt": "2026-08-13T12:52:02.624Z",
+  "coverage": {
+    "start": "2026-04-19",
+    "end": "2026-08-11",
+    "days": 115
+  },
+  "totalsFromExportedPageRows": {
+    "clicks": 2,
+    "impressions": 5367,
+    "ctr": 0.0003726476616359232,
+    "position": 50.001976895844976
+  },
+  "gallery": {
+    "clicks": 0,
+    "impressions": 745,
+    "ctr": 0,
+    "position": 57.58088590604027,
+    "variants": [
+      {
+        "url": "https://purebakes.in/gallery",
+        "clicks": 0,
+        "impressions": 396,
+        "ctr": 0,
+        "position": 57
+      },
+      {
+        "url": "https://purebakes.in/gallery/",
+        "clicks": 0,
+        "impressions": 349,
+        "ctr": 0,
+        "position": 58.24
+      }
+    ]
+  },
+  "topLandingPages": [
+    {
+      "url": "https://purebakes.in/",
+      "clicks": 2,
+      "impressions": 4388,
+      "ctr": 0.0005,
+      "position": 48.52
+    },
+    {
+      "url": "https://purebakes.in/gallery",
+      "clicks": 0,
+      "impressions": 396,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "url": "https://purebakes.in/gallery/",
+      "clicks": 0,
+      "impressions": 349,
+      "ctr": 0,
+      "position": 58.24
+    },
+    {
+      "url": "https://www.purebakes.in/classes",
+      "clicks": 0,
+      "impressions": 97,
+      "ctr": 0,
+      "position": 52.69
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-madhapur/",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 54.4
+    },
+    {
+      "url": "https://www.purebakes.in/",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 62.14
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-patancheru/",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 52.42
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-tarnaka/",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 52.5
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 35.4
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-bachupally/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-khairatabad/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 62.5
+    },
+    {
+      "url": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-tarnaka",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 47.67
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-raidurgam/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 55.33
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-financial-district/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-patancheru",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-himayatnagar",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41.5
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-punjagutta/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59.5
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-lb-nagar",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 75.5
+    }
+  ],
+  "queries": [
+    {
+      "query": "custom birthday cake",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 89.76,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom birthday cake home bakery",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 24.08,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom birthday cake home business",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 25.93,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom celebration cake",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 80.87,
+      "category": "OTHER",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "cakes near me",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 21.38,
+      "category": "NEAR_ME",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom birthday cake home baker",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 48.52,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "travel welcome back cake",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 36.39,
+      "category": "OTHER",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom birthday cakes",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 71.44,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom fondant cake",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 44.71,
+      "category": "OTHER",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "cakes hyderabad",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 37.33,
+      "category": "LOCATION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom birthday cake business",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 77.38,
+      "category": "OCCASION",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "cake ke design",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 66.15,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "HIGH_IMPRESSIONS_LOW_CTR"
+    },
+    {
+      "query": "custom cakes home business",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 31.29,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury custom birthday cake",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 65.04,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cakes hyderabad",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 24.13,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 30.2,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes home business",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 35.65,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom fondant birthday cake",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 55.95,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake ke photo",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 91.95,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake bakery",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 61.94,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake hyderabad",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 27.31,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cake for girls",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 39.47,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "black and gold engagement cake",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 54.27,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 36.21,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes home bakery",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 54.79,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes home baker",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 61.64,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "lic cake",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 27.77,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for girls",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 143.31,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cakes",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 40.5,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "passport airplane birthday cake",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 44.83,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 47.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "travel themed birthday cake passport airplane",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 47.67,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake home business india",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 25.27,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cake for birthday girl",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 41.73,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 43.82,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake home business",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 54.82,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom theme cake",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 73.36,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cakes near me",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 6.7,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "lic retirement cake",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 36.4,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury first birthday cake girl",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 62.9,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "homemade anniversary cake",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 80.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cakes online hyderabad",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 7.67,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customized cakes hyderabad",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 22.56,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake home business",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 35.89,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury birthday cake for girls",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 38.22,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photography theme cake design",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 47.11,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "seemantham cake design",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 49.33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "seemantham cake",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 54.67,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for debut girl",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 59.33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "red glitter cake",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 64.22,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cakes hyderabad",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 16.38,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customized cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 16.75,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes and bakes",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 58.75,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake luxury",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 68.75,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "engagement cakes hyderabad",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 37.57,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "lic retirement cake design",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 47.14,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "all the best cakes",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 47.57,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes images",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 77.57,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized birthday cake",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 96.43,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake studio",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 15,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes and bakes hyderabad",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 17.5,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "best birthday cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 18.67,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom birthday cake home baker india",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 27.83,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "baking class hyderabad",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 36.33,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake images",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 37.67,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake home bakery",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 46.5,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photography cake design",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 48.67,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake debut design for girl",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 52.33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photographer cake design",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 53.17,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "professional cake",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 67.83,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "my new bakery hyderabad",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 70.83,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photo cake hyderabad",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 82.17,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury cake design",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 104.5,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes pic",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 110,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake homemade",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 11.6,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customised cake near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 12,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 27.4,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cakes hyderabad",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 29,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cakes home bakery",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 32.2,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cakes",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 33.2,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday customised cake",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 44.6,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "seemantham cake ideas",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 57,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom celebration cakes",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 66.8,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "elegant white and gold anniversary cake with fresh flowers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 96.6,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake for girls",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 318.8,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pure bakes",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4,
+      "category": "BRAND",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom birthday cake home bakery india",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "unique cakes and bakes",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 20,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "pure cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 31.25,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake decorating",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33.5,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cake design",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 35.25,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake design",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 38.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "romantic anniversary cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 40.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "hyderabad cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 44.25,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome back to india cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 48.25,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake fondant",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 48.75,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake photo",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 50.5,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes homemade",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 54.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cake in hyderabad",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 55,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "passport cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 55.25,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beautiful cakes",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 61,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "camera theme cake design",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 77.25,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday hyder",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 94.75,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "godh bharai cake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 98.75,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "classy birthday cakes with red roses",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 146,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cakes hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customised cakes near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.33,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom bakes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 6,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom birthday cakes hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 6,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom cake hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "home made cake near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.67,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "private cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "baking classes in hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 29.67,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 30.67,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bake pure",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 32.67,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake in hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 33.33,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 33.33,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "homemade cakes near me for birthday",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 34.67,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "most beautiful birthday cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 36.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "baking classes hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 36.67,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bakes and cakes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 37,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cake hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 39.33,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake small business",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 40.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday sajitha",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 42,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes small business",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 43.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cake for girls",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 44,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cakes for birthday",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 56,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake images for girls birthday",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 60,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beautiful custom birthday cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 62,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom photo cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 63,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake business from home",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 67.33,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake ke",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 72.33,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 76.33,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cake for girl",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 78.67,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom celebration cakes bakery",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 80.33,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake india",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 81,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday customized cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 81.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury mermaid birthday cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 82.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized birthday cakes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 82.67,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome to india cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 84,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury safari first birthday cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 87,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "baking workshop hyderabad",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 87.33,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom celebration cake bakery",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 88,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "images of cakes",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 97.33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cakes for girls",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 114,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beautiful birthday cake",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 275.33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pure bakes hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1.5,
+      "category": "BRAND",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customised cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "beautiful cake designs for birthday",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "wedding cakes hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "photo cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customised cake in hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "designer cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "golden cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "designer cakes hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "genuine cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 17,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday cakes near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "designer cakes near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18.5,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "handcrafted cakes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes customised",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "happy birthday cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "authentic cakes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake images for kids",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake photo design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake customise",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 26,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best birthday cakes hyderabad",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 26.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "professional cakes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 26.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for boys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 27,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake photo",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 27,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake lic",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 27,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bf birthday cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "new cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29.5,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes home business india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pick cakes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday bakery",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 33.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised birthday cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "princess cake birthday cake for girl",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 38,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "ass cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 40.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design birthday",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cakes small business",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "special cakes for all occasions",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "kids cakes for girls",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 47,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake for girls kids",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 48.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for boys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 53,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake custom bakery",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 53.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "expensive cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55.5,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cakes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "my new bakery hyderabad contact number",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized theme cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 58,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "wedding cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 60,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake image",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake business india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "handmade cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 63,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes and bakes logo",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes pics",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 67.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake small business",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 68.5,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes home baker india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 69.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customise cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 69.5,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "passport birthday cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 70,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "godh bharai cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 72,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake for debut girl",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 73,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "circus cake girl",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 73,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes photo",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 74,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome back india cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 77.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "fancy cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 82.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "glitter cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 84.5,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "camera cake design",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 85,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury fondant birthday cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 88.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes india",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury birthday cake gold theme",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes pictures",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 101,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "gold cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 107,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bon voyage cake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 149.5,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "theme cake for girl",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 151,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakesin",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customised cake hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday cake decorations near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom birthday cake hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday bakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "hand cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "home made birthday cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday cake near by",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake magic rajahmundry",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "best customized cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake near me custom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "creative cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "best customised cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "bon voyage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "building theme cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "THEME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes custom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "sexi cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "unique cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "bridal shower cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes for birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "unique birthday cakes for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "frozen cake house photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "kiko cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "10 year girl cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "1 month baking course fees",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cakes in hyderabad india",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "home bakery custom cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "home made cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "hyderabad cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13,
+      "category": "LOCATION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "baby boy 1st birthday cake for boys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "bride to be cake ideas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cartoon cake design for boys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "birthday cake in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "layered cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "pure cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "surprise birthday cake for husband",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake customer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake design for girl friend",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "custom birthday cakes india home baker",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "hubby cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "icing cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "kids birthday cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "real cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "best customized cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "customisation cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17,
+      "category": "OTHER",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "best cakes in hyderabad for birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "half anniversary cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19,
+      "category": "OCCASION",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "malatya pure veg cake shop photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "cake designs for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR_RANKING"
+    },
+    {
+      "query": "bridal shower cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "hand made birthday cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "image cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "raunak bakery photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "indian stock market cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "quality bakers tilhar photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique cake for girlfriend",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beautiful cake photo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for kids",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "boobs cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for first birthday girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake desi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design wife birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes nearby",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "money cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "purple cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "vintage 50th birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design anniversary",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake photo real",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "red wedding cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "couple anniversary cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "double decker cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "mini cake design for husband",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bayko birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for boyfriend",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "girls cake photo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "absolutely cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cakes customised",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "khalsa bakery photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "boy birthday cake design chocolate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "handmade birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "special cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cake for parents",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bride to be cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake models",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "2 layer cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bowling birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake pic",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "carved cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "half kg customised cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "tom and jerry cake topper",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome home cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 32,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beauty salon cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "princess cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique cake design for boss birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cakes hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake cutting places in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "boss birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "little angel cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photo cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "romantic birthday cake girlfriend",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique birthday cake for baby girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique pineapple cake design for boys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake couple",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake for girlfriend",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cek pic",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customization cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "love you dad cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bento cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cek",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pink little pony cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bespoke cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best birthday cake in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "love romantic birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "blue cake for men",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "home made birthday cake near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "moodbidri cake shop",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "small cute couple cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "1.5 kg cake 2 tier",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "husband birthday cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "angel cake design for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake desgin",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "spunge cakes and cafe tirur",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake design mom",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake images square shape",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes business",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "the eventful cakes- wedding cake, engagement cakes, customized cakes & \nanniversary cake in hyderabad photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "wedding cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "baking academy hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cartoon face cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "hyderabad bakery cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "3kg cake price",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "girl topper",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "picture cake design for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "seemantham cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "big girl party cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom made cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "expensive cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "farm cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy friendship day cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "love design cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique cake happy birthday wishes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "chocolate birthday cake sri lanka",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "colorful birthday cake party",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "light pink cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "welcome back cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake cheesecake shop menu",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake handmade",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bon voyage cake ideas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday walmart cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "home made birthday cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cakes and bakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake for birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "father's day cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday expensive cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pineapple cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "two in one cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday purple heart cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "iphone cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "lassana flora cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique latest cake designs for birthday",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique simple birthday cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "1st birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "design cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "order",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "premium cakes in hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake cakes and bakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "green colour cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury big birthday cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "valaikappu cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "anniversary cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake details",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized cake for bride to be",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "fancy custom cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best cake hyderabad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "creative birthday cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "one cake two design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "wedding anniversary cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake design for sister",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for monthly milestone",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "5k cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "modern cake design for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "carnival theme cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "workaholic cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 55,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "classy flower birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cute cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "1st birthday cake for boy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bride to be cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cheesecake shop custom cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "hindu indian wedding cake designs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury birthday cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "picture cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "aloha theme cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "clean luxury birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "двойной торт для мальчика и девочки",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "handmade cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury birthday cake bakery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pink handbag cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pregnant mom to be cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "spar cakes and prices",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customise cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "hand made cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "2 in 1 cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "love birthday cake for husband",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bff best friend cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bolo tema fotografia masculino",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes in hyd",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "indian bride to be cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake with picture",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised cake for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "yellow cake design for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake money design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake design for mother",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "image of cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom decorated cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "fancy 1 k g cake designs for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pastel de aniversario",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "travel theme cake without fondant",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "fondant cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "2nd wedding anniversary cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "best homemade cakes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77,
+      "category": "NEAR_ME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cakes design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "godh bharai cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "simple birthday cake home bakery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury safari first birthday cake boy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "red rose bakery ameerpet",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "baby doll cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "boy character cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "fresh flower engagement cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy journey cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "1 pound aesthetic cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "homemade celebration cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "elegant pink and gold cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "professional birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "learn baking online",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85,
+      "category": "BAKING_CLASSES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "professional birthday cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "super hero cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday custom cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customised birthday cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury custom cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pure bake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88,
+      "category": "BRAND",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bakery cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom cake decorating business",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom photo birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "minimalist custom cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "bon voyage cake design",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "carnival first birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "theme cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "e cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "traditional wedding cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cakes bakery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cute birthday cake pastel",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique birthday cake images",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 93,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pure bakery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94,
+      "category": "BRAND",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique customized cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94,
+      "category": "CUSTOM_CAKES",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "photographer cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake pics for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake wife",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "colorful fondant birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury pink birthday cake girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom birthday cake elegant bakery",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "colorful birthday celebration cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "custom fondant celebration cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury first birthday cake boy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "camera theme cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "seemantham cake photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake with custom image",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 102,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday shabana cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 106,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "my bakery (my new bakery) hyderabad photos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 107,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "personalized goldilocks cake with cupcakes price list",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 114,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "one birthday cake girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 118,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "luxury cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 122,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for girls 12 years",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 130,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "1st birthday carnival theme cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 136,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pregnancy announcement cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 144,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake customised",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 159,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake 5kg",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 160,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake black and gold",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 169,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "elegant red and gold cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 172,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "pista house mehdipatnam",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 185,
+      "category": "LOCATION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "surprise pregnancy announcement cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 202,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake ki",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 207,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "18th birthday cake black and white",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 211,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "theme cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 212,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "mehndi cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 220,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake party",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 226,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday cake girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 231,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "beautiful birthday cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 233,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "theme cakes for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 233,
+      "category": "THEME",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "customized birthday cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 277,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday cake model",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 298,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique birthday cake for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 316,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique birthday cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 359,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "unique cakes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 391,
+      "category": "OTHER",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cute birthday cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 414,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday cake for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 480,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake images for girls",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 488,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "birthday cake for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 505,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "happy birthday birthday cake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 537,
+      "category": "OCCASION",
+      "opportunity": "MONITOR"
+    },
+    {
+      "query": "cake photo for girl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 542,
+      "category": "GALLERY_DESIGN",
+      "opportunity": "MONITOR"
+    }
+  ]
+}

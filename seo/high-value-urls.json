@@ -1,0 +1,605 @@
+{
+  "generatedAt": "2026-08-13T12:52:02.623Z",
+  "guardrails": [
+    {
+      "url": "https://purebakes.in/",
+      "classification": "CRITICAL",
+      "clicks16m": 555,
+      "impressions16m": 30158,
+      "clicks3m": 524,
+      "impressions3m": 28295,
+      "source": "live_crawl_and_search_console",
+      "reason": "Core landing page or substantial measured organic visibility."
+    },
+    {
+      "url": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 17,
+      "clicks3m": 0,
+      "impressions3m": 17,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 17,
+      "clicks3m": 0,
+      "impressions3m": 17,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 1,
+      "impressions16m": 27,
+      "clicks3m": 1,
+      "impressions3m": 27,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-ameerpet/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-begumpet/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-financial-district/",
+      "classification": "HIGH",
+      "clicks16m": 1,
+      "impressions16m": 178,
+      "clicks3m": 1,
+      "impressions3m": 178,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-gachibowli/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-hitec-city/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-kokapet/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-kompally/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-kondapur/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-kukatpally/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "classification": "CRITICAL",
+      "clicks16m": 10,
+      "impressions16m": 292,
+      "clicks3m": 10,
+      "impressions3m": 292,
+      "source": "live_crawl_and_search_console",
+      "reason": "Core landing page or substantial measured organic visibility."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-madhapur/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 95,
+      "clicks3m": 0,
+      "impressions3m": 95,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-manikonda/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-miyapur/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-nallagandla/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-narsingi/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-patancheru/",
+      "classification": "HIGH",
+      "clicks16m": 2,
+      "impressions16m": 171,
+      "clicks3m": 2,
+      "impressions3m": 171,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-secunderabad/",
+      "classification": "HIGH",
+      "clicks16m": 2,
+      "impressions16m": 35,
+      "clicks3m": 2,
+      "impressions3m": 35,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-somajiguda/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-tellapur/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-uppal/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 30,
+      "clicks3m": 0,
+      "impressions3m": 30,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 17,
+      "clicks3m": 0,
+      "impressions3m": 17,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/gallery/",
+      "classification": "HIGH",
+      "clicks16m": 0,
+      "impressions16m": 146,
+      "clicks3m": 0,
+      "impressions3m": 141,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-neopolis/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-raidurgam/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 29,
+      "clicks3m": 0,
+      "impressions3m": 29,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-shamshabad/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-bachupally/",
+      "classification": "HIGH",
+      "clicks16m": 3,
+      "impressions16m": 103,
+      "clicks3m": 3,
+      "impressions3m": 103,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "classification": "HIGH",
+      "clicks16m": 1,
+      "impressions16m": 109,
+      "clicks3m": 1,
+      "impressions3m": 109,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-khairatabad/",
+      "classification": "HIGH",
+      "clicks16m": 0,
+      "impressions16m": 116,
+      "clicks3m": 0,
+      "impressions3m": 116,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 22,
+      "clicks3m": 0,
+      "impressions3m": 22,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "classification": "HIGH",
+      "clicks16m": 2,
+      "impressions16m": 146,
+      "clicks3m": 2,
+      "impressions3m": 146,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-moosapet/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-nacharam/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-nizampet/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-punjagutta/",
+      "classification": "HIGH",
+      "clicks16m": 0,
+      "impressions16m": 108,
+      "clicks3m": 0,
+      "impressions3m": 108,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-tarnaka/",
+      "classification": "HIGH",
+      "clicks16m": 1,
+      "impressions16m": 118,
+      "clicks3m": 1,
+      "impressions3m": 118,
+      "source": "live_crawl_and_search_console",
+      "reason": "Meaningful measured clicks/impressions warrant exact-path protection."
+    },
+    {
+      "url": "https://purebakes.in/customized-cakes-tolichowki/",
+      "classification": "MEDIUM",
+      "clicks16m": 0,
+      "impressions16m": 0,
+      "clicks3m": 0,
+      "impressions3m": 0,
+      "source": "live_crawl_and_search_console",
+      "reason": "Unique business/search intent or emerging visibility warrants preservation."
+    },
+    {
+      "url": "https://www.purebakes.in/classes",
+      "classification": "CRITICAL",
+      "clicks16m": 60,
+      "impressions16m": 1428,
+      "clicks3m": 20,
+      "impressions3m": 530,
+      "source": "search_console_only_not_in_live_61",
+      "reason": "Search Console proves organic value for a URL absent from the crawler’s 61-page migration set; investigate and preserve/redirect deliberately."
+    },
+    {
+      "url": "https://www.purebakes.in/products",
+      "classification": "CRITICAL",
+      "clicks16m": 17,
+      "impressions16m": 1109,
+      "clicks3m": 14,
+      "impressions3m": 850,
+      "source": "search_console_only_not_in_live_61",
+      "reason": "Search Console proves organic value for a URL absent from the crawler’s 61-page migration set; investigate and preserve/redirect deliberately."
+    },
+    {
+      "url": "https://www.purebakes.in/cakes",
+      "classification": "HIGH",
+      "clicks16m": 3,
+      "impressions16m": 208,
+      "clicks3m": 1,
+      "impressions3m": 131,
+      "source": "search_console_only_not_in_live_61",
+      "reason": "Search Console proves organic value for a URL absent from the crawler’s 61-page migration set; investigate and preserve/redirect deliberately."
+    },
+    {
+      "url": "https://www.purebakes.in/premium-wedding-cakes-in-hyderabad",
+      "classification": "HIGH",
+      "clicks16m": 1,
+      "impressions16m": 419,
+      "clicks3m": 0,
+      "impressions3m": 275,
+      "source": "search_console_only_not_in_live_61",
+      "reason": "Search Console proves organic value for a URL absent from the crawler’s 61-page migration set; investigate and preserve/redirect deliberately."
+    },
+    {
+      "url": "https://www.purebakes.in/best-wedding-cakes-in-hyderabad",
+      "classification": "HIGH",
+      "clicks16m": 1,
+      "impressions16m": 129,
+      "clicks3m": 1,
+      "impressions3m": 94,
+      "source": "search_console_only_not_in_live_61",
+      "reason": "Search Console proves organic value for a URL absent from the crawler’s 61-page migration set; investigate and preserve/redirect deliberately."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://new.purebakes.in/schemas/seo-page.schema.json",
+  "title": "PureBakes SEO landing page",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["key", "name", "slug", "url", "title", "h1", "metaDescription", "galleryFilter", "related", "status", "index", "lastmod"],
+  "properties": {
+    "key": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "url": { "type": "string", "pattern": "^/.+/$" },
+    "title": { "type": "string", "minLength": 20, "maxLength": 65 },
+    "h1": { "type": "string", "minLength": 1 },
+    "metaDescription": { "type": "string", "minLength": 70, "maxLength": 170 },
+    "intro": { "type": "string" },
+    "galleryFilter": { "type": "object", "additionalProperties": { "$ref": "#/$defs/keys" }, "minProperties": 1, "maxProperties": 1 },
+    "related": { "$ref": "#/$defs/keys" },
+    "faqs": { "type": "array", "items": { "type": "object", "additionalProperties": false, "required": ["question", "answer"], "properties": { "question": { "type": "string" }, "answer": { "type": "string" } } } },
+    "status": { "enum": ["draft", "published"] },
+    "index": { "type": "boolean" },
+    "lastmod": { "type": "string", "format": "date" }
+  },
+  "$defs": { "keys": { "type": "array", "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" } } }
+}

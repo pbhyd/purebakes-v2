@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-08-13T12:52:02.626Z",
+  "items": [
+    {
+      "url": "https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+      "problem": "Cross-domain canonical",
+      "availableEvidence": {
+        "searchConsole": {
+          "clicks16m": null,
+          "impressions16m": null,
+          "ctr16m": null,
+          "position16m": null,
+          "rowPresent16m": false,
+          "clicks3m": null,
+          "impressions3m": null,
+          "ctr3m": null,
+          "position3m": null,
+          "rowPresent3m": false,
+          "pathFamily16m": {
+            "clicks": 0,
+            "impressions": 0,
+            "ctr": null,
+            "position": null,
+            "exportedRowCount": 0
+          },
+          "pathFamily3m": {
+            "clicks": 0,
+            "impressions": 0,
+            "ctr": null,
+            "position": null,
+            "exportedRowCount": 0
+          },
+          "matchedVariants16m": [],
+          "matchedVariants3m": [],
+          "canonicalTargetVariants16m": []
+        },
+        "canonical": "https://weddingcakeshyderabad.in",
+        "canonicalStatus": null
+      },
+      "possibleOptionA": "Self-canonicalize https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+      "possibleOptionB": "Preserve/migrate canonical relationship to https://weddingcakeshyderabad.in",
+      "recommendation": "Preserve current live URL pending owner review.",
+      "whyManualDecisionIsNeeded": "Ownership/content intent or competing measured URL signals cannot be inferred safely."
+    }
+  ]
+}

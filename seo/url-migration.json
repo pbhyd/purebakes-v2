@@ -1,0 +1,4398 @@
+{
+  "generatedAt": "2026-08-13T12:52:02.600Z",
+  "phase": "1.6",
+  "analyticsAvailable": {
+    "searchConsole": true,
+    "ga4": false
+  },
+  "strategy": "Preserve all live URLs. Never canonicalize to a 404. Treat crawler-supported self-canonicalizations as provisional until traffic exports are reviewed.",
+  "mappings": [
+    {
+      "currentUrl": "https://purebakes.in/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in",
+      "canonicalStatus": 200,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 58,
+      "searchConsole": {
+        "clicks16m": 421,
+        "impressions16m": 21251,
+        "ctr16m": 0.01981083243141499,
+        "position16m": 10.360164698131852,
+        "rowPresent16m": true,
+        "clicks3m": 421,
+        "impressions3m": 21251,
+        "ctr3m": 0.01981083243141499,
+        "position3m": 10.360164698131852,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 555,
+          "impressions": 30158,
+          "ctr": 0.018403077127130445,
+          "position": 9.85325949996684,
+          "exportedRowCount": 4
+        },
+        "pathFamily3m": {
+          "clicks": 524,
+          "impressions": 28295,
+          "ctr": 0.01851917299876303,
+          "position": 9.89100229722566,
+          "exportedRowCount": 4
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/",
+            "clicks": 421,
+            "impressions": 21244,
+            "ctr": 0.019799999999999998,
+            "position": 10.36
+          },
+          {
+            "url": "https://www.purebakes.in/",
+            "clicks": 127,
+            "impressions": 8745,
+            "ctr": 0.014499999999999999,
+            "position": 8.56
+          },
+          {
+            "url": "http://purebakes.in/",
+            "clicks": 7,
+            "impressions": 162,
+            "ctr": 0.0432,
+            "position": 13.17
+          },
+          {
+            "url": "https://purebakes.in/#order",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/",
+            "clicks": 421,
+            "impressions": 21244,
+            "ctr": 0.019799999999999998,
+            "position": 10.36
+          },
+          {
+            "url": "https://www.purebakes.in/",
+            "clicks": 98,
+            "impressions": 6929,
+            "ctr": 0.0141,
+            "position": 8.4
+          },
+          {
+            "url": "http://purebakes.in/",
+            "clicks": 5,
+            "impressions": 115,
+            "ctr": 0.0435,
+            "position": 13.03
+          },
+          {
+            "url": "https://purebakes.in/#order",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ],
+        "canonicalTargetVariants16m": [
+          {
+            "url": "https://purebakes.in/",
+            "clicks": 421,
+            "impressions": 21244,
+            "ctr": 0.019799999999999998,
+            "position": 10.36
+          },
+          {
+            "url": "https://www.purebakes.in/",
+            "clicks": 127,
+            "impressions": 8745,
+            "ctr": 0.014499999999999999,
+            "position": 8.56
+          },
+          {
+            "url": "http://purebakes.in/",
+            "clicks": 7,
+            "impressions": 162,
+            "ctr": 0.0432,
+            "position": 13.17
+          },
+          {
+            "url": "https://purebakes.in/#order",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ]
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/",
+      "recommendedCanonical": "https://purebakes.in/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "HIGH",
+        "recent": "HIGH",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/",
+        "recommendedCanonical": "https://purebakes.in/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+        "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/baking-classes/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/baking-classes",
+      "canonicalStatus": 200,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 58,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0,
+          "position": 9.88,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": 0,
+          "position": 9.88,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/baking-classes",
+            "clicks": 0,
+            "impressions": 8,
+            "ctr": 0,
+            "position": 9.88
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/baking-classes",
+            "clicks": 0,
+            "impressions": 8,
+            "ctr": 0,
+            "position": 9.88
+          }
+        ],
+        "canonicalTargetVariants16m": [
+          {
+            "url": "https://purebakes.in/baking-classes",
+            "clicks": 0,
+            "impressions": 8,
+            "ctr": 0,
+            "position": 9.88
+          }
+        ]
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/baking-classes/",
+      "recommendedCanonical": "https://purebakes.in/baking-classes/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/baking-classes/",
+        "recommendedCanonical": "https://purebakes.in/baking-classes/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/baking-essentials/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/shop",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": false,
+      "internalInboundLinkCount": 0,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/baking-essentials/",
+      "recommendedCanonical": "https://purebakes.in/baking-essentials/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/baking-essentials/",
+        "recommendedCanonical": "https://purebakes.in/baking-essentials/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/birthday-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/birthday-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+        "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": 1,
+        "impressions16m": 27,
+        "ctr16m": 0.037037037037037035,
+        "position16m": 6.67,
+        "rowPresent16m": true,
+        "clicks3m": 1,
+        "impressions3m": 27,
+        "ctr3m": 0.037037037037037035,
+        "position3m": 6.67,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 1,
+          "impressions": 27,
+          "ctr": 0.037037037037037035,
+          "position": 6.67,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 1,
+          "impressions": 27,
+          "ctr": 0.037037037037037035,
+          "position": 6.67,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+            "clicks": 1,
+            "impressions": 27,
+            "ctr": 0.037000000000000005,
+            "position": 6.67
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+            "clicks": 1,
+            "impressions": 27,
+            "ctr": 0.037000000000000005,
+            "position": 6.67
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 1 clicks and 27 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+        "reason": "The live path family earned 1 clicks and 27 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/cake-smash-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-ameerpet",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-ameerpet/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-ameerpet/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-banjara-hills",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-banjara-hills/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-begumpet",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-begumpet/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-begumpet/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-begumpet/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-dilsukhnagar",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-financial-district",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 1,
+        "impressions16m": 141,
+        "ctr16m": 0.0070921985815602835,
+        "position16m": 6.38,
+        "rowPresent16m": true,
+        "clicks3m": 1,
+        "impressions3m": 141,
+        "ctr3m": 0.0070921985815602835,
+        "position3m": 6.38,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 1,
+          "impressions": 178,
+          "ctr": 0.0056179775280898875,
+          "position": 6.1555056179775285,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 1,
+          "impressions": 178,
+          "ctr": 0.0056179775280898875,
+          "position": 6.1555056179775285,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-financial-district/",
+            "clicks": 1,
+            "impressions": 141,
+            "ctr": 0.0070999999999999995,
+            "position": 6.38
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-financial-district",
+            "clicks": 0,
+            "impressions": 37,
+            "ctr": 0,
+            "position": 5.3
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-financial-district/",
+            "clicks": 1,
+            "impressions": 141,
+            "ctr": 0.0070999999999999995,
+            "position": 6.38
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-financial-district",
+            "clicks": 0,
+            "impressions": 37,
+            "ctr": 0,
+            "position": 5.3
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-financial-district/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 1 clicks and 178 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-financial-district/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-financial-district/",
+        "reason": "The live path family earned 1 clicks and 178 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-gachibowli",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-gachibowli/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-gachibowli/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-hayathnagar",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-hayathnagar/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-hitec-city",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-hitec-city/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-hitec-city/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-jubilee-hills",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-jubilee-hills/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-kokapet",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-kokapet/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-kokapet/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-kokapet/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-kompally",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-kompally/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-kompally/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-kompally/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-kondapur",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-kondapur/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-kondapur/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-kondapur/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-kukatpally",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-kukatpally/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-kukatpally/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-lb-nagar",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 7,
+        "impressions16m": 183,
+        "ctr16m": 0.03825136612021858,
+        "position16m": 6.080000000000001,
+        "rowPresent16m": true,
+        "clicks3m": 7,
+        "impressions3m": 183,
+        "ctr3m": 0.03825136612021858,
+        "position3m": 6.080000000000001,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 10,
+          "impressions": 292,
+          "ctr": 0.03424657534246575,
+          "position": 6.289041095890411,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 10,
+          "impressions": 292,
+          "ctr": 0.03424657534246575,
+          "position": 6.289041095890411,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-lb-nagar/",
+            "clicks": 7,
+            "impressions": 183,
+            "ctr": 0.0383,
+            "position": 6.08
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-lb-nagar",
+            "clicks": 3,
+            "impressions": 109,
+            "ctr": 0.0275,
+            "position": 6.64
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-lb-nagar/",
+            "clicks": 7,
+            "impressions": 183,
+            "ctr": 0.0383,
+            "position": 6.08
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-lb-nagar",
+            "clicks": 3,
+            "impressions": 109,
+            "ctr": 0.0275,
+            "position": 6.64
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 10 clicks and 292 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "HIGH",
+        "recent": "HIGH",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-lb-nagar/",
+        "reason": "The live path family earned 10 clicks and 292 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-madhapur",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 72,
+        "ctr16m": 0,
+        "position16m": 9.42,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 72,
+        "ctr3m": 0,
+        "position3m": 9.42,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 95,
+          "ctr": 0,
+          "position": 9.044736842105262,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 95,
+          "ctr": 0,
+          "position": 9.044736842105262,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-madhapur/",
+            "clicks": 0,
+            "impressions": 72,
+            "ctr": 0,
+            "position": 9.42
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-madhapur",
+            "clicks": 0,
+            "impressions": 23,
+            "ctr": 0,
+            "position": 7.87
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-madhapur/",
+            "clicks": 0,
+            "impressions": 72,
+            "ctr": 0,
+            "position": 9.42
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-madhapur",
+            "clicks": 0,
+            "impressions": 23,
+            "ctr": 0,
+            "position": 7.87
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-madhapur/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 95 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-madhapur/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-madhapur/",
+        "reason": "The live path family earned 0 clicks and 95 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-manikonda",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-manikonda/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-manikonda/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-manikonda/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-miyapur",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-miyapur/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-miyapur/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-miyapur/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-nallagandla",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-nallagandla/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-nallagandla/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-nanakramguda",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-nanakramguda/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-narsingi",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-narsingi/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-narsingi/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-narsingi/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-patancheru/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-patancheru",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 2,
+        "impressions16m": 131,
+        "ctr16m": 0.015267175572519083,
+        "position16m": 7.34,
+        "rowPresent16m": true,
+        "clicks3m": 2,
+        "impressions3m": 131,
+        "ctr3m": 0.015267175572519083,
+        "position3m": 7.34,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 2,
+          "impressions": 171,
+          "ctr": 0.011695906432748537,
+          "position": 7.58327485380117,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 2,
+          "impressions": 171,
+          "ctr": 0.011695906432748537,
+          "position": 7.58327485380117,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-patancheru/",
+            "clicks": 2,
+            "impressions": 131,
+            "ctr": 0.015300000000000001,
+            "position": 7.34
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-patancheru",
+            "clicks": 0,
+            "impressions": 40,
+            "ctr": 0,
+            "position": 8.38
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-patancheru/",
+            "clicks": 2,
+            "impressions": 131,
+            "ctr": 0.015300000000000001,
+            "position": 7.34
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-patancheru",
+            "clicks": 0,
+            "impressions": 40,
+            "ctr": 0,
+            "position": 8.38
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-patancheru/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-patancheru/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 2 clicks and 171 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-patancheru/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-patancheru/",
+        "reason": "The live path family earned 2 clicks and 171 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-puppalaguda",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-puppalaguda/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-puppalaguda/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-puppalaguda/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-secunderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-secunderabad",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 2,
+        "impressions16m": 35,
+        "ctr16m": 0.05714285714285714,
+        "position16m": 6.57,
+        "rowPresent16m": true,
+        "clicks3m": 2,
+        "impressions3m": 35,
+        "ctr3m": 0.05714285714285714,
+        "position3m": 6.57,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 2,
+          "impressions": 35,
+          "ctr": 0.05714285714285714,
+          "position": 6.57,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 2,
+          "impressions": 35,
+          "ctr": 0.05714285714285714,
+          "position": 6.57,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-secunderabad/",
+            "clicks": 2,
+            "impressions": 35,
+            "ctr": 0.0571,
+            "position": 6.57
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-secunderabad/",
+            "clicks": 2,
+            "impressions": 35,
+            "ctr": 0.0571,
+            "position": 6.57
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-secunderabad/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-secunderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 2 clicks and 35 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-secunderabad/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-secunderabad/",
+        "reason": "The live path family earned 2 clicks and 35 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-somajiguda/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-somajiguda",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-somajiguda/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-somajiguda/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-somajiguda/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-somajiguda/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-tellapur/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-tellapur",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-tellapur/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-tellapur/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-tellapur/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-tellapur/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-uppal/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-uppal",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-uppal/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-uppal/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-uppal/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-uppal/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-vanasthalipuram",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 30,
+        "ctr16m": 0,
+        "position16m": 5.97,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 30,
+        "ctr3m": 0,
+        "position3m": 5.97,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 30,
+          "ctr": 0,
+          "position": 5.97,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 30,
+          "ctr": 0,
+          "position": 5.97,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+            "clicks": 0,
+            "impressions": 30,
+            "ctr": 0,
+            "position": 5.97
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+            "clicks": 0,
+            "impressions": 30,
+            "ctr": 0,
+            "position": 5.97
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 30 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+        "reason": "The live path family earned 0 clicks and 30 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/eggless-cakes-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/eggless-cakes-hyderabad",
+      "canonicalStatus": 200,
+      "inSitemap": true,
+      "internallyLinked": false,
+      "internalInboundLinkCount": 0,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/eggless-cakes-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/eggless-cakes-hyderabad/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/eggless-cakes-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/eggless-cakes-hyderabad/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 17,
+          "ctr": 0,
+          "position": 8.06,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/engagement-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/engagement-cakes-in-hyderabad",
+            "clicks": 0,
+            "impressions": 17,
+            "ctr": 0,
+            "position": 8.06
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+        "reason": "The live path family earned 0 clicks and 17 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/gallery/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/gallery",
+      "canonicalStatus": 200,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 59,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 32,
+        "ctr16m": 0,
+        "position16m": 6.16,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 32,
+        "ctr3m": 0,
+        "position3m": 6.16,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 146,
+          "ctr": 0,
+          "position": 6.624109589041096,
+          "exportedRowCount": 3
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 141,
+          "ctr": 0,
+          "position": 6.72886524822695,
+          "exportedRowCount": 3
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 68,
+            "ctr": 0,
+            "position": 5.56
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 63,
+            "ctr": 0,
+            "position": 5.71
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ],
+        "canonicalTargetVariants16m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 68,
+            "ctr": 0,
+            "position": 5.56
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ]
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/gallery/",
+      "recommendedCanonical": "https://purebakes.in/gallery/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/gallery/",
+        "recommendedCanonical": "https://purebakes.in/gallery/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 14,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "recommendedCanonical": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+        "recommendedCanonical": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://weddingcakeshyderabad.in",
+      "canonicalStatus": null,
+      "inSitemap": true,
+      "internallyLinked": false,
+      "internalInboundLinkCount": 0,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+      "recommendedCanonical": null,
+      "action": "MANUAL_REVIEW",
+      "confidence": "LOW",
+      "reason": "The page canonicalizes to another domain. Ownership, content strategy, backlinks and traffic evidence are required before changing this relationship.",
+      "manualReviewRequired": true,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "MANUAL_REVIEW",
+        "confidence": "LOW",
+        "recommendedUrl": "https://purebakes.in/luxury-wedding-cakes-hyderabad/",
+        "recommendedCanonical": null,
+        "reason": "The page canonicalizes to another domain. Ownership, content strategy, backlinks and traffic evidence are required before changing this relationship.",
+        "manualReviewRequired": true
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/testimonials/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/testimonials",
+      "canonicalStatus": 200,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 2,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0,
+          "position": 10.86,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0,
+          "position": 10.86,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/testimonials",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/testimonials",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ],
+        "canonicalTargetVariants16m": [
+          {
+            "url": "https://purebakes.in/testimonials",
+            "clicks": 0,
+            "impressions": 7,
+            "ctr": 0,
+            "position": 10.86
+          }
+        ]
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/testimonials/",
+      "recommendedCanonical": "https://purebakes.in/testimonials/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/testimonials/",
+        "recommendedCanonical": "https://purebakes.in/testimonials/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-neopolis/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-neopolis",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-neopolis/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-neopolis/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-neopolis/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-neopolis/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-raidurgam/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-raidurgam",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 19,
+        "ctr16m": 0,
+        "position16m": 6.789999999999999,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 19,
+        "ctr3m": 0,
+        "position3m": 6.789999999999999,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 29,
+          "ctr": 0,
+          "position": 7.345172413793103,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 29,
+          "ctr": 0,
+          "position": 7.345172413793103,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-raidurgam/",
+            "clicks": 0,
+            "impressions": 19,
+            "ctr": 0,
+            "position": 6.79
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-raidurgam",
+            "clicks": 0,
+            "impressions": 10,
+            "ctr": 0,
+            "position": 8.4
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-raidurgam/",
+            "clicks": 0,
+            "impressions": 19,
+            "ctr": 0,
+            "position": 6.79
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-raidurgam",
+            "clicks": 0,
+            "impressions": 10,
+            "ctr": 0,
+            "position": 8.4
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-raidurgam/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-raidurgam/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 29 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-raidurgam/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-raidurgam/",
+        "reason": "The live path family earned 0 clicks and 29 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-shamshabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-shamshabad",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-shamshabad/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-shamshabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-shamshabad/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-shamshabad/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-bachupally/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-bachupally",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 1,
+        "impressions16m": 63,
+        "ctr16m": 0.015873015873015872,
+        "position16m": 6.56,
+        "rowPresent16m": true,
+        "clicks3m": 1,
+        "impressions3m": 63,
+        "ctr3m": 0.015873015873015872,
+        "position3m": 6.56,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 3,
+          "impressions": 103,
+          "ctr": 0.02912621359223301,
+          "position": 6.684271844660194,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 3,
+          "impressions": 103,
+          "ctr": 0.02912621359223301,
+          "position": 6.684271844660194,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-bachupally",
+            "clicks": 2,
+            "impressions": 40,
+            "ctr": 0.05,
+            "position": 6.88
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-bachupally/",
+            "clicks": 1,
+            "impressions": 63,
+            "ctr": 0.0159,
+            "position": 6.56
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-bachupally",
+            "clicks": 2,
+            "impressions": 40,
+            "ctr": 0.05,
+            "position": 6.88
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-bachupally/",
+            "clicks": 1,
+            "impressions": 63,
+            "ctr": 0.0159,
+            "position": 6.56
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-bachupally/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-bachupally/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 3 clicks and 103 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-bachupally/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-bachupally/",
+        "reason": "The live path family earned 3 clicks and 103 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-himayatnagar",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 79,
+        "ctr16m": 0,
+        "position16m": 6.22,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 79,
+        "ctr3m": 0,
+        "position3m": 6.22,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 1,
+          "impressions": 109,
+          "ctr": 0.009174311926605505,
+          "position": 6.316330275229358,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 1,
+          "impressions": 109,
+          "ctr": 0.009174311926605505,
+          "position": 6.316330275229358,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-himayatnagar",
+            "clicks": 1,
+            "impressions": 30,
+            "ctr": 0.0333,
+            "position": 6.57
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-himayatnagar/",
+            "clicks": 0,
+            "impressions": 79,
+            "ctr": 0,
+            "position": 6.22
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-himayatnagar",
+            "clicks": 1,
+            "impressions": 30,
+            "ctr": 0.0333,
+            "position": 6.57
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-himayatnagar/",
+            "clicks": 0,
+            "impressions": 79,
+            "ctr": 0,
+            "position": 6.22
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 1 clicks and 109 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-himayatnagar/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-himayatnagar/",
+        "reason": "The live path family earned 1 clicks and 109 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-khairatabad/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-khairatabad",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 100,
+        "ctr16m": 0,
+        "position16m": 4.48,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 100,
+        "ctr3m": 0,
+        "position3m": 4.48,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 116,
+          "ctr": 0,
+          "position": 4.491034482758621,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 116,
+          "ctr": 0,
+          "position": 4.491034482758621,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-khairatabad/",
+            "clicks": 0,
+            "impressions": 100,
+            "ctr": 0,
+            "position": 4.48
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-khairatabad",
+            "clicks": 0,
+            "impressions": 16,
+            "ctr": 0,
+            "position": 4.56
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-khairatabad/",
+            "clicks": 0,
+            "impressions": 100,
+            "ctr": 0,
+            "position": 4.48
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-khairatabad",
+            "clicks": 0,
+            "impressions": 16,
+            "ctr": 0,
+            "position": 4.56
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-khairatabad/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-khairatabad/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 116 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-khairatabad/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-khairatabad/",
+        "reason": "The live path family earned 0 clicks and 116 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-malkajgiri",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 22,
+        "ctr16m": 0,
+        "position16m": 6.5,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 22,
+        "ctr3m": 0,
+        "position3m": 6.5,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0,
+          "position": 6.5,
+          "exportedRowCount": 1
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 22,
+          "ctr": 0,
+          "position": 6.5,
+          "exportedRowCount": 1
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-malkajgiri/",
+            "clicks": 0,
+            "impressions": 22,
+            "ctr": 0,
+            "position": 6.5
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-malkajgiri/",
+            "clicks": 0,
+            "impressions": 22,
+            "ctr": 0,
+            "position": 6.5
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 22 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "LOW",
+        "recent": "LOW",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-malkajgiri/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-malkajgiri/",
+        "reason": "The live path family earned 0 clicks and 22 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-mehdipatnam",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 2,
+        "impressions16m": 109,
+        "ctr16m": 0.01834862385321101,
+        "position16m": 5.63,
+        "rowPresent16m": true,
+        "clicks3m": 2,
+        "impressions3m": 109,
+        "ctr3m": 0.01834862385321101,
+        "position3m": 5.63,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 2,
+          "impressions": 146,
+          "ctr": 0.0136986301369863,
+          "position": 5.860616438356164,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 2,
+          "impressions": 146,
+          "ctr": 0.0136986301369863,
+          "position": 5.860616438356164,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-mehdipatnam/",
+            "clicks": 2,
+            "impressions": 109,
+            "ctr": 0.0183,
+            "position": 5.63
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-mehdipatnam",
+            "clicks": 0,
+            "impressions": 37,
+            "ctr": 0,
+            "position": 6.54
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-mehdipatnam/",
+            "clicks": 2,
+            "impressions": 109,
+            "ctr": 0.0183,
+            "position": 5.63
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-mehdipatnam",
+            "clicks": 0,
+            "impressions": 37,
+            "ctr": 0,
+            "position": 6.54
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 2 clicks and 146 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-mehdipatnam/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-mehdipatnam/",
+        "reason": "The live path family earned 2 clicks and 146 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-moosapet/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-moosapet",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-moosapet/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-moosapet/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-moosapet/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-moosapet/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-nacharam/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-nacharam",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-nacharam/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-nacharam/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-nacharam/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-nacharam/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-nizampet/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-nizampet",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-nizampet/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-nizampet/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-nizampet/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-nizampet/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-punjagutta/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-punjagutta",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 83,
+        "ctr16m": 0,
+        "position16m": 4.28,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 83,
+        "ctr3m": 0,
+        "position3m": 4.28,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 108,
+          "ctr": 0,
+          "position": 3.983703703703704,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 108,
+          "ctr": 0,
+          "position": 3.983703703703704,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-punjagutta/",
+            "clicks": 0,
+            "impressions": 83,
+            "ctr": 0,
+            "position": 4.28
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-punjagutta",
+            "clicks": 0,
+            "impressions": 25,
+            "ctr": 0,
+            "position": 3
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-punjagutta/",
+            "clicks": 0,
+            "impressions": 83,
+            "ctr": 0,
+            "position": 4.28
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-punjagutta",
+            "clicks": 0,
+            "impressions": 25,
+            "ctr": 0,
+            "position": 3
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-punjagutta/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-punjagutta/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 0 clicks and 108 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-punjagutta/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-punjagutta/",
+        "reason": "The live path family earned 0 clicks and 108 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-tarnaka/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-tarnaka",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 79,
+        "ctr16m": 0,
+        "position16m": 6.25,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 79,
+        "ctr3m": 0,
+        "position3m": 6.25,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 1,
+          "impressions": 118,
+          "ctr": 0.00847457627118644,
+          "position": 6.362372881355932,
+          "exportedRowCount": 2
+        },
+        "pathFamily3m": {
+          "clicks": 1,
+          "impressions": 118,
+          "ctr": 0.00847457627118644,
+          "position": 6.362372881355932,
+          "exportedRowCount": 2
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-tarnaka",
+            "clicks": 1,
+            "impressions": 39,
+            "ctr": 0.0256,
+            "position": 6.59
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-tarnaka/",
+            "clicks": 0,
+            "impressions": 79,
+            "ctr": 0,
+            "position": 6.25
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://purebakes.in/customized-cakes-tarnaka",
+            "clicks": 1,
+            "impressions": 39,
+            "ctr": 0.0256,
+            "position": 6.59
+          },
+          {
+            "url": "https://purebakes.in/customized-cakes-tarnaka/",
+            "clicks": 0,
+            "impressions": 79,
+            "ctr": 0,
+            "position": 6.25
+          }
+        ],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-tarnaka/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-tarnaka/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "HIGH",
+      "reason": "The live path family earned 1 clicks and 118 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-tarnaka/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-tarnaka/",
+        "reason": "The live path family earned 1 clicks and 118 impressions while the 404 canonical target has no stronger visibility. Preserve the path and consolidate variants to the recommended canonical convention.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/customized-cakes-tolichowki/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/cake-delivery-tolichowki",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 1,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/customized-cakes-tolichowki/",
+      "recommendedCanonical": "https://purebakes.in/customized-cakes-tolichowki/",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/customized-cakes-tolichowki/",
+        "recommendedCanonical": "https://purebakes.in/customized-cakes-tolichowki/",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/gallery/",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/gallery",
+      "canonicalStatus": 200,
+      "inSitemap": true,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 59,
+      "searchConsole": {
+        "clicks16m": 0,
+        "impressions16m": 32,
+        "ctr16m": 0,
+        "position16m": 6.16,
+        "rowPresent16m": true,
+        "clicks3m": 0,
+        "impressions3m": 32,
+        "ctr3m": 0,
+        "position3m": 6.16,
+        "rowPresent3m": true,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 146,
+          "ctr": 0,
+          "position": 6.624109589041096,
+          "exportedRowCount": 3
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 141,
+          "ctr": 0,
+          "position": 6.72886524822695,
+          "exportedRowCount": 3
+        },
+        "matchedVariants16m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 68,
+            "ctr": 0,
+            "position": 5.56
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ],
+        "matchedVariants3m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 63,
+            "ctr": 0,
+            "position": 5.71
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ],
+        "canonicalTargetVariants16m": [
+          {
+            "url": "https://www.purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 68,
+            "ctr": 0,
+            "position": 5.56
+          },
+          {
+            "url": "https://purebakes.in/gallery",
+            "clicks": 0,
+            "impressions": 46,
+            "ctr": 0,
+            "position": 8.52
+          },
+          {
+            "url": "https://purebakes.in/gallery/",
+            "clicks": 0,
+            "impressions": 32,
+            "ctr": 0,
+            "position": 6.16
+          }
+        ]
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/gallery/",
+      "recommendedCanonical": "https://purebakes.in/gallery/",
+      "action": "KEEP",
+      "confidence": "HIGH",
+      "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "MEDIUM",
+        "recent": "MEDIUM",
+        "trend": "GROWING"
+      },
+      "phase15Decision": {
+        "action": "KEEP",
+        "confidence": "HIGH",
+        "recommendedUrl": "https://purebakes.in/gallery/",
+        "recommendedCanonical": "https://purebakes.in/gallery/",
+        "reason": "The live URL is already self-canonical and has no crawler-level conflict.",
+        "manualReviewRequired": false
+      }
+    },
+    {
+      "currentUrl": "https://purebakes.in/baking-essentials/index.html",
+      "currentStatus": 200,
+      "existingCanonical": "https://purebakes.in/shop",
+      "canonicalStatus": 404,
+      "inSitemap": false,
+      "internallyLinked": true,
+      "internalInboundLinkCount": 2,
+      "searchConsole": {
+        "clicks16m": null,
+        "impressions16m": null,
+        "ctr16m": null,
+        "position16m": null,
+        "rowPresent16m": false,
+        "clicks3m": null,
+        "impressions3m": null,
+        "ctr3m": null,
+        "position3m": null,
+        "rowPresent3m": false,
+        "pathFamily16m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "pathFamily3m": {
+          "clicks": 0,
+          "impressions": 0,
+          "ctr": null,
+          "position": null,
+          "exportedRowCount": 0
+        },
+        "matchedVariants16m": [],
+        "matchedVariants3m": [],
+        "canonicalTargetVariants16m": []
+      },
+      "ga4": {
+        "organicSessions": null
+      },
+      "recommendedUrl": "https://purebakes.in/baking-essentials/index.html",
+      "recommendedCanonical": "https://purebakes.in/baking-essentials/index.html",
+      "action": "SELF_CANONICALIZE",
+      "confidence": "MEDIUM",
+      "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+      "manualReviewRequired": false,
+      "seoValue": {
+        "historical": "NONE",
+        "recent": "NONE",
+        "trend": "INSUFFICIENT_DATA"
+      },
+      "phase15Decision": {
+        "action": "SELF_CANONICALIZE",
+        "confidence": "MEDIUM",
+        "recommendedUrl": "https://purebakes.in/baking-essentials/index.html",
+        "recommendedCanonical": "https://purebakes.in/baking-essentials/index.html",
+        "reason": "The live page has no row in the available Search Console export, but is indexable, internally relevant, and points canonical to a 404. Preserve and self-canonicalize conservatively.",
+        "manualReviewRequired": false
+      }
+    }
+  ],
+  "searchConsoleCoverage": {
+    "web16m": {
+      "start": "2026-04-19",
+      "end": "2026-08-11",
+      "days": 115
+    },
+    "web3m": {
+      "start": "2026-05-12",
+      "end": "2026-08-11",
+      "days": 92
+    },
+    "image16m": {
+      "start": "2026-04-19",
+      "end": "2026-08-11",
+      "days": 115
+    },
+    "limitation": "The export labeled Last 16 months contains only the dates available in the property (19 April–11 August 2026). Query exports are global query rows, not query-page pairs."
+  }
+}

@@ -1,0 +1,3039 @@
+{
+  "generatedAt": "2026-08-13T12:41:27.455Z",
+  "issues": [
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-financial-district",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-financial-district/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-gachibowli",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-gachibowli/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-hitec-city",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-hitec-city/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-jubilee-hills",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-jubilee-hills/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-kokapet",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-kokapet/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-kondapur",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-kondapur/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-madhapur",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-madhapur/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-manikonda",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-manikonda/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-nanakramguda",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-nanakramguda/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-narsingi",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-narsingi/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-neopolis",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-neopolis",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-neopolis/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-puppalaguda",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-puppalaguda",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-puppalaguda/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-raidurgam",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-raidurgam",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-raidurgam/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-ameerpet",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-ameerpet/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-banjara-hills",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-banjara-hills/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-begumpet",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-begumpet/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-kukatpally",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-kukatpally/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-miyapur",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-miyapur/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-nallagandla",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-nallagandla/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-somajiguda",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-somajiguda",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-somajiguda/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-tellapur",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-tellapur",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-tellapur/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-secunderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-secunderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-secunderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-dilsukhnagar",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-dilsukhnagar/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-hayathnagar",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-hayathnagar/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-kompally",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-kompally/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-lb-nagar",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-lb-nagar/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-patancheru",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-patancheru",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-patancheru/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-shamshabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-shamshabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-shamshabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-uppal",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-uppal",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-uppal/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-vanasthalipuram",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-vanasthalipuram",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-vanasthalipuram/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-bachupally",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-bachupally",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-bachupally/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-himayatnagar",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-himayatnagar",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-himayatnagar/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-khairatabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-khairatabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-khairatabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-malkajgiri",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-malkajgiri",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-malkajgiri/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-mehdipatnam",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-mehdipatnam",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-mehdipatnam/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-moosapet",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-moosapet",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-moosapet/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nacharam",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-nacharam",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-nacharam/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nizampet",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-nizampet",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-nizampet/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-punjagutta",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-punjagutta",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-punjagutta/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-tarnaka",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-tarnaka",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-tarnaka/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/",
+      "targetUrl": "https://purebakes.in/customized-cakes-tolichowki",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-delivery-tolichowki",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/customized-cakes-tolichowki/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/mom-to-be",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cake-for-girl-child",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-classes/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-essentials/",
+      "targetUrl": "https://purebakes.in/baking-essentials/index.html",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/shop",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baking-essentials/index.html"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cake-for-girl-child",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cake-for-boy-child",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/cake-smash-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-ameerpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-ameerpet/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-banjara-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-banjara-hills/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-begumpet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-begumpet/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-dilsukhnagar/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-financial-district/",
+      "targetUrl": "https://purebakes.in/customized-cakes-financial-district/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-gachibowli/",
+      "targetUrl": "https://purebakes.in/customized-cakes-gachibowli/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hayathnagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hayathnagar/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-hitec-city/",
+      "targetUrl": "https://purebakes.in/customized-cakes-hitec-city/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-jubilee-hills/",
+      "targetUrl": "https://purebakes.in/customized-cakes-jubilee-hills/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kokapet/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kokapet/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kompally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kompally/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kondapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kondapur/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-kukatpally/",
+      "targetUrl": "https://purebakes.in/customized-cakes-kukatpally/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "targetUrl": "https://purebakes.in/customized-cakes-lb-nagar/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-madhapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-madhapur/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-manikonda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-manikonda/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-miyapur/",
+      "targetUrl": "https://purebakes.in/customized-cakes-miyapur/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nallagandla/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nallagandla/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/first-birthday-boy.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/eggless-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-nanakramguda/",
+      "targetUrl": "https://purebakes.in/customized-cakes-nanakramguda/srimantham.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi/wedding.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi/engagement.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi/birthday-cakes-hyderabad.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi/anniversary.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/customized-cakes-narsingi/",
+      "targetUrl": "https://purebakes.in/customized-cakes-narsingi/first-birthday-girl.html",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/engagement-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/first-birthday-cake-for-boy-child",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad/",
+      "targetUrl": "https://purebakes.in/mom-to-be",
+      "targetStatus": 404,
+      "issue": "broken_internal_link",
+      "recommendedTarget": null
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/engagement",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/engagement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/bridal-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bride-to-be",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bridal-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/birthday-cakes-hyderabad",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-girl",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-girls-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/first-birthday-cake-for-boy",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/first-birthday-cakes-for-boys-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/half-birthday-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/half-birthday-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/half-birthday-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/cake-smash-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/cake-smash",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/cake-smash-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/anniversary-cakes",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/anniversary-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/baby-shower-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/mom-to-be-srimantham-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-shower-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/baby-announcement-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/baby-announcement-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baby-announcement-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/gallery/",
+      "targetUrl": "https://purebakes.in/bon-voyage-cakes-in-hyderabad",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/bon-voyage-cake",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/"
+    },
+    {
+      "sourceUrl": "https://purebakes.in/baking-essentials/index.html",
+      "targetUrl": "https://purebakes.in/baking-essentials/index.html",
+      "targetStatus": 200,
+      "issue": "links_to_non_self_canonical_url",
+      "declaredCanonical": "https://purebakes.in/shop",
+      "canonicalStatus": 404,
+      "recommendedTarget": "https://purebakes.in/baking-essentials/index.html"
+    }
+  ]
+}

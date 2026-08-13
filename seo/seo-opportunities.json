@@ -1,0 +1,1114 @@
+{
+  "generatedAt": "2026-08-13T12:52:02.621Z",
+  "methodology": "Prioritization aid: impressions, CTR, position and intent; not a Google ranking metric.",
+  "opportunities": [
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://purebakes.in/",
+      "clicks": 421,
+      "impressions": 21244,
+      "ctr": 0.019799999999999998,
+      "position": 10.36
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/",
+      "clicks": 127,
+      "impressions": 8745,
+      "ctr": 0.014499999999999999,
+      "position": 8.56
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/classes",
+      "clicks": 60,
+      "impressions": 1428,
+      "ctr": 0.042,
+      "position": 12.13
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 19,
+      "impressions": 1068,
+      "ctr": 0.0178,
+      "position": 7.79
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/products",
+      "clicks": 12,
+      "impressions": 885,
+      "ctr": 0.013600000000000001,
+      "position": 5.76
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customised cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 18,
+      "impressions": 744,
+      "ctr": 0.0242,
+      "position": 6.26
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "home bakers near me",
+      "category": "NEAR_ME",
+      "clicks": 9,
+      "impressions": 658,
+      "ctr": 0.0137,
+      "position": 5.8
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cakes online hyderabad",
+      "category": "LOCATION",
+      "clicks": 4,
+      "impressions": 630,
+      "ctr": 0.0063,
+      "position": 14.59
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cakes",
+      "category": "CUSTOM_CAKES",
+      "clicks": 3,
+      "impressions": 424,
+      "ctr": 0.0070999999999999995,
+      "position": 10.32
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/premium-wedding-cakes-in-hyderabad",
+      "clicks": 1,
+      "impressions": 419,
+      "ctr": 0.0024,
+      "position": 40.26
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "custom cakes hyderabad",
+      "category": "LOCATION",
+      "clicks": 7,
+      "impressions": 396,
+      "ctr": 0.0177,
+      "position": 7.27
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customized cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 7,
+      "impressions": 313,
+      "ctr": 0.022400000000000003,
+      "position": 8.42
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "wedding cakes hyderabad",
+      "category": "OCCASION",
+      "clicks": 3,
+      "impressions": 308,
+      "ctr": 0.0097,
+      "position": 18.67
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cakes hyderabad",
+      "category": "LOCATION",
+      "clicks": 4,
+      "impressions": 304,
+      "ctr": 0.0132,
+      "position": 9.14
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customized cake near me",
+      "category": "NEAR_ME",
+      "clicks": 8,
+      "impressions": 302,
+      "ctr": 0.0265,
+      "position": 7.06
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "custom cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 11,
+      "impressions": 284,
+      "ctr": 0.0387,
+      "position": 9.35
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "wedding cakes hyderabad city",
+      "category": "OCCASION",
+      "clicks": 0,
+      "impressions": 280,
+      "ctr": 0,
+      "position": 26.88
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customize cake near me",
+      "category": "NEAR_ME",
+      "clicks": 3,
+      "impressions": 274,
+      "ctr": 0.0109,
+      "position": 7.98
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cake customisation near me",
+      "category": "NEAR_ME",
+      "clicks": 3,
+      "impressions": 264,
+      "ctr": 0.011399999999999999,
+      "position": 6.08
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customised cakes hyderabad",
+      "category": "LOCATION",
+      "clicks": 9,
+      "impressions": 237,
+      "ctr": 0.038,
+      "position": 7.27
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "cake customization near me",
+      "category": "NEAR_ME",
+      "clicks": 6,
+      "impressions": 227,
+      "ctr": 0.0264,
+      "position": 6.85
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/products/",
+      "clicks": 5,
+      "impressions": 224,
+      "ctr": 0.0223,
+      "position": 5.86
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 216,
+      "ctr": 0,
+      "position": 10.56
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customised cakes",
+      "category": "CUSTOM_CAKES",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004699999999999999,
+      "position": 10.49
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/cakes",
+      "clicks": 3,
+      "impressions": 208,
+      "ctr": 0.0144,
+      "position": 4.7
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cakes",
+      "category": "OTHER",
+      "clicks": 1,
+      "impressions": 189,
+      "ctr": 0.0053,
+      "position": 15.46
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "custom cakes",
+      "category": "CUSTOM_CAKES",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.0106,
+      "position": 15.38
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "wedding cakes eastern suburbs",
+      "category": "OCCASION",
+      "clicks": 0,
+      "impressions": 188,
+      "ctr": 0,
+      "position": 36.59
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-lb-nagar/",
+      "clicks": 7,
+      "impressions": 183,
+      "ctr": 0.0383,
+      "position": 6.08
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customised cake near me",
+      "category": "NEAR_ME",
+      "clicks": 5,
+      "impressions": 178,
+      "ctr": 0.0281,
+      "position": 6.61
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "bakery near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 176,
+      "ctr": 0,
+      "position": 10.72
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "http://purebakes.in/",
+      "clicks": 7,
+      "impressions": 162,
+      "ctr": 0.0432,
+      "position": 13.17
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "home made cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 1,
+      "impressions": 147,
+      "ctr": 0.0068000000000000005,
+      "position": 7.65
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-financial-district/",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070999999999999995,
+      "position": 6.38
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cake shop near me",
+      "category": "NEAR_ME",
+      "clicks": 1,
+      "impressions": 139,
+      "ctr": 0.0072,
+      "position": 8.29
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "QUERY",
+      "query": "customized cake",
+      "category": "CUSTOM_CAKES",
+      "clicks": 4,
+      "impressions": 135,
+      "ctr": 0.0296,
+      "position": 11.81
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customised cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 2,
+      "impressions": 135,
+      "ctr": 0.0148,
+      "position": 7.72
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-patancheru/",
+      "clicks": 2,
+      "impressions": 131,
+      "ctr": 0.015300000000000001,
+      "position": 7.34
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/best-wedding-cakes-in-hyderabad",
+      "clicks": 1,
+      "impressions": 129,
+      "ctr": 0.0078000000000000005,
+      "position": 37.61
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 0,
+      "impressions": 123,
+      "ctr": 0,
+      "position": 23.92
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "baking classes",
+      "category": "BAKING_CLASSES",
+      "clicks": 2,
+      "impressions": 116,
+      "ctr": 0.0172,
+      "position": 12.66
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "designer cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.0088,
+      "position": 7.52
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-lb-nagar",
+      "clicks": 3,
+      "impressions": 109,
+      "ctr": 0.0275,
+      "position": 6.64
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-mehdipatnam/",
+      "clicks": 2,
+      "impressions": 109,
+      "ctr": 0.0183,
+      "position": 5.63
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "home bakers in hyderabad",
+      "category": "LOCATION",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.0288,
+      "position": 9.4
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "home made cake near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 8.52
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "custom cake",
+      "category": "CUSTOM_CAKES",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.0098,
+      "position": 12.71
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-khairatabad/",
+      "clicks": 0,
+      "impressions": 100,
+      "ctr": 0,
+      "position": 4.48
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "cake customization hyderabad",
+      "category": "LOCATION",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.0204,
+      "position": 7.79
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "homemade cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.0206,
+      "position": 7.27
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customised cake",
+      "category": "CUSTOM_CAKES",
+      "clicks": 1,
+      "impressions": 97,
+      "ctr": 0.0103,
+      "position": 8.82
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "premium cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 1,
+      "impressions": 97,
+      "ctr": 0.0103,
+      "position": 16.36
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "pure bake",
+      "category": "BRAND",
+      "clicks": 7,
+      "impressions": 93,
+      "ctr": 0.0753,
+      "position": 5.69
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "best cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 21.78
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customised cake in hyderabad",
+      "category": "LOCATION",
+      "clicks": 3,
+      "impressions": 89,
+      "ctr": 0.0337,
+      "position": 8.78
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customised cake hyderabad",
+      "category": "LOCATION",
+      "clicks": 0,
+      "impressions": 86,
+      "ctr": 0,
+      "position": 7.22
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "engagement cakes hyderabad",
+      "category": "OCCASION",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011899999999999999,
+      "position": 9.13
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-punjagutta/",
+      "clicks": 0,
+      "impressions": 83,
+      "ctr": 0,
+      "position": 4.28
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-himayatnagar/",
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 6.22
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-tarnaka/",
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 6.25
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "custom cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 1,
+      "impressions": 79,
+      "ctr": 0.0127,
+      "position": 7.97
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/dream-cake",
+      "clicks": 0,
+      "impressions": 77,
+      "ctr": 0,
+      "position": 15.7
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "cakes customized near me",
+      "category": "NEAR_ME",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0274,
+      "position": 7.07
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "baking classes hyderabad",
+      "category": "BAKING_CLASSES",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0137,
+      "position": 12.34
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-madhapur/",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 9.42
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "customise cake",
+      "category": "CUSTOM_CAKES",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.0278,
+      "position": 9.64
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "birthday cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 8.99
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "wedding cake hyderabad",
+      "category": "OCCASION",
+      "clicks": 0,
+      "impressions": 71,
+      "ctr": 0,
+      "position": 20.83
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "order cake in hyderabad",
+      "category": "LOCATION",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 28.8
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/gallery",
+      "clicks": 0,
+      "impressions": 68,
+      "ctr": 0,
+      "position": 5.56
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "purebake",
+      "category": "BRAND",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.0588,
+      "position": 6.34
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "freshly baked cakes",
+      "category": "OTHER",
+      "clicks": 0,
+      "impressions": 68,
+      "ctr": 0,
+      "position": 9.49
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "custom cake hyderabad",
+      "category": "LOCATION",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029900000000000003,
+      "position": 7.73
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cake shop near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 64,
+      "ctr": 0,
+      "position": 6.27
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "best birthday cakes in hyderabad",
+      "category": "OCCASION",
+      "clicks": 0,
+      "impressions": 64,
+      "ctr": 0,
+      "position": 16.14
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-bachupally/",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.0159,
+      "position": 6.56
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "purebakes cakes",
+      "category": "BRAND",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 8.87
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "online baking classes",
+      "category": "BAKING_CLASSES",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.016399999999999998,
+      "position": 18.1
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "birthday cakes hyderabad",
+      "category": "OCCASION",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.0172,
+      "position": 13.38
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "QUERY",
+      "query": "best customized cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.0526,
+      "position": 10.6
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "best customized cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.0351,
+      "position": 7.68
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "QUERY",
+      "query": "best customised cakes in hyderabad",
+      "category": "LOCATION",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.0351,
+      "position": 9.11
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/cupcakes",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.0179,
+      "position": 5.73
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "cakes hyderabad",
+      "category": "LOCATION",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 22.68
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "engagement cakes near me",
+      "category": "NEAR_ME",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018500000000000003,
+      "position": 15.61
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "custom cake near me",
+      "category": "NEAR_ME",
+      "clicks": 0,
+      "impressions": 53,
+      "ctr": 0,
+      "position": 6.6
+    },
+    {
+      "type": "HIGH_IMPRESSIONS_LOW_CTR",
+      "source": "QUERY",
+      "query": "customized cake hyderabad",
+      "category": "LOCATION",
+      "clicks": 1,
+      "impressions": 51,
+      "ctr": 0.0196,
+      "position": 8.73
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/gallery",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 8.52
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-bachupally",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 6.88
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-patancheru",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 8.38
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-tarnaka",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.0256,
+      "position": 6.59
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-financial-district",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 5.3
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-mehdipatnam",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 6.54
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-secunderabad/",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.0571,
+      "position": 6.57
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/gallery/",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 6.16
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-himayatnagar",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.0333,
+      "position": 6.57
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-vanasthalipuram/",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 5.97
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/bon-voyage-cakes-in-hyderabad/",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037000000000000005,
+      "position": 6.67
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/cookies",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 7.37
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/donuts",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 7.52
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-madhapur",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 7.87
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-malkajgiri/",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-raidurgam/",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 6.79
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/chocolates",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 4.24
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/anniversary-cakes-in-hyderabad",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 8.06
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/birthday-cakes-in-hyderabad",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 8.06
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/engagement-cakes-in-hyderabad",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 8.06
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-khairatabad",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 4.56
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/muffins",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 7.19
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "https://www.purebakes.in/brownies",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 17.06
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/customized-cakes-raidurgam",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 8.4
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://purebakes.in/baking-classes",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9.88
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "https://purebakes.in/#order",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 10.86
+    },
+    {
+      "type": "POSITION_11_20",
+      "source": "PAGE",
+      "url": "https://purebakes.in/testimonials",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 10.86
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://shop.purebakes.in/",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "type": "POSITION_4_10",
+      "source": "PAGE",
+      "url": "https://shop.purebakes.in/about",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.2
+    }
+  ]
+}
