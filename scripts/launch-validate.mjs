@@ -101,8 +101,12 @@ try { await stat(join(root, "cake-smash-cakes-in-hyderabad")); errors.push("Obso
 try { await stat(join(root, "cake-smash-in-hyderabad", "index.html")); } catch { errors.push("Correct Cake Smash route is missing"); }
 
 const siteJs = await readFile(join(root, "assets/js/site.js"), "utf8");
-for (const token of ["check_availability_open", "check_availability_continue", "whatsapp_click", "919980213333", "page_path", "page_type", "page_slug", "classification", "cta_location", "page_context", "enquiry_id", "gallery_query", "cake_id", "occasion"]) {
+const galleryJs = await readFile(join(root, "assets/js/gallery.js"), "utf8");
+for (const token of ["check_availability_open", "check_availability_continue", "whatsapp_click", "919980213333", "page_path", "page_type", "page_slug", "classification", "cta_location", "page_context", "enquiry_id", "gallery_search_active", "cake_id", "occasion"]) {
   if (!siteJs.includes(token)) errors.push(`Missing site integration token: ${token}`);
+}
+for (const forbiddenTelemetry of ["search_term", "gallery_query"]) {
+  if (`${siteJs}\n${galleryJs}`.includes(forbiddenTelemetry)) errors.push(`Free-form Gallery telemetry leaked into site integration: ${forbiddenTelemetry}`);
 }
 for (const token of ["document.querySelector('link[rel=\"canonical\"]')?.href", "`https://purebakes.in${location.pathname}`"]) {
   if (!siteJs.includes(token)) errors.push(`Missing production WhatsApp reference protection: ${token}`);

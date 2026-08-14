@@ -11,7 +11,7 @@ Register these event-scoped custom dimensions in GA4 if they are not already con
 - `page_path`
 - `cta_location`
 - `page_context`
-- `gallery_query`
+- `gallery_search_active`
 - `enquiry_id`
 
 The `whatsapp_click` event can be marked manually as a GA4 key event. This repository does not configure GA4 remotely.

@@ -60,7 +60,7 @@ if (dataElement && configElement && galleryRoot) {
   }));
   galleryRoot.querySelector("[data-gallery-search-form]").addEventListener("submit", (event) => {
     event.preventDefault(); const display = search.value.trim().slice(0, 100); const query = normalizeSearch(display); state = { query, item: null }; search.value = display; apply({ updateHistory: true });
-    if (query) { track("gallery_search", { search_term: query, result_count: results.length }); if (!results.length) track("gallery_search_no_results", { search_term: query }); }
+    if (query) { const searchMetrics = { search_used: true, search_length: display.length, result_count: results.length }; track("gallery_search", searchMetrics); if (!results.length) track("gallery_search_no_results", searchMetrics); }
   });
   clearButtons.forEach((button) => button.addEventListener("click", () => reset()));
   more.addEventListener("click", () => {
@@ -71,7 +71,7 @@ if (dataElement && configElement && galleryRoot) {
   grid.addEventListener("click", (event) => {
     const button = event.target.closest("[data-gallery-open]"); if (!button) return; const cake = cakes.find((item) => item.id === button.dataset.galleryOpen); if (!cake) return;
     previousFocus = button; selectedCake = cake; dialogImage.src = cake.image; dialogImage.alt = cake.alt; dialogCaption.textContent = cake.caption; dialogContext.textContent = label(cake.occasions[0]); availability.dataset.cakeId = cake.id; availability.dataset.cakeCaption = cake.caption; const occasion = enquiryOccasion(cake); if (occasion) availability.dataset.occasion = occasion; else delete availability.dataset.occasion; dialog.showModal(); document.body.classList.add("dialog-open"); dialog.querySelector("[data-cake-dialog-close]").focus();
-    track("gallery_image_open", { cake_id: cake.id, primary_theme: cake.themes[0] || "", primary_occasion: cake.occasions[0] || "", source_page: "gallery", position: Number(button.closest(".gallery-card").dataset.position || 0) + 1, gallery_query: state.query });
+    track("gallery_image_open", { cake_id: cake.id, primary_theme: cake.themes[0] || "", primary_occasion: cake.occasions[0] || "", source_page: "gallery", position: Number(button.closest(".gallery-card").dataset.position || 0) + 1, gallery_search_active: Boolean(state.query), gallery_search_type: !state.query ? "none" : state.item ? "taxonomy" : "free_form", filter_key: state.item?.key || "" });
   });
   function closeGalleryDetail() {
     if (closingDetail || !dialog) return; closingDetail = true; if (dialog.open) dialog.close();

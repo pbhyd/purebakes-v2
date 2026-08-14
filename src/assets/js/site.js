@@ -86,12 +86,12 @@ function createEnquiryId() {
   if (globalThis.crypto?.randomUUID) return globalThis.crypto.randomUUID().split("-")[0];
   return `${Date.now().toString(36)}${Math.random().toString(36).slice(2, 8)}`;
 }
-function getGalleryQuery() {
-  if (pageContext.page_type !== "gallery") return "";
-  return normalizeSearch(new URL(window.location.href).searchParams.get("search") || "");
+function getGallerySearchActive() {
+  if (pageContext.page_type !== "gallery") return false;
+  return Boolean(normalizeSearch(new URL(window.location.href).searchParams.get("search") || ""));
 }
 function getAvailabilityAttribution() {
-  return { cta_location: availabilityContext.cta_location || "unknown", page_context: availabilityContext.page_context || "", gallery_query: availabilityContext.gallery_query || "", enquiry_id: availabilityContext.enquiry_id || "" };
+  return { cta_location: availabilityContext.cta_location || "unknown", page_context: availabilityContext.page_context || "", gallery_search_active: Boolean(availabilityContext.gallery_search_active), enquiry_id: availabilityContext.enquiry_id || "" };
 }
 function getSelectedOccasion() { return occasionInputs.find((input) => input.checked)?.value || ""; }
 function getPreselectedOccasion(button) {
@@ -103,7 +103,7 @@ document.querySelectorAll("[data-availability-open]").forEach((button) => button
   occasionInputs.forEach((input) => { input.checked = false; });
   const preselectedOccasion = getPreselectedOccasion(button); const selectedInput = occasionInputs.find((input) => input.value === preselectedOccasion); if (selectedInput) selectedInput.checked = true;
   document.querySelector("[data-occasion-error]").textContent = ""; document.querySelector("[data-date-error]").textContent = "";
-  availabilityContext = { cake_id: button.dataset.cakeId || "", cake_caption: button.dataset.cakeCaption || "", page_context: button.dataset.pageContext || "", cta_location: button.dataset.ctaLocation || "unknown", gallery_query: getGalleryQuery(), enquiry_id: createEnquiryId(), preselected_occasion: preselectedOccasion };
+  availabilityContext = { cake_id: button.dataset.cakeId || "", cake_caption: button.dataset.cakeCaption || "", page_context: button.dataset.pageContext || "", cta_location: button.dataset.ctaLocation || "unknown", gallery_search_active: getGallerySearchActive(), enquiry_id: createEnquiryId(), preselected_occasion: preselectedOccasion };
   const openParameters = { ...getAvailabilityAttribution(), cake_id: availabilityContext.cake_id }; if (preselectedOccasion) openParameters.occasion = preselectedOccasion;
   refreshDateMinimum(); dialog?.showModal(); trackEvent("check_availability_open", openParameters); setTimeout(() => (selectedInput || occasionInputs[0])?.focus(), 50);
 }));
