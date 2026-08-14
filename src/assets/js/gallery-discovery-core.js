@@ -29,17 +29,19 @@ export function filterGallery(records, state) {
 
     if (!term) return true;
 
-    return [
+    const searchableText = [
       cake.caption,
       cake.alt,
       ...cake.themes,
       ...cake.occasions,
       ...cake.styles,
       ...cake.keywords,
-      ...cake.flavours,
+      ...cake.flavours
     ]
+      .map((value) => searchText(String(value)))
       .join(" ")
-      .toLowerCase()
-      .includes(term);
+      .toLowerCase();
+
+    return searchableText.includes(term);
   });
 }
