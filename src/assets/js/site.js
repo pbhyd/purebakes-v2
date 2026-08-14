@@ -87,7 +87,11 @@ document.querySelectorAll("[data-availability-open]").forEach((button) => button
   refreshDateMinimum(); dialog?.showModal(); trackEvent("check_availability_open", openParameters); setTimeout(() => (selectedInput || occasionInputs[0])?.focus(), 50);
 }));
 document.querySelector("[data-availability-close]")?.addEventListener("click", () => dialog?.close());
-dialog?.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
+dialog?.addEventListener("click", (event) => {
+  const rect = dialog.getBoundingClientRect();
+  const clickedOutside = event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom;
+  if (clickedOutside) dialog.close();
+});
 document.querySelector("[data-availability-form]")?.addEventListener("submit", (event) => {
   event.preventDefault(); const occasionError = document.querySelector("[data-occasion-error]"); const error = document.querySelector("[data-date-error]"); const occasion = getSelectedOccasion();
   if (!occasion) { occasionError.textContent = "Please select an occasion."; occasionInputs[0]?.focus(); return; }
