@@ -24,8 +24,10 @@
     "theme-urls:validate": "node scripts/theme-url-validate.mjs staging",
     "theme-urls:validate:production": "node scripts/theme-url-validate.mjs production",
     "seo:validate": "npm run build:production && node scripts/seo-validate.mjs",
-    "validate": "node scripts/validate-site.mjs",
+    "validate": "node scripts/validate-site.mjs staging",
+    "validate:production": "node scripts/validate-site.mjs production",
     "launch:validate": "node scripts/launch-validate.mjs staging",
+    "launch:validate:production": "node scripts/launch-validate.mjs production",
     "test": "npm run gallery:validate && npm run gallery:ux-validate && npm run build && npm run validate && npm run location:validate && npm run photo:validate && npm run areas:validate && npm run positioning:validate && npm run basepath:validate && npm run content:validate && npm run theme-urls:validate"
   },
   "devDependencies": {

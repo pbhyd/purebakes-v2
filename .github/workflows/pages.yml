@@ -1,4 +1,4 @@
-name: Deploy staging to GitHub Pages
+name: Deploy production to GitHub Pages
 on:
   push:
     branches: [main]
@@ -18,10 +18,12 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 22, cache: npm }
       - run: npm ci
-      - run: npm test
-        env:
-          SITE_ENV: staging
-          SITE_BASE_PATH: ""
+      - name: Validate staging safeguards
+        run: npm test
+      - name: Build production artifact explicitly
+        run: npm run build:production
+      - name: Validate production artifact
+        run: npm run launch:validate:production && npm run validate:production && npm run basepath:validate:production && npm run theme-urls:validate:production
       - uses: actions/upload-pages-artifact@v3
         with: { path: _site }
   deploy:
