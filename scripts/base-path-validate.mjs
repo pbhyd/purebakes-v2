@@ -11,7 +11,12 @@ const expected = (url) => `${expectedBasePath}${url}`;
 const checks = [
   [home, `href="${expected("/assets/css/site.css")}"`, "stylesheet"],
   [home, `src="${expected("/assets/js/site.js")}"`, "site JavaScript"],
-  [home, `href="${expected("/assets/images/brand/pure-bakes-logo-360.png")}"`, "favicon"],
+  
+  [home, `href="${expected("/assets/images/brand/favicon-32.png")}"`, "32x32 favicon does not use expected base path"],
+  [home, `href="${expected("/assets/images/brand/favicon.png")}"`, "512x512 favicon does not use expected base path"],
+  [home, `href="${expected("/assets/images/brand/apple-touch-icon.png")}"`, "apple touch icon does not use expected base path"],
+
+
   [home, `src="${expected("/assets/images/brand/pure-bakes-logo-360.png")}"`, "logo"],
   [home, `src="${expected("/assets/images/site/hero-custom-cake.webp")}"`, "homepage hero"],
   [home, `href="${expected("/gallery/")}"`, "Gallery link"],
