@@ -84,6 +84,19 @@ if (mode === "production") {
 
 const cname = (await readFile(join(root, "CNAME"), "utf8")).trim();
 if (cname !== "purebakes.in") errors.push(`Expected production custom domain in CNAME, found ${cname}`);
+const llms = await readFile(join(root, "llms.txt"), "utf8");
+const llmsUrls = [...llms.matchAll(/https:\/\/[^)\s]+/g)].map((match) => match[0]);
+if (!/^# PureBakes$/m.test(llms)) errors.push("llms.txt is missing its factual PureBakes heading");
+if (!llmsUrls.length) errors.push("llms.txt contains no canonical resource links");
+for (const url of llmsUrls) {
+  let parsed;
+  try { parsed = new URL(url); } catch { errors.push(`llms.txt contains an invalid URL: ${url}`); continue; }
+  if (parsed.protocol !== "https:" || parsed.hostname !== "purebakes.in") errors.push(`llms.txt contains a non-production URL: ${url}`);
+  if (!expectedRoutes.has(parsed.pathname)) errors.push(`llms.txt links to a route outside the production source of truth: ${url}`);
+}
+for (const forbidden of ["v21.purebakes.in", "pbhyd.github.io", "github.io", "localhost", "G-CTSJRZ95NF", "xwenvndp7j", "919980213333", "weddingcakeshyderabad.in"]) {
+  if (llms.includes(forbidden)) errors.push(`llms.txt contains forbidden technical or external information: ${forbidden}`);
+}
 try { await stat(join(root, "cake-smash-cakes-in-hyderabad")); errors.push("Obsolete Cake Smash output directory exists"); } catch (error) { if (error.code !== "ENOENT") throw error; }
 try { await stat(join(root, "cake-smash-in-hyderabad", "index.html")); } catch { errors.push("Correct Cake Smash route is missing"); }
 
