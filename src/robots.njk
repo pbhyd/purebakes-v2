@@ -2,9 +2,11 @@
 permalink: /robots.txt
 eleventyExcludeFromCollections: true
 ---
+
 User-agent: *
-{% if site.environment == "production" %}Allow: /
-Sitemap: {{ site.productionUrl }}sitemap.xml
-Sitemap: {{ site.productionUrl }}image-sitemap.xml
-{% else %}Disallow: /
+{% if site.environment == "production" %}
+  Allow: / Sitemap: {{ site.productionUrl }}sitemap.xml Sitemap:
+  {{ site.productionUrl }}image-sitemap.xml
+{% else %}
+  Disallow: /
 {% endif %}

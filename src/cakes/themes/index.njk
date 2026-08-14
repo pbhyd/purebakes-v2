@@ -10,4 +10,26 @@ breadcrumbs:
   - { label: Cakes, url: /cakes/ }
   - { label: Themes }
 ---
-<header class="page-hero wrap"><p class="eyebrow">Cake theme collections</p><h1>Find a theme that feels<br><em>like your celebration.</em></h1><p>Explore cake themes inspired by real PureBakes creations. Use them to find a direction, then personalise the final design around your celebration.</p></header><section class="section wrap"><div class="hub-grid">{% for item in themePages %}<a href="{{ item.url }}"><span>{{ item.count }} real designs</span><h2>{{ item.h1 }}</h2><p>{{ item.intro }}</p></a>{% endfor %}</div><p class="section-action"><a class="button button--primary" href="/gallery/">Search the full portfolio</a></p></section>
+
+<header class="page-hero wrap">
+  <p class="eyebrow">Cake theme collections</p>
+  <h1>Find a theme that feels<br /><em>like your celebration.</em></h1>
+  <p>
+    Explore cake themes inspired by real PureBakes creations. Use them to find a
+    direction, then personalise the final design around your celebration.
+  </p>
+</header>
+<section class="section wrap">
+  <div class="hub-grid">
+    {% for item in themePages %}<a href="{{ item.url }}"
+      ><span>{{ item.count }} real designs</span>
+      <h2>{{ item.h1 }}</h2>
+      <p>{{ item.intro }}</p></a
+    >{% endfor %}
+  </div>
+  <p class="section-action">
+    <a class="button button--primary" href="/gallery/"
+      >Search the full portfolio</a
+    >
+  </p>
+</section>

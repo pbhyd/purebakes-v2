@@ -8,8 +8,86 @@ canonical: https://purebakes.in/testimonials/
 breadcrumb:
   - label: Testimonials
 ---
-<header class="page-hero wrap testimonials-hero"><p class="eyebrow">Customer Reviews</p><h1>What Customers Say About PureBakes</h1><p>Read experiences shared by customers who chose PureBakes for birthdays, anniversaries, weddings and other celebrations in Hyderabad.</p><a class="button button--primary" href="https://search.google.com/local/reviews?placeid=ChIJw-5rzBOVyzsRNtLKQ1AaT1Q" data-track="google_reviews_click">Read More Reviews</a></header>
 
-<section class="section testimonials-collection" aria-labelledby="reviews-title"><div class="wrap"><div class="section-heading"><div><p class="eyebrow">In their own words</p><h2 id="reviews-title">Customer Experiences</h2></div><p>Hear from customers who shared their PureBakes experience on Google.</p></div><div class="testimonials-grid">{% for review in testimonials %}<article class="testimonial-card"><div class="testimonial-card__head"><h3>{{ review.name }}</h3>{% if review.rating %}<span aria-label="{{ review.rating }} out of 5 stars">★★★★★</span>{% endif %}</div><p>{{ review.quote }}</p><footer><span>{{ review.source }}</span>{% if review.link %}<a class="text-link" href="{{ review.link }}" target="_blank" rel="noopener noreferrer" data-track="google_reviews_click">View Original Review →</a>{% endif %}</footer></article>{% endfor %}</div></div></section>
+<header class="page-hero wrap testimonials-hero">
+  <p class="eyebrow">Customer Reviews</p>
+  <h1>What Customers Say About PureBakes</h1>
+  <p>
+    Read experiences shared by customers who chose PureBakes for birthdays,
+    anniversaries, weddings and other celebrations in Hyderabad.
+  </p>
+  <a
+    class="button button--primary"
+    href="https://search.google.com/local/reviews?placeid=ChIJw-5rzBOVyzsRNtLKQ1AaT1Q"
+    data-track="google_reviews_click"
+    >Read More Reviews</a
+  >
+</header>
 
-<section class="section testimonials-discovery"><div class="wrap compact-split"><div><p class="eyebrow eyebrow--gold">Designed around the occasion</p><h2>Made for Meaningful Celebrations</h2></div><div><p>Every custom cake starts with a different celebration, design idea and set of preferences. Customer experiences offer a useful look at how PureBakes approaches cakes for birthdays, anniversaries, weddings, engagements and other special occasions.</p><div class="home-link-row"><a class="button button--gold" href="/cakes/">Explore Custom Cakes</a><a class="text-link" href="/gallery/">View Real Cake Gallery →</a><button class="text-link" type="button" data-availability-open data-cta-location="testimonials_discovery">Check Availability →</button></div></div></div></section>
+<section
+  class="section testimonials-collection"
+  aria-labelledby="reviews-title"
+>
+  <div class="wrap">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">In their own words</p>
+        <h2 id="reviews-title">Customer Experiences</h2>
+      </div>
+      <p>
+        Hear from customers who shared their PureBakes experience on Google.
+      </p>
+    </div>
+    <div class="testimonials-grid">
+      {% for review in testimonials %}<article class="testimonial-card">
+        <div class="testimonial-card__head">
+          <h3>{{ review.name }}</h3>
+          {% if review.rating %}<span
+            aria-label="{{ review.rating }} out of 5 stars"
+            >★★★★★</span
+          >{% endif %}
+        </div>
+        <p>{{ review.quote }}</p>
+        <footer>
+          <span>{{ review.source }}</span>{% if review.link %}<a
+            class="text-link"
+            href="{{ review.link }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-track="google_reviews_click"
+            >View Original Review →</a
+          >{% endif %}
+        </footer>
+      </article>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section testimonials-discovery">
+  <div class="wrap compact-split">
+    <div>
+      <p class="eyebrow eyebrow--gold">Designed around the occasion</p>
+      <h2>Made for Meaningful Celebrations</h2>
+    </div>
+    <div>
+      <p>
+        Every custom cake starts with a different celebration, design idea and
+        set of preferences. Customer experiences offer a useful look at how
+        PureBakes approaches cakes for birthdays, anniversaries, weddings,
+        engagements and other special occasions.
+      </p>
+      <div class="home-link-row">
+        <a class="button button--gold" href="/cakes/">Explore Custom Cakes</a
+        ><a class="text-link" href="/gallery/">View Real Cake Gallery →</a
+        ><button
+          class="text-link"
+          type="button"
+          data-availability-open
+          data-cta-location="testimonials_discovery"
+        >
+          Check Availability →
+        </button>
+      </div>
+    </div>
+  </div>
+</section>

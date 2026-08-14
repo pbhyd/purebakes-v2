@@ -1,30 +1,133 @@
 <header class="site-header" data-header>
-  <a class="brand" href="/" aria-label="PureBakes home"><img src="/assets/images/brand/pure-bakes-logo-360.png" alt="PureBakes" width="180" height="94"></a>
+  <a class="brand" href="/" aria-label="PureBakes home"
+    ><img
+      src="/assets/images/brand/pure-bakes-logo-360.png"
+      alt="PureBakes"
+      width="180"
+      height="94"
+  /></a>
   <nav class="desktop-nav" aria-label="Primary">
     <div class="desktop-cakes-menu" data-desktop-cakes-menu>
-      <button class="desktop-cakes-toggle" type="button" aria-expanded="false" aria-controls="cakes-mega-menu">Cakes <span aria-hidden="true">⌄</span></button>
+      <button
+        class="desktop-cakes-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="cakes-mega-menu"
+      >
+        Cakes <span aria-hidden="true">⌄</span>
+      </button>
       <div class="cakes-mega-menu" id="cakes-mega-menu" aria-hidden="true">
         <div class="cakes-mega-columns">
-          <section><h2>Popular</h2>{% for item in cakeNavigation.popular %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</section>
-          <section><h2>Birthdays</h2>{% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</section>
-          <section><h2>Weddings &amp; Celebrations</h2>{% for item in cakeNavigation.celebrations %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</section>
-          <section><h2>Cake Themes</h2>{% for item in cakeNavigation.themes %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</section>
+          <section>
+            <h2>Popular</h2>
+            {% for item in cakeNavigation.popular %}<a href="{{ item.url }}"
+              >{{ item.label }}</a
+            >{% endfor %}
+          </section>
+          <section>
+            <h2>Birthdays</h2>
+            {% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}"
+              >{{ item.label }}</a
+            >{% endfor %}
+          </section>
+          <section>
+            <h2>Weddings &amp; Celebrations</h2>
+            {% for item in cakeNavigation.celebrations %}<a
+              href="{{ item.url }}"
+              >{{ item.label }}</a
+            >{% endfor %}
+          </section>
+          <section>
+            <h2>Cake Themes</h2>
+            {% for item in cakeNavigation.themes %}<a href="{{ item.url }}"
+              >{{ item.label }}</a
+            >{% endfor %}
+          </section>
         </div>
-        <div class="cakes-mega-footer"><a href="/cakes/themes/">Explore All Cake Themes</a><a href="/cakes/">View All Cakes / Custom Cakes</a><a href="/gallery/">Full Cake Gallery</a></div>
+        <div class="cakes-mega-footer">
+          <a href="/cakes/themes/">Explore All Cake Themes</a
+          ><a href="/cakes/">View All Cakes / Custom Cakes</a
+          ><a href="/gallery/">Full Cake Gallery</a>
+        </div>
       </div>
     </div>
-    {% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}
+    {% for item in navigation %}<a href="{{ item.url }}"
+      >{{ item.label }}</a
+    >{% endfor %}
   </nav>
-  <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu"><span></span><span></span><span></span></button>
-  <button class="header-cta button button--small" type="button" data-availability-open data-cta-location="header">Check availability</button>
+  <button
+    class="menu-button"
+    type="button"
+    aria-expanded="false"
+    aria-controls="mobile-menu"
+    aria-label="Open menu"
+  >
+    <span></span><span></span><span></span>
+  </button>
+  <button
+    class="header-cta button button--small"
+    type="button"
+    data-availability-open
+    data-cta-location="header"
+  >
+    Check availability
+  </button>
 </header>
-<div class="mobile-menu" id="mobile-menu" hidden><nav aria-label="Mobile primary">
+<div class="mobile-menu" id="mobile-menu" hidden>
+  <nav aria-label="Mobile primary">
     <div class="mobile-cakes-section">
       <p class="mobile-cakes-heading">Cakes</p>
-      <a class="mobile-cakes-all" href="/cakes/">All Custom Cakes <span aria-hidden="true">→</span></a>
-      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-birthdays">Birthdays <span aria-hidden="true">⌄</span></button><div id="mobile-birthdays" hidden>{% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
-      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-celebrations">Weddings &amp; Celebrations <span aria-hidden="true">⌄</span></button><div id="mobile-celebrations" hidden>{% for item in cakeNavigation.celebrations %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
-      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-themes">Cake Themes <span aria-hidden="true">⌄</span></button><div id="mobile-themes" hidden>{% for item in cakeNavigation.themes %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}<a href="/cakes/themes/">Explore All Themes</a></div></div>
+      <a class="mobile-cakes-all" href="/cakes/"
+        >All Custom Cakes <span aria-hidden="true">→</span></a
+      >
+      <div class="mobile-nav-group">
+        <button
+          type="button"
+          aria-expanded="false"
+          aria-controls="mobile-birthdays"
+        >
+          Birthdays <span aria-hidden="true">⌄</span>
+        </button>
+        <div id="mobile-birthdays" hidden>
+          {% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}"
+            >{{ item.label }}</a
+          >{% endfor %}
+        </div>
+      </div>
+      <div class="mobile-nav-group">
+        <button
+          type="button"
+          aria-expanded="false"
+          aria-controls="mobile-celebrations"
+        >
+          Weddings &amp; Celebrations <span aria-hidden="true">⌄</span>
+        </button>
+        <div id="mobile-celebrations" hidden>
+          {% for item in cakeNavigation.celebrations %}<a href="{{ item.url }}"
+            >{{ item.label }}</a
+          >{% endfor %}
+        </div>
+      </div>
+      <div class="mobile-nav-group">
+        <button
+          type="button"
+          aria-expanded="false"
+          aria-controls="mobile-themes"
+        >
+          Cake Themes <span aria-hidden="true">⌄</span>
+        </button>
+        <div id="mobile-themes" hidden>
+          {% for item in cakeNavigation.themes %}<a href="{{ item.url }}"
+            >{{ item.label }}</a
+          >{% endfor %}<a href="/cakes/themes/">Explore All Themes</a>
+        </div>
+      </div>
     </div>
-  {% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}
-</nav><button class="button" data-availability-open data-cta-location="mobile_menu">Check availability</button></div>
+    {% for item in navigation %}<a href="{{ item.url }}"
+      >{{ item.label }}</a
+    >{% endfor %}
+  </nav>
+  <button class="button" data-availability-open data-cta-location="mobile_menu">
+    Check availability
+  </button>
+</div>
