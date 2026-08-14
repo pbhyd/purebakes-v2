@@ -18,7 +18,7 @@ breadcrumbs:
   <div class="gallery-grid" data-gallery-grid>
     {% for cake in gallery %}{% if loop.index <= 30 %}<article class="gallery-card" data-cake-id="{{ cake.id }}"><button type="button" data-gallery-open="{{ cake.id }}" data-gallery-action="image_open" data-cake-id="{{ cake.id }}" aria-label="View {{ cake.caption }}"><img class="portfolio-cake-photo" src="{{ cake.image | imageVariant(360) }}" srcset="{{ cake.image | imageVariant(360) }} 360w, {{ cake.image | imageVariant(720) }} 720w" sizes="(max-width: 47.99rem) calc(50vw - 1.2rem), (max-width: 74.99rem) calc(33.333vw - 1.5rem), calc(20vw - 1.5rem)" width="1080" height="1920" alt="{{ cake.alt }}" loading="lazy" decoding="async"><span><small>{% if cake.occasions.length %}{{ occasions[cake.occasions[0]].name }}{% else %}Custom design{% endif %}</small><strong>{{ cake.caption }}</strong></span></button></article>{% endif %}{% endfor %}
   </div>
-  <div class="gallery-more"><button class="button button--primary" type="button" data-gallery-load-more>Load more cakes</button></div>
+  <div class="gallery-more" data-gallery-more hidden><button class="button button--primary" type="button" data-gallery-load-more>Load more cakes</button></div>
   <div class="gallery-empty" data-gallery-empty hidden><h2 data-gallery-empty-heading>No matching cake designs found.</h2><p>Try another search or return to the complete PureBakes portfolio.</p><button class="button button--light" type="button" data-gallery-clear>View all cakes</button></div>
 </section>
 

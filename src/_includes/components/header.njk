@@ -15,13 +15,16 @@
     </div>
     {% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}
   </nav>
-  <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu"><span></span><span></span><span></span><span class="sr-only">Open menu</span></button>
+  <button class="menu-button" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu"><span></span><span></span><span></span></button>
   <button class="header-cta button button--small" type="button" data-availability-open data-cta-location="header">Check availability</button>
-  <div class="mobile-menu" id="mobile-menu" hidden><nav aria-label="Mobile primary">
-    <a href="/cakes/">Cakes <span>All Custom Cakes</span></a>
-    <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-birthdays">Birthdays <span aria-hidden="true">⌄</span></button><div id="mobile-birthdays" hidden>{% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
-    <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-celebrations">Weddings &amp; Celebrations <span aria-hidden="true">⌄</span></button><div id="mobile-celebrations" hidden>{% for item in cakeNavigation.celebrations %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
-    <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-themes">Cake Themes <span aria-hidden="true">⌄</span></button><div id="mobile-themes" hidden>{% for item in cakeNavigation.themes %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}<a href="/cakes/themes/">Explore All Themes</a></div></div>
-    {% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}
-  </nav><button class="button" data-availability-open data-cta-location="mobile_menu">Check availability</button></div>
 </header>
+<div class="mobile-menu" id="mobile-menu" hidden><nav aria-label="Mobile primary">
+    <div class="mobile-cakes-section">
+      <p class="mobile-cakes-heading">Cakes</p>
+      <a class="mobile-cakes-all" href="/cakes/">All Custom Cakes <span aria-hidden="true">→</span></a>
+      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-birthdays">Birthdays <span aria-hidden="true">⌄</span></button><div id="mobile-birthdays" hidden>{% for item in cakeNavigation.birthdays %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
+      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-celebrations">Weddings &amp; Celebrations <span aria-hidden="true">⌄</span></button><div id="mobile-celebrations" hidden>{% for item in cakeNavigation.celebrations %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</div></div>
+      <div class="mobile-nav-group"><button type="button" aria-expanded="false" aria-controls="mobile-themes">Cake Themes <span aria-hidden="true">⌄</span></button><div id="mobile-themes" hidden>{% for item in cakeNavigation.themes %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}<a href="/cakes/themes/">Explore All Themes</a></div></div>
+    </div>
+  {% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}
+</nav><button class="button" data-availability-open data-cta-location="mobile_menu">Check availability</button></div>

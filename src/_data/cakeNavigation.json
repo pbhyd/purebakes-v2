@@ -9,17 +9,17 @@
     {"label":"Birthday Cakes","url":"/birthday-cakes-in-hyderabad/"},
     {"label":"First Birthday — Girls","url":"/first-birthday-cakes-for-girls-in-hyderabad/"},
     {"label":"First Birthday — Boys","url":"/first-birthday-cakes-for-boys-in-hyderabad/"},
-    {"label":"Half Birthday","url":"/gallery/?search=half-birthday"},
-    {"label":"Cake Smash","url":"/gallery/?search=smash-cake"}
+    {"label":"Half Birthday","url":"/half-birthday-cakes-in-hyderabad/"},
+    {"label":"Cake Smash","url":"/cake-smash-in-hyderabad/"}
   ],
   "celebrations": [
     {"label":"Wedding Cakes","url":"/luxury-wedding-cakes-hyderabad/"},
     {"label":"Engagement Cakes","url":"/engagement-cakes-in-hyderabad/"},
     {"label":"Anniversary Cakes","url":"/anniversary-cakes-in-hyderabad/"},
-    {"label":"Bridal Shower Cakes","url":"/gallery/?search=bridal-shower"},
+    {"label":"Bridal Shower Cakes","url":"/bridal-shower-cakes-in-hyderabad/"},
     {"label":"Baby Shower Cakes","url":"/baby-shower-cakes-in-hyderabad/"},
-    {"label":"Baby Announcement","url":"/gallery/?search=baby-announcement"},
-    {"label":"Bon Voyage","url":"/gallery/?search=bon-voyage"}
+    {"label":"Baby Announcement","url":"/baby-announcement-cakes-in-hyderabad/"},
+    {"label":"Bon Voyage","url":"/bon-voyage-cakes-in-hyderabad/"}
   ],
   "themes": [
     {"label":"Floral","url":"/floral-cakes/"},

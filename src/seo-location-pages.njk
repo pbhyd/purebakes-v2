@@ -30,7 +30,7 @@ eleventyComputed:
 {% set portfolio = gallery | galleryByIds(landing.portfolioImageIds) %}
 {% set portfolioHeading = landing.portfolioHeading %}
 {% set portfolioIntro = landing.portfolioIntro %}
-{% include "components/seo-portfolio.njk" %}
+{% set portfolioGalleryKey = "" %}{% include "components/seo-portfolio.njk" %}
 
 {% if landing.areaContext %}
 <section class="seo-copy-block seo-area-context">

@@ -1,8 +1,10 @@
 import { createPublicUrl, normalizeBasePath } from "./lib/public-url.js";
+import galleryDiscovery from "./src/_data/galleryDiscovery.js";
 
 export default function (eleventyConfig) {
   const basePath = normalizeBasePath(process.env.SITE_BASE_PATH);
   const publicUrl = createPublicUrl(basePath);
+  const gallerySearchKeys = new Set([...galleryDiscovery.occasions, ...galleryDiscovery.themes].map((item) => item.key).filter((key) => key !== "all"));
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist/leaflet.css": "assets/vendor/leaflet/leaflet.css" });
   eleventyConfig.addPassthroughCopy({ "node_modules/leaflet/dist/leaflet.js": "assets/vendor/leaflet/leaflet.js" });
@@ -12,6 +14,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("json", (value) => JSON.stringify(value));
   eleventyConfig.addFilter("urlencode", (value) => encodeURIComponent(value));
   eleventyConfig.addFilter("imageVariant", (path, width) => path.replace(/\.webp$/i, `-${width}.webp`));
+  eleventyConfig.addFilter("gallerySearchUrl", (key) => gallerySearchKeys.has(key) ? `/gallery/?search=${encodeURIComponent(key)}` : "/gallery/");
   eleventyConfig.addFilter("galleryClientData", (records) => records.map(({ id, image, caption, alt, themes, occasions, flavours, styles, keywords }) => ({ id, image: publicUrl(image), caption, alt, themes, occasions, flavours, styles, keywords })));
   eleventyConfig.addFilter("areaMapData", (records) => records.map(({ key, name, url, classification, map }) => ({ key, name, url: publicUrl(url), classification, lat: map?.lat, lng: map?.lng })));
   eleventyConfig.addFilter("galleryBy", (records, field, key, limit = 8) => records.filter((record) => (record[field] || []).includes(key)).slice(0, limit));

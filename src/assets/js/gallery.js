@@ -5,7 +5,7 @@ const configElement = document.querySelector("#gallery-discovery-data");
 const galleryRoot = document.querySelector("[data-gallery]");
 if (dataElement && configElement && galleryRoot) {
   const cakes = JSON.parse(dataElement.textContent); const config = JSON.parse(configElement.textContent); const batchSize = 30;
-  const grid = galleryRoot.querySelector("[data-gallery-grid]"); const heading = galleryRoot.querySelector("[data-gallery-result-heading]"); const empty = galleryRoot.querySelector("[data-gallery-empty]"); const emptyHeading = galleryRoot.querySelector("[data-gallery-empty-heading]"); const more = galleryRoot.querySelector("[data-gallery-load-more]"); const search = galleryRoot.querySelector("[data-gallery-search]");
+  const grid = galleryRoot.querySelector("[data-gallery-grid]"); const heading = galleryRoot.querySelector("[data-gallery-result-heading]"); const empty = galleryRoot.querySelector("[data-gallery-empty]"); const emptyHeading = galleryRoot.querySelector("[data-gallery-empty-heading]"); const more = galleryRoot.querySelector("[data-gallery-load-more]"); const moreContainer = galleryRoot.querySelector("[data-gallery-more]"); const search = galleryRoot.querySelector("[data-gallery-search]");
   const exploreButton = galleryRoot.querySelector("[data-gallery-explore]"); const explorePanel = galleryRoot.querySelector("[data-gallery-explore-panel]"); const pills = [...galleryRoot.querySelectorAll("[data-gallery-pill]")]; const clearButtons = [...galleryRoot.querySelectorAll("[data-gallery-clear]")];
   const dialog = document.querySelector("[data-cake-dialog]"); const dialogImage = dialog?.querySelector("[data-cake-dialog-image]"); const dialogCaption = dialog?.querySelector("[data-cake-dialog-caption]"); const dialogContext = dialog?.querySelector("[data-cake-dialog-context]"); const availability = dialog?.querySelector("[data-cake-context]");
   let shown = batchSize; let state = { query: "", item: null }; let results = cakes; let previousFocus = null; let selectedCake = null; let closingDetail = false;
@@ -29,7 +29,7 @@ if (dataElement && configElement && galleryRoot) {
   function resultText() { if (!state.query) return `${results.length} cake designs`; if (state.item) return `${results.length} ${state.item.label} cake designs`; return `${results.length} results for “${search.value.trim()}”`; }
   function render() {
     grid.replaceChildren(...results.slice(0, shown).map(createCard)); heading.textContent = resultText();
-    empty.hidden = results.length !== 0; grid.hidden = results.length === 0; more.hidden = results.length <= shown;
+    empty.hidden = results.length !== 0; grid.hidden = results.length === 0; moreContainer.hidden = results.length === 0 || results.length <= shown;
     clearButtons.forEach((button) => { button.hidden = !state.query; });
     emptyHeading.textContent = state.query ? `No cake designs found for “${search.value.trim()}”.` : "No matching cake designs found.";
   }
@@ -63,7 +63,11 @@ if (dataElement && configElement && galleryRoot) {
     if (query) { track("gallery_search", { search_term: query, result_count: results.length }); if (!results.length) track("gallery_search_no_results", { search_term: query }); }
   });
   clearButtons.forEach((button) => button.addEventListener("click", () => reset()));
-  more.addEventListener("click", () => { shown += batchSize; render(); track("gallery_load_more", { visible_count: Math.min(shown, results.length), result_count: results.length }); more.focus(); });
+  more.addEventListener("click", () => {
+    const previousShown = Math.min(shown, results.length); shown += batchSize; render();
+    track("gallery_load_more", { visible_count: Math.min(shown, results.length), result_count: results.length });
+    if (moreContainer.hidden) grid.querySelectorAll("[data-gallery-open]")[previousShown]?.focus(); else more.focus();
+  });
   grid.addEventListener("click", (event) => {
     const button = event.target.closest("[data-gallery-open]"); if (!button) return; const cake = cakes.find((item) => item.id === button.dataset.galleryOpen); if (!cake) return;
     previousFocus = button; selectedCake = cake; dialogImage.src = cake.image; dialogImage.alt = cake.alt; dialogCaption.textContent = cake.caption; dialogContext.textContent = label(cake.occasions[0]); availability.dataset.cakeId = cake.id; availability.dataset.cakeCaption = cake.caption; const occasion = enquiryOccasion(cake); if (occasion) availability.dataset.occasion = occasion; else delete availability.dataset.occasion; dialog.showModal(); document.body.classList.add("dialog-open"); dialog.querySelector("[data-cake-dialog-close]").focus();

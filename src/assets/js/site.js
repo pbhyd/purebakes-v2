@@ -18,20 +18,41 @@ const menuButton = document.querySelector(".menu-button");
 const mobileMenu = document.querySelector("#mobile-menu");
 if (menuButton && mobileMenu) {
   const mobileGroups = [...mobileMenu.querySelectorAll(".mobile-nav-group")];
+  let mobileScrollY = 0;
   const closeMobileGroups = (except) => mobileGroups.forEach((group) => {
     if (group === except) return;
     const button = group.querySelector("button"); const panel = group.querySelector("div");
     button.setAttribute("aria-expanded", "false"); panel.hidden = true;
   });
+  const setMobileMenuOpen = (open, restoreFocus = false) => {
+    const wasOpen = menuButton.getAttribute("aria-expanded") === "true";
+    if (open === wasOpen) return;
+    menuButton.setAttribute("aria-expanded", String(open)); menuButton.setAttribute("aria-label", open ? "Close menu" : "Open menu"); mobileMenu.hidden = !open; root.classList.toggle("mobile-menu-open", open);
+    if (open) {
+      mobileScrollY = window.scrollY; document.body.style.position = "fixed"; document.body.style.top = `-${mobileScrollY}px`; document.body.style.width = "100%"; menuButton.focus();
+    } else {
+      document.body.style.position = ""; document.body.style.top = ""; document.body.style.width = ""; window.scrollTo(0, mobileScrollY); if (restoreFocus) menuButton.focus();
+    }
+    if (!open) closeMobileGroups();
+  };
   menuButton.addEventListener("click", () => {
     const open = menuButton.getAttribute("aria-expanded") === "true";
-    menuButton.setAttribute("aria-expanded", String(!open)); mobileMenu.hidden = open; if (open) closeMobileGroups();
+    setMobileMenuOpen(!open);
   });
   mobileGroups.forEach((group) => group.querySelector("button").addEventListener("click", () => {
     const button = group.querySelector("button"); const panel = group.querySelector("div"); const open = button.getAttribute("aria-expanded") === "true";
     closeMobileGroups(group); button.setAttribute("aria-expanded", String(!open)); panel.hidden = open;
   }));
-  mobileMenu.addEventListener("click", (event) => { if (event.target.closest("a")) { mobileMenu.hidden = true; menuButton.setAttribute("aria-expanded", "false"); } });
+  mobileMenu.addEventListener("click", (event) => { if (event.target.closest("a")) setMobileMenuOpen(false); });
+  document.addEventListener("keydown", (event) => {
+    if (menuButton.getAttribute("aria-expanded") !== "true") return;
+    if (event.key === "Escape") { event.preventDefault(); setMobileMenuOpen(false, true); return; }
+    if (event.key !== "Tab" || dialog?.open) return;
+    const focusable = [menuButton, ...mobileMenu.querySelectorAll('a[href], button:not([disabled])')].filter((item) => item.getClientRects().length);
+    const first = focusable[0]; const last = focusable.at(-1);
+    if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+    else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+  });
 }
 
 const desktopCakesMenu = document.querySelector("[data-desktop-cakes-menu]");
