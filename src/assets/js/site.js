@@ -96,7 +96,7 @@ document.querySelector("[data-availability-form]")?.addEventListener("submit", (
   if (dateInput.value < getLocalToday()) { error.textContent = "Please select today or a future date."; trackEvent("availability_date_validation_error"); dateInput.focus(); return; }
   error.textContent = "";
   const readableDate = new Intl.DateTimeFormat("en-IN", { day: "numeric", month: "long", year: "numeric" }).format(new Date(`${dateInput.value}T12:00:00`));
-  const reference = `${location.origin}${location.pathname}`;
+  const reference = document.querySelector('link[rel="canonical"]')?.href || `https://purebakes.in${location.pathname}`;
   const design = availabilityContext.cake_caption ? `\n\nDesign:\n${availabilityContext.cake_caption}` : "";
   const context = availabilityContext.page_context ? ` for ${availabilityContext.page_context}` : "";
   const message = `Hi PureBakes, I'd like to enquire about a custom cake${context}.\n\nOccasion: ${occasionLabels[occasion]}\nDate: ${readableDate}${design}\n\nReference: ${reference}`;
