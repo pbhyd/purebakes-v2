@@ -2778,3 +2778,23 @@ h2 em {
 .gallery-status [data-gallery-clear-status][hidden] {
   display: none !important;
 }
+
+/* Keep Gallery Explore CTA readable on primary background */
+.gallery-discovery .gallery-explore-button {
+  background: var(--purple-action);
+  border-color: var(--purple-action);
+  color: #fff;
+}
+
+.gallery-discovery .gallery-explore-button:hover,
+.gallery-discovery .gallery-explore-button:focus-visible {
+  background: var(--purple-text);
+  border-color: var(--purple-text);
+  color: #fff;
+}
+
+.gallery-discovery .gallery-explore-button.is-active {
+  background: var(--purple-action);
+  border-color: var(--purple-action);
+  color: #fff;
+}
