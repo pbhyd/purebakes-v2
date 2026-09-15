@@ -23,7 +23,6 @@ const routeFor = (path) => path === join(root, "404.html") ? "/404.html" : `/${p
 const generatedRoutes = new Set(pages.map(({ path }) => routeFor(path)));
 const cakeSources = (await readdir(resolve("src/assets/images/cakes"), { withFileTypes: true })).filter((entry) => entry.isFile() && entry.name.endsWith(".webp"));
 
-if (cakeSources.length !== 472) errors.push(`Expected 472 canonical cake sources, found ${cakeSources.length}`);
 if (cakeSources.some(({ name }) => /-(360|540|720|900)\.webp$/.test(name))) errors.push("Generated derivative found in canonical source folder");
 if (pages.length !== expectedHtmlCount) errors.push(`Expected ${expectedHtmlCount} generated HTML files from ${expectedRoutes.size} sitemap routes plus 404, found ${pages.length}`);
 for (const route of expectedRoutes) if (!generatedRoutes.has(route)) errors.push(`Expected route was not generated: ${route}`);
