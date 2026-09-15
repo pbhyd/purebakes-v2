@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-13T19:50:04.995Z",
-  "total": 472,
+  "generatedAt": "2026-09-15T23:43:01.549Z",
+  "total": 487,
   "counts": {
     "themes": {
-      "floral": 50,
-      "butterfly": 40,
+      "floral": 51,
+      "butterfly": 41,
       "animal": 23,
-      "car": 19,
+      "car": 21,
       "jungle": 13,
+      "superhero": 11,
       "princess": 10,
-      "superhero": 10,
       "spider-man": 8,
       "unicorn": 8,
       "travel": 7,
@@ -20,17 +20,17 @@
       "mermaid": 2
     },
     "occasions": {
-      "birthday": 300,
+      "birthday": 312,
       "first-birthday": 61,
       "anniversary": 32,
       "first-birthday-boy": 32,
-      "first-birthday-girl": 27,
+      "first-birthday-girl": 28,
       "engagement-wedding": 24,
       "baby-shower": 11,
       "bon-voyage": 7,
+      "corporate": 7,
       "half-birthday": 6,
       "bridal-shower": 5,
-      "corporate": 5,
       "baby-announcement": 4,
       "smash-cake": 1
     },
@@ -46,11 +46,11 @@
     "flavours": {}
   },
   "gaps": {
-    "noTheme": 288,
-    "noOccasion": 16,
-    "noStyle": 375,
+    "noTheme": 298,
+    "noOccasion": 17,
+    "noStyle": 390,
     "noAlt": 0,
-    "unknownFlavour": 472
+    "unknownFlavour": 487
   },
   "candidateThresholds": {
     "strong": 20,

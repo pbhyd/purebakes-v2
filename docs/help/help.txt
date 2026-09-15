@@ -1,0 +1,167 @@
+The easiest manual workflow is: add 15 optimized WebP files, run the gallery helper, edit its generated JSON, rename it, then validate.
+
+## 1. Prepare the images
+
+Convert each photo to an optimized `.webp` file and use unique, descriptive filenames:
+
+```text
+pink-butterfly-first-birthday-cake.webp
+blue-football-theme-birthday-cake.webp
+floral-anniversary-cake-with-roses.webp
+```
+
+Use lowercase letters, numbers, and hyphens. Avoid spaces, underscores, and names such as `IMG_1234.webp`.
+
+Copy all 15 files into:
+
+```text
+src/assets/images/cakes/
+```
+
+Do not manually produce `-360.webp` or `-720.webp` versions. The build creates those automatically through [gallery-images.mjs](/Users/prakash/github/purebakes-v2/scripts/gallery-images.mjs:6).
+
+## 2. Generate records for the new images
+
+From the repository root, run:
+
+```bash
+npm run gallery:add
+```
+
+The helper:
+
+- Detects unregistered WebP files
+- Determines the next available cake IDs
+- Creates one record per image
+- Writes a monthly starter file
+
+This behavior is implemented in [gallery-add.mjs](/Users/prakash/github/purebakes-v2/scripts/gallery-add.mjs:4).
+
+For September 2026, it will create:
+
+```text
+src/_data/gallery/2026-09.starter.json
+```
+
+You can specify a different month:
+
+```bash
+GALLERY_MONTH=2026-10 npm run gallery:add
+```
+
+## 3. Edit the generated JSON
+
+The file will contain entries similar to:
+
+```json
+[
+  {
+    "id": "cake-0473",
+    "image": "/assets/images/cakes/pink-butterfly-first-birthday-cake.webp",
+    "caption": "Pink Butterfly First Birthday Cake",
+    "alt": "Pink butterfly cake made for a first birthday celebration",
+    "themes": ["butterfly"],
+    "occasions": ["first-birthday-girl"],
+    "flavours": [],
+    "styles": [],
+    "colours": ["pink"],
+    "keywords": ["butterfly cake", "first birthday cake"],
+    "featured": false,
+    "dateAdded": "2026-09-16"
+  }
+]
+```
+
+Repeat the object for all 15 photographs. The helper creates these objects automatically, so normally you only replace `REVIEW REQUIRED`, enter the date, and assign classifications.
+
+Important rules:
+
+- Every `id` must be unique.
+- Every image path must be unique.
+- Keep images directly inside `assets/images/cakes`; no subdirectories.
+- `caption` and `alt` cannot be empty.
+- Do not add `legacyImageUrl` for new photographs.
+- Use `featured: true` only when you intentionally want the cake considered featured.
+- Leave `flavours` empty unless you know the actual flavour.
+- Empty classifications are valid when you are uncertain.
+
+These constraints are enforced in [gallery-validate.mjs](/Users/prakash/github/purebakes-v2/scripts/gallery-validate.mjs:5).
+
+## 4. Use valid classifications
+
+Only use keys already defined in these files:
+
+- [themes.json](/Users/prakash/github/purebakes-v2/src/_data/themes.json)
+- [occasions.json](/Users/prakash/github/purebakes-v2/src/_data/occasions.json)
+- [styles.json](/Users/prakash/github/purebakes-v2/src/_data/styles.json)
+- [flavours.json](/Users/prakash/github/purebakes-v2/src/_data/flavours.json)
+
+For example:
+
+```json
+"themes": ["butterfly", "floral"],
+"occasions": ["first-birthday-girl"],
+"styles": ["two-tier", "floral"]
+```
+
+Do not enter display names such as `"First Birthday – Girl"`. Use its key:
+
+```json
+"first-birthday-girl"
+```
+
+If a classification does not exist, either leave the array empty or add a proper entry to the corresponding taxonomy file.
+
+## 5. Activate the JSON file
+
+After finishing all 15 records, rename the starter file:
+
+```bash
+mv \
+  src/_data/gallery/2026-09.starter.json \
+  src/_data/gallery/2026-09.json
+```
+
+The `.starter.json` suffix is intentionally ignored by the gallery loader. Only regular JSON files are loaded, as shown in [gallery.js](/Users/prakash/github/purebakes-v2/src/_data/gallery.js:4).
+
+If `2026-09.json` already exists, use a distinct descriptive filename instead:
+
+```bash
+mv \
+  src/_data/gallery/2026-09.starter.json \
+  src/_data/gallery/2026-09-batch-2.json
+```
+
+## 6. Validate and build
+
+Run:
+
+```bash
+npm run gallery:validate
+npm run gallery:stats
+npm test
+```
+
+For a quicker initial check:
+
+```bash
+npm run gallery:validate
+npm run build
+```
+
+The build automatically generates 360px and 720px derivatives for images large enough to need them. See [gallery-images.mjs](/Users/prakash/github/purebakes-v2/scripts/gallery-images.mjs:8).
+
+## 7. Review your changes
+
+```bash
+git status --short
+git diff -- src/_data/gallery/
+```
+
+You should see:
+
+- 15 new files under `src/assets/images/cakes/`
+- One new gallery JSON file
+- Possibly an updated `seo/gallery-taxonomy-report.json`
+
+Do not commit `_site/`. The repository’s complete internal instructions are in [gallery-management.md](/Users/prakash/github/purebakes-v2/docs/gallery-management.md:3).

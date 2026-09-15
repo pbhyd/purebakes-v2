@@ -1,0 +1,29 @@
+Create a json array for these photos where For each photo will be json object in this format
+{
+    "caption": "Pink Butterfly First Birthday Cake",
+    "alt": "Pink butterfly cake made for a first birthday celebration",
+    "themes": ["butterfly", "Unicorn"],
+    "occasions": ["first-birthday-girl"],
+    "colours": ["pink"],
+    "keywords": ["butterfly cake", "first birthday cake"],
+    "image": "/assets/images/cakes/pink-butterfly-first-birthday-cake.webp",
+    "id": "1.png",
+    "flavours": [],
+    "styles": [],
+    "featured": false,
+    "dateAdded": "2026-09-16",
+    "additional": "A classic vintage-style buttercream cake featuring intricate piped borders and elegant black ribbon bows for a chic monochrome finish. The minimalist "21" centerpiece makes it a perfect choice for milestone birthdays with a modern yet timeless aesthetic. Smooth white frosting paired with detailed piping creates a graceful and luxurious presentation. Ideal for those who love understated elegance with a touch of vintage charm."
+}
+
+where
+caption: For each photo, Separately Generate 7 to 10 words title. Dont add this character "'"
+image: keep the path same as /assets/images/cakes/{formated-caption} - formated-caption is converting the caption into lower case with spaces replaced with - and no special characters
+alt: can be a SEO sentence desribing the image
+themes: json array from this list - animal, boss-baby, butterfly, car, cricket, floral, football, jungle, mermaid, princess, safari, spider-man, superhero, travel, unicorn
+occassions: json array from this list - anniversary, baby-announcement, baby-shower, birthday, bon-voyage, bridal-shower, corporate, engagement-wedding, first-birthday, first-birthday-boy, first-birthday-girl, half-birthday, smash-cake
+colours - identify the top colour from the photo theme
+keywors - json array - generate two are three keywords suitable for the image
+dateAdded - todays date in "yyyy-MM-dd" format
+id - file name with extension
+additional - it can be a paragraph describing the image in 4 to 5lines
+flavours,styles,featured, - keep constant as in the prompt, no change

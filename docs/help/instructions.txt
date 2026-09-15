@@ -1,0 +1,29 @@
+after downloading/unzipping the images into a folder
+	we need to have three files
+		1. convert.py, 2. transform_json.py and 3. prompt 4.data.json
+
+1. data.json -> generate JSON array using the prompt, little bit manual efforts here
+	file name should be: data.json
+2. then run - "python3 convert.py"
+	it will convert the pngs to webp
+3. now copy these webp files to	src/assets/images/cakes/ of purebakes-v2 repo
+	# cp *.webp ~/github/purebakes-v2/src/assets/images/cakes
+4. from the repo root run
+	# npm run gallery:add -> this will generate new josn file like src/_data/gallery/2026-09.starter.json
+5. now note the first id from the newly generated json, it will be like "cake-0473"
+	then run "python3 transform_json.py cake-0473"
+	this will generate "output.json"
+6. now replace the newly generated json file in step 4 with output.json content
+	# change the destinatin file name once
+	# cp output.json ~/github/purebakes-v2/src/_data/gallery/2026-09.json
+7. quick check the changes with
+	npm run gallery:validate
+	npm run build
+	npm run dev
+9. Final validate and build
+		npm run gallery:validate
+		npm run gallery:stats
+		npm test
+10. review the changs and push
+	git status --short
+	git diff -- src/_data/gallery/
